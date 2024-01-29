@@ -1,0 +1,14 @@
+C:\Users\Luca D'Aprano\source\repos\Do While Loops\Do While Loops\bin\Debug\net6.0\Do While Loops.exe
+C:\Users\Luca D'Aprano\source\repos\Do While Loops\Do While Loops\bin\Debug\net6.0\Do While Loops.deps.json
+C:\Users\Luca D'Aprano\source\repos\Do While Loops\Do While Loops\bin\Debug\net6.0\Do While Loops.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\Do While Loops\Do While Loops\bin\Debug\net6.0\Do While Loops.dll
+C:\Users\Luca D'Aprano\source\repos\Do While Loops\Do While Loops\bin\Debug\net6.0\Do While Loops.pdb
+C:\Users\Luca D'Aprano\source\repos\Do While Loops\Do While Loops\obj\Debug\net6.0\Do While Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\Do While Loops\Do While Loops\obj\Debug\net6.0\Do While Loops.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Do While Loops\Do While Loops\obj\Debug\net6.0\Do While Loops.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\Do While Loops\Do While Loops\obj\Debug\net6.0\Do While Loops.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Do While Loops\Do While Loops\obj\Debug\net6.0\Do While Loops.dll
+C:\Users\Luca D'Aprano\source\repos\Do While Loops\Do While Loops\obj\Debug\net6.0\refint\Do While Loops.dll
+C:\Users\Luca D'Aprano\source\repos\Do While Loops\Do While Loops\obj\Debug\net6.0\Do While Loops.pdb
+C:\Users\Luca D'Aprano\source\repos\Do While Loops\Do While Loops\obj\Debug\net6.0\Do While Loops.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\Do While Loops\Do While Loops\obj\Debug\net6.0\ref\Do While Loops.dll

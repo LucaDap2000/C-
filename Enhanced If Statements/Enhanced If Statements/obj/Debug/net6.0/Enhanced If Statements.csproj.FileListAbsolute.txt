@@ -1,0 +1,14 @@
+C:\Users\Luca D'Aprano\source\repos\Enhanced If Statements\Enhanced If Statements\bin\Debug\net6.0\Enhanced If Statements.exe
+C:\Users\Luca D'Aprano\source\repos\Enhanced If Statements\Enhanced If Statements\bin\Debug\net6.0\Enhanced If Statements.deps.json
+C:\Users\Luca D'Aprano\source\repos\Enhanced If Statements\Enhanced If Statements\bin\Debug\net6.0\Enhanced If Statements.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\Enhanced If Statements\Enhanced If Statements\bin\Debug\net6.0\Enhanced If Statements.dll
+C:\Users\Luca D'Aprano\source\repos\Enhanced If Statements\Enhanced If Statements\bin\Debug\net6.0\Enhanced If Statements.pdb
+C:\Users\Luca D'Aprano\source\repos\Enhanced If Statements\Enhanced If Statements\obj\Debug\net6.0\Enhanced If Statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\Enhanced If Statements\Enhanced If Statements\obj\Debug\net6.0\Enhanced If Statements.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Enhanced If Statements\Enhanced If Statements\obj\Debug\net6.0\Enhanced If Statements.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\Enhanced If Statements\Enhanced If Statements\obj\Debug\net6.0\Enhanced If Statements.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Enhanced If Statements\Enhanced If Statements\obj\Debug\net6.0\Enhanced If Statements.dll
+C:\Users\Luca D'Aprano\source\repos\Enhanced If Statements\Enhanced If Statements\obj\Debug\net6.0\refint\Enhanced If Statements.dll
+C:\Users\Luca D'Aprano\source\repos\Enhanced If Statements\Enhanced If Statements\obj\Debug\net6.0\Enhanced If Statements.pdb
+C:\Users\Luca D'Aprano\source\repos\Enhanced If Statements\Enhanced If Statements\obj\Debug\net6.0\Enhanced If Statements.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\Enhanced If Statements\Enhanced If Statements\obj\Debug\net6.0\ref\Enhanced If Statements.dll
