@@ -1,0 +1,14 @@
+C:\Users\LucaD'Aprano\source\repos\Userinput\Userinput\bin\Debug\net6.0\Userinput.exe
+C:\Users\LucaD'Aprano\source\repos\Userinput\Userinput\bin\Debug\net6.0\Userinput.deps.json
+C:\Users\LucaD'Aprano\source\repos\Userinput\Userinput\bin\Debug\net6.0\Userinput.runtimeconfig.json
+C:\Users\LucaD'Aprano\source\repos\Userinput\Userinput\bin\Debug\net6.0\Userinput.dll
+C:\Users\LucaD'Aprano\source\repos\Userinput\Userinput\bin\Debug\net6.0\Userinput.pdb
+C:\Users\LucaD'Aprano\source\repos\Userinput\Userinput\obj\Debug\net6.0\Userinput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucaD'Aprano\source\repos\Userinput\Userinput\obj\Debug\net6.0\Userinput.AssemblyInfoInputs.cache
+C:\Users\LucaD'Aprano\source\repos\Userinput\Userinput\obj\Debug\net6.0\Userinput.AssemblyInfo.cs
+C:\Users\LucaD'Aprano\source\repos\Userinput\Userinput\obj\Debug\net6.0\Userinput.csproj.CoreCompileInputs.cache
+C:\Users\LucaD'Aprano\source\repos\Userinput\Userinput\obj\Debug\net6.0\Userinput.dll
+C:\Users\LucaD'Aprano\source\repos\Userinput\Userinput\obj\Debug\net6.0\refint\Userinput.dll
+C:\Users\LucaD'Aprano\source\repos\Userinput\Userinput\obj\Debug\net6.0\Userinput.pdb
+C:\Users\LucaD'Aprano\source\repos\Userinput\Userinput\obj\Debug\net6.0\Userinput.genruntimeconfig.cache
+C:\Users\LucaD'Aprano\source\repos\Userinput\Userinput\obj\Debug\net6.0\ref\Userinput.dll
