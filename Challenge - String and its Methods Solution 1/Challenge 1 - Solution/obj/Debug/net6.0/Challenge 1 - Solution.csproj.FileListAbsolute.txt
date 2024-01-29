@@ -1,0 +1,14 @@
+C:\Users\LucaD'Aprano\source\repos\Challenge 1 - Solution\Challenge 1 - Solution\bin\Debug\net6.0\Challenge 1 - Solution.exe
+C:\Users\LucaD'Aprano\source\repos\Challenge 1 - Solution\Challenge 1 - Solution\bin\Debug\net6.0\Challenge 1 - Solution.deps.json
+C:\Users\LucaD'Aprano\source\repos\Challenge 1 - Solution\Challenge 1 - Solution\bin\Debug\net6.0\Challenge 1 - Solution.runtimeconfig.json
+C:\Users\LucaD'Aprano\source\repos\Challenge 1 - Solution\Challenge 1 - Solution\bin\Debug\net6.0\Challenge 1 - Solution.dll
+C:\Users\LucaD'Aprano\source\repos\Challenge 1 - Solution\Challenge 1 - Solution\bin\Debug\net6.0\Challenge 1 - Solution.pdb
+C:\Users\LucaD'Aprano\source\repos\Challenge 1 - Solution\Challenge 1 - Solution\obj\Debug\net6.0\Challenge 1 - Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucaD'Aprano\source\repos\Challenge 1 - Solution\Challenge 1 - Solution\obj\Debug\net6.0\Challenge 1 - Solution.AssemblyInfoInputs.cache
+C:\Users\LucaD'Aprano\source\repos\Challenge 1 - Solution\Challenge 1 - Solution\obj\Debug\net6.0\Challenge 1 - Solution.AssemblyInfo.cs
+C:\Users\LucaD'Aprano\source\repos\Challenge 1 - Solution\Challenge 1 - Solution\obj\Debug\net6.0\Challenge 1 - Solution.csproj.CoreCompileInputs.cache
+C:\Users\LucaD'Aprano\source\repos\Challenge 1 - Solution\Challenge 1 - Solution\obj\Debug\net6.0\Challenge 1 - Solution.dll
+C:\Users\LucaD'Aprano\source\repos\Challenge 1 - Solution\Challenge 1 - Solution\obj\Debug\net6.0\refint\Challenge 1 - Solution.dll
+C:\Users\LucaD'Aprano\source\repos\Challenge 1 - Solution\Challenge 1 - Solution\obj\Debug\net6.0\Challenge 1 - Solution.pdb
+C:\Users\LucaD'Aprano\source\repos\Challenge 1 - Solution\Challenge 1 - Solution\obj\Debug\net6.0\Challenge 1 - Solution.genruntimeconfig.cache
+C:\Users\LucaD'Aprano\source\repos\Challenge 1 - Solution\Challenge 1 - Solution\obj\Debug\net6.0\ref\Challenge 1 - Solution.dll

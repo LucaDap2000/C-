@@ -1,0 +1,14 @@
+C:\Users\Luca D'Aprano\source\repos\Challenge If 2 - Solution\Challenge If 2 - Solution\bin\Debug\net6.0\Challenge If 2 - Solution.exe
+C:\Users\Luca D'Aprano\source\repos\Challenge If 2 - Solution\Challenge If 2 - Solution\bin\Debug\net6.0\Challenge If 2 - Solution.deps.json
+C:\Users\Luca D'Aprano\source\repos\Challenge If 2 - Solution\Challenge If 2 - Solution\bin\Debug\net6.0\Challenge If 2 - Solution.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\Challenge If 2 - Solution\Challenge If 2 - Solution\bin\Debug\net6.0\Challenge If 2 - Solution.dll
+C:\Users\Luca D'Aprano\source\repos\Challenge If 2 - Solution\Challenge If 2 - Solution\bin\Debug\net6.0\Challenge If 2 - Solution.pdb
+C:\Users\Luca D'Aprano\source\repos\Challenge If 2 - Solution\Challenge If 2 - Solution\obj\Debug\net6.0\Challenge If 2 - Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\Challenge If 2 - Solution\Challenge If 2 - Solution\obj\Debug\net6.0\Challenge If 2 - Solution.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Challenge If 2 - Solution\Challenge If 2 - Solution\obj\Debug\net6.0\Challenge If 2 - Solution.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\Challenge If 2 - Solution\Challenge If 2 - Solution\obj\Debug\net6.0\Challenge If 2 - Solution.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Challenge If 2 - Solution\Challenge If 2 - Solution\obj\Debug\net6.0\Challenge If 2 - Solution.dll
+C:\Users\Luca D'Aprano\source\repos\Challenge If 2 - Solution\Challenge If 2 - Solution\obj\Debug\net6.0\refint\Challenge If 2 - Solution.dll
+C:\Users\Luca D'Aprano\source\repos\Challenge If 2 - Solution\Challenge If 2 - Solution\obj\Debug\net6.0\Challenge If 2 - Solution.pdb
+C:\Users\Luca D'Aprano\source\repos\Challenge If 2 - Solution\Challenge If 2 - Solution\obj\Debug\net6.0\Challenge If 2 - Solution.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\Challenge If 2 - Solution\Challenge If 2 - Solution\obj\Debug\net6.0\ref\Challenge If 2 - Solution.dll

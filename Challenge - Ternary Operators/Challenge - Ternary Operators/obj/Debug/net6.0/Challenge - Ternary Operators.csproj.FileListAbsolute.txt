@@ -1,0 +1,14 @@
+C:\Users\Luca D'Aprano\source\repos\Challenge - Ternary Operators\Challenge - Ternary Operators\bin\Debug\net6.0\Challenge - Ternary Operators.exe
+C:\Users\Luca D'Aprano\source\repos\Challenge - Ternary Operators\Challenge - Ternary Operators\bin\Debug\net6.0\Challenge - Ternary Operators.deps.json
+C:\Users\Luca D'Aprano\source\repos\Challenge - Ternary Operators\Challenge - Ternary Operators\bin\Debug\net6.0\Challenge - Ternary Operators.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\Challenge - Ternary Operators\Challenge - Ternary Operators\bin\Debug\net6.0\Challenge - Ternary Operators.dll
+C:\Users\Luca D'Aprano\source\repos\Challenge - Ternary Operators\Challenge - Ternary Operators\bin\Debug\net6.0\Challenge - Ternary Operators.pdb
+C:\Users\Luca D'Aprano\source\repos\Challenge - Ternary Operators\Challenge - Ternary Operators\obj\Debug\net6.0\Challenge - Ternary Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\Challenge - Ternary Operators\Challenge - Ternary Operators\obj\Debug\net6.0\Challenge - Ternary Operators.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Challenge - Ternary Operators\Challenge - Ternary Operators\obj\Debug\net6.0\Challenge - Ternary Operators.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\Challenge - Ternary Operators\Challenge - Ternary Operators\obj\Debug\net6.0\Challenge - Ternary Operators.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Challenge - Ternary Operators\Challenge - Ternary Operators\obj\Debug\net6.0\Challenge - Ternary Operators.dll
+C:\Users\Luca D'Aprano\source\repos\Challenge - Ternary Operators\Challenge - Ternary Operators\obj\Debug\net6.0\refint\Challenge - Ternary Operators.dll
+C:\Users\Luca D'Aprano\source\repos\Challenge - Ternary Operators\Challenge - Ternary Operators\obj\Debug\net6.0\Challenge - Ternary Operators.pdb
+C:\Users\Luca D'Aprano\source\repos\Challenge - Ternary Operators\Challenge - Ternary Operators\obj\Debug\net6.0\Challenge - Ternary Operators.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\Challenge - Ternary Operators\Challenge - Ternary Operators\obj\Debug\net6.0\ref\Challenge - Ternary Operators.dll
