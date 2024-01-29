@@ -1,0 +1,14 @@
+C:\Users\Luca D'Aprano\source\repos\Challenge - Hashtables\Challenge - Hashtables\bin\Debug\net6.0\Challenge - Hashtables.exe
+C:\Users\Luca D'Aprano\source\repos\Challenge - Hashtables\Challenge - Hashtables\bin\Debug\net6.0\Challenge - Hashtables.deps.json
+C:\Users\Luca D'Aprano\source\repos\Challenge - Hashtables\Challenge - Hashtables\bin\Debug\net6.0\Challenge - Hashtables.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\Challenge - Hashtables\Challenge - Hashtables\bin\Debug\net6.0\Challenge - Hashtables.dll
+C:\Users\Luca D'Aprano\source\repos\Challenge - Hashtables\Challenge - Hashtables\bin\Debug\net6.0\Challenge - Hashtables.pdb
+C:\Users\Luca D'Aprano\source\repos\Challenge - Hashtables\Challenge - Hashtables\obj\Debug\net6.0\Challenge - Hashtables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\Challenge - Hashtables\Challenge - Hashtables\obj\Debug\net6.0\Challenge - Hashtables.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Challenge - Hashtables\Challenge - Hashtables\obj\Debug\net6.0\Challenge - Hashtables.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\Challenge - Hashtables\Challenge - Hashtables\obj\Debug\net6.0\Challenge - Hashtables.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Challenge - Hashtables\Challenge - Hashtables\obj\Debug\net6.0\Challenge - Hashtables.dll
+C:\Users\Luca D'Aprano\source\repos\Challenge - Hashtables\Challenge - Hashtables\obj\Debug\net6.0\refint\Challenge - Hashtables.dll
+C:\Users\Luca D'Aprano\source\repos\Challenge - Hashtables\Challenge - Hashtables\obj\Debug\net6.0\Challenge - Hashtables.pdb
+C:\Users\Luca D'Aprano\source\repos\Challenge - Hashtables\Challenge - Hashtables\obj\Debug\net6.0\Challenge - Hashtables.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\Challenge - Hashtables\Challenge - Hashtables\obj\Debug\net6.0\ref\Challenge - Hashtables.dll
