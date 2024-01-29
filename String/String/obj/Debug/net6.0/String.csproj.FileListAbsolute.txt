@@ -1,0 +1,28 @@
+C:\Users\LucaD'Aprano\source\repos\String\String\bin\Debug\net6.0\String.exe
+C:\Users\LucaD'Aprano\source\repos\String\String\bin\Debug\net6.0\String.deps.json
+C:\Users\LucaD'Aprano\source\repos\String\String\bin\Debug\net6.0\String.runtimeconfig.json
+C:\Users\LucaD'Aprano\source\repos\String\String\bin\Debug\net6.0\String.dll
+C:\Users\LucaD'Aprano\source\repos\String\String\bin\Debug\net6.0\String.pdb
+C:\Users\LucaD'Aprano\source\repos\String\String\obj\Debug\net6.0\String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucaD'Aprano\source\repos\String\String\obj\Debug\net6.0\String.AssemblyInfoInputs.cache
+C:\Users\LucaD'Aprano\source\repos\String\String\obj\Debug\net6.0\String.AssemblyInfo.cs
+C:\Users\LucaD'Aprano\source\repos\String\String\obj\Debug\net6.0\String.csproj.CoreCompileInputs.cache
+C:\Users\LucaD'Aprano\source\repos\String\String\obj\Debug\net6.0\String.dll
+C:\Users\LucaD'Aprano\source\repos\String\String\obj\Debug\net6.0\refint\String.dll
+C:\Users\LucaD'Aprano\source\repos\String\String\obj\Debug\net6.0\String.pdb
+C:\Users\LucaD'Aprano\source\repos\String\String\obj\Debug\net6.0\String.genruntimeconfig.cache
+C:\Users\LucaD'Aprano\source\repos\String\String\obj\Debug\net6.0\ref\String.dll
+C:\Users\Luca D'Aprano\source\repos\String\String\bin\Debug\net6.0\String.exe
+C:\Users\Luca D'Aprano\source\repos\String\String\bin\Debug\net6.0\String.deps.json
+C:\Users\Luca D'Aprano\source\repos\String\String\bin\Debug\net6.0\String.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\String\String\bin\Debug\net6.0\String.dll
+C:\Users\Luca D'Aprano\source\repos\String\String\bin\Debug\net6.0\String.pdb
+C:\Users\Luca D'Aprano\source\repos\String\String\obj\Debug\net6.0\String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\String\String\obj\Debug\net6.0\String.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\String\String\obj\Debug\net6.0\String.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\String\String\obj\Debug\net6.0\String.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\String\String\obj\Debug\net6.0\String.dll
+C:\Users\Luca D'Aprano\source\repos\String\String\obj\Debug\net6.0\refint\String.dll
+C:\Users\Luca D'Aprano\source\repos\String\String\obj\Debug\net6.0\String.pdb
+C:\Users\Luca D'Aprano\source\repos\String\String\obj\Debug\net6.0\String.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\String\String\obj\Debug\net6.0\ref\String.dll
