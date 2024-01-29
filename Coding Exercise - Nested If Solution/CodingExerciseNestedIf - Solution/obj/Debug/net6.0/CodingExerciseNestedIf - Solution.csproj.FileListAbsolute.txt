@@ -1,0 +1,14 @@
+C:\Users\LucaD'Aprano\source\repos\CodingExerciseNestedIf - Solution\CodingExerciseNestedIf - Solution\bin\Debug\net6.0\CodingExerciseNestedIf - Solution.exe
+C:\Users\LucaD'Aprano\source\repos\CodingExerciseNestedIf - Solution\CodingExerciseNestedIf - Solution\bin\Debug\net6.0\CodingExerciseNestedIf - Solution.deps.json
+C:\Users\LucaD'Aprano\source\repos\CodingExerciseNestedIf - Solution\CodingExerciseNestedIf - Solution\bin\Debug\net6.0\CodingExerciseNestedIf - Solution.runtimeconfig.json
+C:\Users\LucaD'Aprano\source\repos\CodingExerciseNestedIf - Solution\CodingExerciseNestedIf - Solution\bin\Debug\net6.0\CodingExerciseNestedIf - Solution.dll
+C:\Users\LucaD'Aprano\source\repos\CodingExerciseNestedIf - Solution\CodingExerciseNestedIf - Solution\bin\Debug\net6.0\CodingExerciseNestedIf - Solution.pdb
+C:\Users\LucaD'Aprano\source\repos\CodingExerciseNestedIf - Solution\CodingExerciseNestedIf - Solution\obj\Debug\net6.0\CodingExerciseNestedIf - Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucaD'Aprano\source\repos\CodingExerciseNestedIf - Solution\CodingExerciseNestedIf - Solution\obj\Debug\net6.0\CodingExerciseNestedIf - Solution.AssemblyInfoInputs.cache
+C:\Users\LucaD'Aprano\source\repos\CodingExerciseNestedIf - Solution\CodingExerciseNestedIf - Solution\obj\Debug\net6.0\CodingExerciseNestedIf - Solution.AssemblyInfo.cs
+C:\Users\LucaD'Aprano\source\repos\CodingExerciseNestedIf - Solution\CodingExerciseNestedIf - Solution\obj\Debug\net6.0\CodingExerciseNestedIf - Solution.csproj.CoreCompileInputs.cache
+C:\Users\LucaD'Aprano\source\repos\CodingExerciseNestedIf - Solution\CodingExerciseNestedIf - Solution\obj\Debug\net6.0\CodingExerciseNestedIf - Solution.dll
+C:\Users\LucaD'Aprano\source\repos\CodingExerciseNestedIf - Solution\CodingExerciseNestedIf - Solution\obj\Debug\net6.0\refint\CodingExerciseNestedIf - Solution.dll
+C:\Users\LucaD'Aprano\source\repos\CodingExerciseNestedIf - Solution\CodingExerciseNestedIf - Solution\obj\Debug\net6.0\CodingExerciseNestedIf - Solution.pdb
+C:\Users\LucaD'Aprano\source\repos\CodingExerciseNestedIf - Solution\CodingExerciseNestedIf - Solution\obj\Debug\net6.0\CodingExerciseNestedIf - Solution.genruntimeconfig.cache
+C:\Users\LucaD'Aprano\source\repos\CodingExerciseNestedIf - Solution\CodingExerciseNestedIf - Solution\obj\Debug\net6.0\ref\CodingExerciseNestedIf - Solution.dll

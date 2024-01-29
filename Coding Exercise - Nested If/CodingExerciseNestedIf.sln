@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingExerciseNestedIf", "CodingExerciseNestedIf\CodingExerciseNestedIf.csproj", "{093478ED-5C70-4801-8C5C-3EB6EBE8B6C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{093478ED-5C70-4801-8C5C-3EB6EBE8B6C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{093478ED-5C70-4801-8C5C-3EB6EBE8B6C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{093478ED-5C70-4801-8C5C-3EB6EBE8B6C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{093478ED-5C70-4801-8C5C-3EB6EBE8B6C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C764D4A2-840D-4363-A6D7-492E71ECA929}
+	EndGlobalSection
+EndGlobal
