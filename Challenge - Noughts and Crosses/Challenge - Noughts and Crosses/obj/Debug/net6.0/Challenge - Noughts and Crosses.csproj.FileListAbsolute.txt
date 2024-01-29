@@ -1,0 +1,14 @@
+C:\Users\Luca D'Aprano\source\repos\Challenge - Noughts and Crosses\Challenge - Noughts and Crosses\bin\Debug\net6.0\Challenge - Noughts and Crosses.exe
+C:\Users\Luca D'Aprano\source\repos\Challenge - Noughts and Crosses\Challenge - Noughts and Crosses\bin\Debug\net6.0\Challenge - Noughts and Crosses.deps.json
+C:\Users\Luca D'Aprano\source\repos\Challenge - Noughts and Crosses\Challenge - Noughts and Crosses\bin\Debug\net6.0\Challenge - Noughts and Crosses.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\Challenge - Noughts and Crosses\Challenge - Noughts and Crosses\bin\Debug\net6.0\Challenge - Noughts and Crosses.dll
+C:\Users\Luca D'Aprano\source\repos\Challenge - Noughts and Crosses\Challenge - Noughts and Crosses\bin\Debug\net6.0\Challenge - Noughts and Crosses.pdb
+C:\Users\Luca D'Aprano\source\repos\Challenge - Noughts and Crosses\Challenge - Noughts and Crosses\obj\Debug\net6.0\Challenge - Noughts and Crosses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\Challenge - Noughts and Crosses\Challenge - Noughts and Crosses\obj\Debug\net6.0\Challenge - Noughts and Crosses.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Challenge - Noughts and Crosses\Challenge - Noughts and Crosses\obj\Debug\net6.0\Challenge - Noughts and Crosses.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\Challenge - Noughts and Crosses\Challenge - Noughts and Crosses\obj\Debug\net6.0\Challenge - Noughts and Crosses.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Challenge - Noughts and Crosses\Challenge - Noughts and Crosses\obj\Debug\net6.0\Challenge - Noughts and Crosses.dll
+C:\Users\Luca D'Aprano\source\repos\Challenge - Noughts and Crosses\Challenge - Noughts and Crosses\obj\Debug\net6.0\refint\Challenge - Noughts and Crosses.dll
+C:\Users\Luca D'Aprano\source\repos\Challenge - Noughts and Crosses\Challenge - Noughts and Crosses\obj\Debug\net6.0\Challenge - Noughts and Crosses.pdb
+C:\Users\Luca D'Aprano\source\repos\Challenge - Noughts and Crosses\Challenge - Noughts and Crosses\obj\Debug\net6.0\Challenge - Noughts and Crosses.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\Challenge - Noughts and Crosses\Challenge - Noughts and Crosses\obj\Debug\net6.0\ref\Challenge - Noughts and Crosses.dll

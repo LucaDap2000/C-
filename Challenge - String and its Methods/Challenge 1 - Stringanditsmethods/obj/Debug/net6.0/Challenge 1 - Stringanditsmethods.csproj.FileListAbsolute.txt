@@ -1,0 +1,14 @@
+C:\Users\LucaD'Aprano\source\repos\Challenge 1 - Stringanditsmethods\Challenge 1 - Stringanditsmethods\obj\Debug\net6.0\Challenge 1 - Stringanditsmethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucaD'Aprano\source\repos\Challenge 1 - Stringanditsmethods\Challenge 1 - Stringanditsmethods\obj\Debug\net6.0\Challenge 1 - Stringanditsmethods.AssemblyInfoInputs.cache
+C:\Users\LucaD'Aprano\source\repos\Challenge 1 - Stringanditsmethods\Challenge 1 - Stringanditsmethods\obj\Debug\net6.0\Challenge 1 - Stringanditsmethods.AssemblyInfo.cs
+C:\Users\LucaD'Aprano\source\repos\Challenge 1 - Stringanditsmethods\Challenge 1 - Stringanditsmethods\obj\Debug\net6.0\Challenge 1 - Stringanditsmethods.csproj.CoreCompileInputs.cache
+C:\Users\LucaD'Aprano\source\repos\Challenge 1 - Stringanditsmethods\Challenge 1 - Stringanditsmethods\bin\Debug\net6.0\Challenge 1 - Stringanditsmethods.exe
+C:\Users\LucaD'Aprano\source\repos\Challenge 1 - Stringanditsmethods\Challenge 1 - Stringanditsmethods\bin\Debug\net6.0\Challenge 1 - Stringanditsmethods.deps.json
+C:\Users\LucaD'Aprano\source\repos\Challenge 1 - Stringanditsmethods\Challenge 1 - Stringanditsmethods\bin\Debug\net6.0\Challenge 1 - Stringanditsmethods.runtimeconfig.json
+C:\Users\LucaD'Aprano\source\repos\Challenge 1 - Stringanditsmethods\Challenge 1 - Stringanditsmethods\bin\Debug\net6.0\Challenge 1 - Stringanditsmethods.dll
+C:\Users\LucaD'Aprano\source\repos\Challenge 1 - Stringanditsmethods\Challenge 1 - Stringanditsmethods\bin\Debug\net6.0\Challenge 1 - Stringanditsmethods.pdb
+C:\Users\LucaD'Aprano\source\repos\Challenge 1 - Stringanditsmethods\Challenge 1 - Stringanditsmethods\obj\Debug\net6.0\Challenge 1 - Stringanditsmethods.dll
+C:\Users\LucaD'Aprano\source\repos\Challenge 1 - Stringanditsmethods\Challenge 1 - Stringanditsmethods\obj\Debug\net6.0\refint\Challenge 1 - Stringanditsmethods.dll
+C:\Users\LucaD'Aprano\source\repos\Challenge 1 - Stringanditsmethods\Challenge 1 - Stringanditsmethods\obj\Debug\net6.0\Challenge 1 - Stringanditsmethods.pdb
+C:\Users\LucaD'Aprano\source\repos\Challenge 1 - Stringanditsmethods\Challenge 1 - Stringanditsmethods\obj\Debug\net6.0\Challenge 1 - Stringanditsmethods.genruntimeconfig.cache
+C:\Users\LucaD'Aprano\source\repos\Challenge 1 - Stringanditsmethods\Challenge 1 - Stringanditsmethods\obj\Debug\net6.0\ref\Challenge 1 - Stringanditsmethods.dll

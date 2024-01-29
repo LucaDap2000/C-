@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge 1 - Stringanditsmethods", "Challenge 1 - Stringanditsmethods\Challenge 1 - Stringanditsmethods.csproj", "{446BA9C8-DFB9-4327-81A3-087C213BF0AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{446BA9C8-DFB9-4327-81A3-087C213BF0AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{446BA9C8-DFB9-4327-81A3-087C213BF0AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{446BA9C8-DFB9-4327-81A3-087C213BF0AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{446BA9C8-DFB9-4327-81A3-087C213BF0AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDC8845F-01AF-4F88-A519-C981D20D0BB8}
+	EndGlobalSection
+EndGlobal

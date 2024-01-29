@@ -1,0 +1,14 @@
+C:\Users\LucaD'Aprano\source\repos\Challenge 2 - Stringsanditsmethods\Challenge 2 - Stringsanditsmethods\bin\Debug\net6.0\Challenge 2 - Stringsanditsmethods.exe
+C:\Users\LucaD'Aprano\source\repos\Challenge 2 - Stringsanditsmethods\Challenge 2 - Stringsanditsmethods\bin\Debug\net6.0\Challenge 2 - Stringsanditsmethods.deps.json
+C:\Users\LucaD'Aprano\source\repos\Challenge 2 - Stringsanditsmethods\Challenge 2 - Stringsanditsmethods\bin\Debug\net6.0\Challenge 2 - Stringsanditsmethods.runtimeconfig.json
+C:\Users\LucaD'Aprano\source\repos\Challenge 2 - Stringsanditsmethods\Challenge 2 - Stringsanditsmethods\bin\Debug\net6.0\Challenge 2 - Stringsanditsmethods.dll
+C:\Users\LucaD'Aprano\source\repos\Challenge 2 - Stringsanditsmethods\Challenge 2 - Stringsanditsmethods\bin\Debug\net6.0\Challenge 2 - Stringsanditsmethods.pdb
+C:\Users\LucaD'Aprano\source\repos\Challenge 2 - Stringsanditsmethods\Challenge 2 - Stringsanditsmethods\obj\Debug\net6.0\Challenge 2 - Stringsanditsmethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucaD'Aprano\source\repos\Challenge 2 - Stringsanditsmethods\Challenge 2 - Stringsanditsmethods\obj\Debug\net6.0\Challenge 2 - Stringsanditsmethods.AssemblyInfoInputs.cache
+C:\Users\LucaD'Aprano\source\repos\Challenge 2 - Stringsanditsmethods\Challenge 2 - Stringsanditsmethods\obj\Debug\net6.0\Challenge 2 - Stringsanditsmethods.AssemblyInfo.cs
+C:\Users\LucaD'Aprano\source\repos\Challenge 2 - Stringsanditsmethods\Challenge 2 - Stringsanditsmethods\obj\Debug\net6.0\Challenge 2 - Stringsanditsmethods.csproj.CoreCompileInputs.cache
+C:\Users\LucaD'Aprano\source\repos\Challenge 2 - Stringsanditsmethods\Challenge 2 - Stringsanditsmethods\obj\Debug\net6.0\Challenge 2 - Stringsanditsmethods.dll
+C:\Users\LucaD'Aprano\source\repos\Challenge 2 - Stringsanditsmethods\Challenge 2 - Stringsanditsmethods\obj\Debug\net6.0\refint\Challenge 2 - Stringsanditsmethods.dll
+C:\Users\LucaD'Aprano\source\repos\Challenge 2 - Stringsanditsmethods\Challenge 2 - Stringsanditsmethods\obj\Debug\net6.0\Challenge 2 - Stringsanditsmethods.pdb
+C:\Users\LucaD'Aprano\source\repos\Challenge 2 - Stringsanditsmethods\Challenge 2 - Stringsanditsmethods\obj\Debug\net6.0\Challenge 2 - Stringsanditsmethods.genruntimeconfig.cache
+C:\Users\LucaD'Aprano\source\repos\Challenge 2 - Stringsanditsmethods\Challenge 2 - Stringsanditsmethods\obj\Debug\net6.0\ref\Challenge 2 - Stringsanditsmethods.dll
