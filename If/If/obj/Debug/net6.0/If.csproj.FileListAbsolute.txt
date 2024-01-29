@@ -1,0 +1,14 @@
+C:\Users\LucaD'Aprano\source\repos\If\If\bin\Debug\net6.0\If.exe
+C:\Users\LucaD'Aprano\source\repos\If\If\bin\Debug\net6.0\If.deps.json
+C:\Users\LucaD'Aprano\source\repos\If\If\bin\Debug\net6.0\If.runtimeconfig.json
+C:\Users\LucaD'Aprano\source\repos\If\If\bin\Debug\net6.0\If.dll
+C:\Users\LucaD'Aprano\source\repos\If\If\bin\Debug\net6.0\If.pdb
+C:\Users\LucaD'Aprano\source\repos\If\If\obj\Debug\net6.0\If.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucaD'Aprano\source\repos\If\If\obj\Debug\net6.0\If.AssemblyInfoInputs.cache
+C:\Users\LucaD'Aprano\source\repos\If\If\obj\Debug\net6.0\If.AssemblyInfo.cs
+C:\Users\LucaD'Aprano\source\repos\If\If\obj\Debug\net6.0\If.csproj.CoreCompileInputs.cache
+C:\Users\LucaD'Aprano\source\repos\If\If\obj\Debug\net6.0\If.dll
+C:\Users\LucaD'Aprano\source\repos\If\If\obj\Debug\net6.0\refint\If.dll
+C:\Users\LucaD'Aprano\source\repos\If\If\obj\Debug\net6.0\If.pdb
+C:\Users\LucaD'Aprano\source\repos\If\If\obj\Debug\net6.0\If.genruntimeconfig.cache
+C:\Users\LucaD'Aprano\source\repos\If\If\obj\Debug\net6.0\ref\If.dll

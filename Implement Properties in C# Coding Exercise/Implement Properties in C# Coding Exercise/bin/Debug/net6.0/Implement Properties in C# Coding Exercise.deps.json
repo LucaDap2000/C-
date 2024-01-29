@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Implement Properties in C# Coding Exercise/1.0.0": {
+        "runtime": {
+          "Implement Properties in C# Coding Exercise.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Implement Properties in C# Coding Exercise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

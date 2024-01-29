@@ -1,0 +1,14 @@
+C:\Users\Luca D'Aprano\source\repos\Implement Properties in C# Coding Exercise\Implement Properties in C# Coding Exercise\bin\Debug\net6.0\Implement Properties in C# Coding Exercise.exe
+C:\Users\Luca D'Aprano\source\repos\Implement Properties in C# Coding Exercise\Implement Properties in C# Coding Exercise\bin\Debug\net6.0\Implement Properties in C# Coding Exercise.deps.json
+C:\Users\Luca D'Aprano\source\repos\Implement Properties in C# Coding Exercise\Implement Properties in C# Coding Exercise\bin\Debug\net6.0\Implement Properties in C# Coding Exercise.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\Implement Properties in C# Coding Exercise\Implement Properties in C# Coding Exercise\bin\Debug\net6.0\Implement Properties in C# Coding Exercise.dll
+C:\Users\Luca D'Aprano\source\repos\Implement Properties in C# Coding Exercise\Implement Properties in C# Coding Exercise\bin\Debug\net6.0\Implement Properties in C# Coding Exercise.pdb
+C:\Users\Luca D'Aprano\source\repos\Implement Properties in C# Coding Exercise\Implement Properties in C# Coding Exercise\obj\Debug\net6.0\Implement Properties in C# Coding Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\Implement Properties in C# Coding Exercise\Implement Properties in C# Coding Exercise\obj\Debug\net6.0\Implement Properties in C# Coding Exercise.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Implement Properties in C# Coding Exercise\Implement Properties in C# Coding Exercise\obj\Debug\net6.0\Implement Properties in C# Coding Exercise.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\Implement Properties in C# Coding Exercise\Implement Properties in C# Coding Exercise\obj\Debug\net6.0\Implement Properties in C# Coding Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Implement Properties in C# Coding Exercise\Implement Properties in C# Coding Exercise\obj\Debug\net6.0\Implement Properties in C# Coding Exercise.dll
+C:\Users\Luca D'Aprano\source\repos\Implement Properties in C# Coding Exercise\Implement Properties in C# Coding Exercise\obj\Debug\net6.0\refint\Implement Properties in C# Coding Exercise.dll
+C:\Users\Luca D'Aprano\source\repos\Implement Properties in C# Coding Exercise\Implement Properties in C# Coding Exercise\obj\Debug\net6.0\Implement Properties in C# Coding Exercise.pdb
+C:\Users\Luca D'Aprano\source\repos\Implement Properties in C# Coding Exercise\Implement Properties in C# Coding Exercise\obj\Debug\net6.0\Implement Properties in C# Coding Exercise.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\Implement Properties in C# Coding Exercise\Implement Properties in C# Coding Exercise\obj\Debug\net6.0\ref\Implement Properties in C# Coding Exercise.dll
