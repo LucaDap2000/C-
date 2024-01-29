@@ -1,0 +1,14 @@
+C:\Users\Luca D'Aprano\source\repos\Initialising Arrays\Initialising Arrays\bin\Debug\net6.0\Initialising Arrays.exe
+C:\Users\Luca D'Aprano\source\repos\Initialising Arrays\Initialising Arrays\bin\Debug\net6.0\Initialising Arrays.deps.json
+C:\Users\Luca D'Aprano\source\repos\Initialising Arrays\Initialising Arrays\bin\Debug\net6.0\Initialising Arrays.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\Initialising Arrays\Initialising Arrays\bin\Debug\net6.0\Initialising Arrays.dll
+C:\Users\Luca D'Aprano\source\repos\Initialising Arrays\Initialising Arrays\bin\Debug\net6.0\Initialising Arrays.pdb
+C:\Users\Luca D'Aprano\source\repos\Initialising Arrays\Initialising Arrays\obj\Debug\net6.0\Initialising Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\Initialising Arrays\Initialising Arrays\obj\Debug\net6.0\Initialising Arrays.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Initialising Arrays\Initialising Arrays\obj\Debug\net6.0\Initialising Arrays.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\Initialising Arrays\Initialising Arrays\obj\Debug\net6.0\Initialising Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Initialising Arrays\Initialising Arrays\obj\Debug\net6.0\Initialising Arrays.dll
+C:\Users\Luca D'Aprano\source\repos\Initialising Arrays\Initialising Arrays\obj\Debug\net6.0\refint\Initialising Arrays.dll
+C:\Users\Luca D'Aprano\source\repos\Initialising Arrays\Initialising Arrays\obj\Debug\net6.0\Initialising Arrays.pdb
+C:\Users\Luca D'Aprano\source\repos\Initialising Arrays\Initialising Arrays\obj\Debug\net6.0\Initialising Arrays.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\Initialising Arrays\Initialising Arrays\obj\Debug\net6.0\ref\Initialising Arrays.dll

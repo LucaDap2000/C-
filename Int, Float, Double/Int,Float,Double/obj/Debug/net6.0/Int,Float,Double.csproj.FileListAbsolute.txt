@@ -1,0 +1,14 @@
+C:\Users\LucaD'Aprano\source\repos\Int,Float,Double\Int,Float,Double\bin\Debug\net6.0\Int,Float,Double.exe
+C:\Users\LucaD'Aprano\source\repos\Int,Float,Double\Int,Float,Double\bin\Debug\net6.0\Int,Float,Double.deps.json
+C:\Users\LucaD'Aprano\source\repos\Int,Float,Double\Int,Float,Double\bin\Debug\net6.0\Int,Float,Double.runtimeconfig.json
+C:\Users\LucaD'Aprano\source\repos\Int,Float,Double\Int,Float,Double\bin\Debug\net6.0\Int,Float,Double.dll
+C:\Users\LucaD'Aprano\source\repos\Int,Float,Double\Int,Float,Double\bin\Debug\net6.0\Int,Float,Double.pdb
+C:\Users\LucaD'Aprano\source\repos\Int,Float,Double\Int,Float,Double\obj\Debug\net6.0\Int,Float,Double.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucaD'Aprano\source\repos\Int,Float,Double\Int,Float,Double\obj\Debug\net6.0\Int,Float,Double.AssemblyInfoInputs.cache
+C:\Users\LucaD'Aprano\source\repos\Int,Float,Double\Int,Float,Double\obj\Debug\net6.0\Int,Float,Double.AssemblyInfo.cs
+C:\Users\LucaD'Aprano\source\repos\Int,Float,Double\Int,Float,Double\obj\Debug\net6.0\Int,Float,Double.csproj.CoreCompileInputs.cache
+C:\Users\LucaD'Aprano\source\repos\Int,Float,Double\Int,Float,Double\obj\Debug\net6.0\Int,Float,Double.dll
+C:\Users\LucaD'Aprano\source\repos\Int,Float,Double\Int,Float,Double\obj\Debug\net6.0\refint\Int,Float,Double.dll
+C:\Users\LucaD'Aprano\source\repos\Int,Float,Double\Int,Float,Double\obj\Debug\net6.0\Int,Float,Double.pdb
+C:\Users\LucaD'Aprano\source\repos\Int,Float,Double\Int,Float,Double\obj\Debug\net6.0\Int,Float,Double.genruntimeconfig.cache
+C:\Users\LucaD'Aprano\source\repos\Int,Float,Double\Int,Float,Double\obj\Debug\net6.0\ref\Int,Float,Double.dll
