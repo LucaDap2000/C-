@@ -1,0 +1,14 @@
+C:\Users\Luca D'Aprano\source\repos\Break and Continue\Break and Continue\bin\Debug\net6.0\Break and Continue.exe
+C:\Users\Luca D'Aprano\source\repos\Break and Continue\Break and Continue\bin\Debug\net6.0\Break and Continue.deps.json
+C:\Users\Luca D'Aprano\source\repos\Break and Continue\Break and Continue\bin\Debug\net6.0\Break and Continue.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\Break and Continue\Break and Continue\bin\Debug\net6.0\Break and Continue.dll
+C:\Users\Luca D'Aprano\source\repos\Break and Continue\Break and Continue\bin\Debug\net6.0\Break and Continue.pdb
+C:\Users\Luca D'Aprano\source\repos\Break and Continue\Break and Continue\obj\Debug\net6.0\Break and Continue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\Break and Continue\Break and Continue\obj\Debug\net6.0\Break and Continue.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Break and Continue\Break and Continue\obj\Debug\net6.0\Break and Continue.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\Break and Continue\Break and Continue\obj\Debug\net6.0\Break and Continue.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Break and Continue\Break and Continue\obj\Debug\net6.0\Break and Continue.dll
+C:\Users\Luca D'Aprano\source\repos\Break and Continue\Break and Continue\obj\Debug\net6.0\refint\Break and Continue.dll
+C:\Users\Luca D'Aprano\source\repos\Break and Continue\Break and Continue\obj\Debug\net6.0\Break and Continue.pdb
+C:\Users\Luca D'Aprano\source\repos\Break and Continue\Break and Continue\obj\Debug\net6.0\Break and Continue.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\Break and Continue\Break and Continue\obj\Debug\net6.0\ref\Break and Continue.dll

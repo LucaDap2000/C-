@@ -1,0 +1,14 @@
+C:\Users\LucaD'Aprano\source\repos\Challenge - Datatypesandvariables\Challenge - Datatypesandvariables\bin\Debug\net6.0\Challenge - Datatypesandvariables.exe
+C:\Users\LucaD'Aprano\source\repos\Challenge - Datatypesandvariables\Challenge - Datatypesandvariables\bin\Debug\net6.0\Challenge - Datatypesandvariables.deps.json
+C:\Users\LucaD'Aprano\source\repos\Challenge - Datatypesandvariables\Challenge - Datatypesandvariables\bin\Debug\net6.0\Challenge - Datatypesandvariables.runtimeconfig.json
+C:\Users\LucaD'Aprano\source\repos\Challenge - Datatypesandvariables\Challenge - Datatypesandvariables\bin\Debug\net6.0\Challenge - Datatypesandvariables.dll
+C:\Users\LucaD'Aprano\source\repos\Challenge - Datatypesandvariables\Challenge - Datatypesandvariables\bin\Debug\net6.0\Challenge - Datatypesandvariables.pdb
+C:\Users\LucaD'Aprano\source\repos\Challenge - Datatypesandvariables\Challenge - Datatypesandvariables\obj\Debug\net6.0\Challenge - Datatypesandvariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucaD'Aprano\source\repos\Challenge - Datatypesandvariables\Challenge - Datatypesandvariables\obj\Debug\net6.0\Challenge - Datatypesandvariables.AssemblyInfoInputs.cache
+C:\Users\LucaD'Aprano\source\repos\Challenge - Datatypesandvariables\Challenge - Datatypesandvariables\obj\Debug\net6.0\Challenge - Datatypesandvariables.AssemblyInfo.cs
+C:\Users\LucaD'Aprano\source\repos\Challenge - Datatypesandvariables\Challenge - Datatypesandvariables\obj\Debug\net6.0\Challenge - Datatypesandvariables.csproj.CoreCompileInputs.cache
+C:\Users\LucaD'Aprano\source\repos\Challenge - Datatypesandvariables\Challenge - Datatypesandvariables\obj\Debug\net6.0\Challenge - Datatypesandvariables.dll
+C:\Users\LucaD'Aprano\source\repos\Challenge - Datatypesandvariables\Challenge - Datatypesandvariables\obj\Debug\net6.0\refint\Challenge - Datatypesandvariables.dll
+C:\Users\LucaD'Aprano\source\repos\Challenge - Datatypesandvariables\Challenge - Datatypesandvariables\obj\Debug\net6.0\Challenge - Datatypesandvariables.pdb
+C:\Users\LucaD'Aprano\source\repos\Challenge - Datatypesandvariables\Challenge - Datatypesandvariables\obj\Debug\net6.0\Challenge - Datatypesandvariables.genruntimeconfig.cache
+C:\Users\LucaD'Aprano\source\repos\Challenge - Datatypesandvariables\Challenge - Datatypesandvariables\obj\Debug\net6.0\ref\Challenge - Datatypesandvariables.dll

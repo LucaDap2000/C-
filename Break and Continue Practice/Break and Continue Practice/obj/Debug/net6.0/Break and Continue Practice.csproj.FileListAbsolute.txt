@@ -1,0 +1,14 @@
+C:\Users\Luca D'Aprano\source\repos\Break and Continue Practice\Break and Continue Practice\bin\Debug\net6.0\Break and Continue Practice.exe
+C:\Users\Luca D'Aprano\source\repos\Break and Continue Practice\Break and Continue Practice\bin\Debug\net6.0\Break and Continue Practice.deps.json
+C:\Users\Luca D'Aprano\source\repos\Break and Continue Practice\Break and Continue Practice\bin\Debug\net6.0\Break and Continue Practice.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\Break and Continue Practice\Break and Continue Practice\bin\Debug\net6.0\Break and Continue Practice.dll
+C:\Users\Luca D'Aprano\source\repos\Break and Continue Practice\Break and Continue Practice\bin\Debug\net6.0\Break and Continue Practice.pdb
+C:\Users\Luca D'Aprano\source\repos\Break and Continue Practice\Break and Continue Practice\obj\Debug\net6.0\Break and Continue Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\Break and Continue Practice\Break and Continue Practice\obj\Debug\net6.0\Break and Continue Practice.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Break and Continue Practice\Break and Continue Practice\obj\Debug\net6.0\Break and Continue Practice.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\Break and Continue Practice\Break and Continue Practice\obj\Debug\net6.0\Break and Continue Practice.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Break and Continue Practice\Break and Continue Practice\obj\Debug\net6.0\Break and Continue Practice.dll
+C:\Users\Luca D'Aprano\source\repos\Break and Continue Practice\Break and Continue Practice\obj\Debug\net6.0\refint\Break and Continue Practice.dll
+C:\Users\Luca D'Aprano\source\repos\Break and Continue Practice\Break and Continue Practice\obj\Debug\net6.0\Break and Continue Practice.pdb
+C:\Users\Luca D'Aprano\source\repos\Break and Continue Practice\Break and Continue Practice\obj\Debug\net6.0\Break and Continue Practice.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\Break and Continue Practice\Break and Continue Practice\obj\Debug\net6.0\ref\Break and Continue Practice.dll

@@ -1,0 +1,14 @@
+C:\Users\LucaD'Aprano\source\repos\Datatypesandvariables - Solution\Datatypesandvariables - Solution\bin\Debug\net6.0\Datatypesandvariables - Solution.exe
+C:\Users\LucaD'Aprano\source\repos\Datatypesandvariables - Solution\Datatypesandvariables - Solution\bin\Debug\net6.0\Datatypesandvariables - Solution.deps.json
+C:\Users\LucaD'Aprano\source\repos\Datatypesandvariables - Solution\Datatypesandvariables - Solution\bin\Debug\net6.0\Datatypesandvariables - Solution.runtimeconfig.json
+C:\Users\LucaD'Aprano\source\repos\Datatypesandvariables - Solution\Datatypesandvariables - Solution\bin\Debug\net6.0\Datatypesandvariables - Solution.dll
+C:\Users\LucaD'Aprano\source\repos\Datatypesandvariables - Solution\Datatypesandvariables - Solution\bin\Debug\net6.0\Datatypesandvariables - Solution.pdb
+C:\Users\LucaD'Aprano\source\repos\Datatypesandvariables - Solution\Datatypesandvariables - Solution\obj\Debug\net6.0\Datatypesandvariables - Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucaD'Aprano\source\repos\Datatypesandvariables - Solution\Datatypesandvariables - Solution\obj\Debug\net6.0\Datatypesandvariables - Solution.AssemblyInfoInputs.cache
+C:\Users\LucaD'Aprano\source\repos\Datatypesandvariables - Solution\Datatypesandvariables - Solution\obj\Debug\net6.0\Datatypesandvariables - Solution.AssemblyInfo.cs
+C:\Users\LucaD'Aprano\source\repos\Datatypesandvariables - Solution\Datatypesandvariables - Solution\obj\Debug\net6.0\Datatypesandvariables - Solution.csproj.CoreCompileInputs.cache
+C:\Users\LucaD'Aprano\source\repos\Datatypesandvariables - Solution\Datatypesandvariables - Solution\obj\Debug\net6.0\Datatypesandvariables - Solution.dll
+C:\Users\LucaD'Aprano\source\repos\Datatypesandvariables - Solution\Datatypesandvariables - Solution\obj\Debug\net6.0\refint\Datatypesandvariables - Solution.dll
+C:\Users\LucaD'Aprano\source\repos\Datatypesandvariables - Solution\Datatypesandvariables - Solution\obj\Debug\net6.0\Datatypesandvariables - Solution.pdb
+C:\Users\LucaD'Aprano\source\repos\Datatypesandvariables - Solution\Datatypesandvariables - Solution\obj\Debug\net6.0\Datatypesandvariables - Solution.genruntimeconfig.cache
+C:\Users\LucaD'Aprano\source\repos\Datatypesandvariables - Solution\Datatypesandvariables - Solution\obj\Debug\net6.0\ref\Datatypesandvariables - Solution.dll
