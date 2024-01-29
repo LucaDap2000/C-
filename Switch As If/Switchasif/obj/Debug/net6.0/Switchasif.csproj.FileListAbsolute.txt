@@ -1,0 +1,14 @@
+C:\Users\LucaD'Aprano\source\repos\Switchasif\Switchasif\bin\Debug\net6.0\Switchasif.exe
+C:\Users\LucaD'Aprano\source\repos\Switchasif\Switchasif\bin\Debug\net6.0\Switchasif.deps.json
+C:\Users\LucaD'Aprano\source\repos\Switchasif\Switchasif\bin\Debug\net6.0\Switchasif.runtimeconfig.json
+C:\Users\LucaD'Aprano\source\repos\Switchasif\Switchasif\bin\Debug\net6.0\Switchasif.dll
+C:\Users\LucaD'Aprano\source\repos\Switchasif\Switchasif\bin\Debug\net6.0\Switchasif.pdb
+C:\Users\LucaD'Aprano\source\repos\Switchasif\Switchasif\obj\Debug\net6.0\Switchasif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucaD'Aprano\source\repos\Switchasif\Switchasif\obj\Debug\net6.0\Switchasif.AssemblyInfoInputs.cache
+C:\Users\LucaD'Aprano\source\repos\Switchasif\Switchasif\obj\Debug\net6.0\Switchasif.AssemblyInfo.cs
+C:\Users\LucaD'Aprano\source\repos\Switchasif\Switchasif\obj\Debug\net6.0\Switchasif.csproj.CoreCompileInputs.cache
+C:\Users\LucaD'Aprano\source\repos\Switchasif\Switchasif\obj\Debug\net6.0\Switchasif.dll
+C:\Users\LucaD'Aprano\source\repos\Switchasif\Switchasif\obj\Debug\net6.0\refint\Switchasif.dll
+C:\Users\LucaD'Aprano\source\repos\Switchasif\Switchasif\obj\Debug\net6.0\Switchasif.pdb
+C:\Users\LucaD'Aprano\source\repos\Switchasif\Switchasif\obj\Debug\net6.0\Switchasif.genruntimeconfig.cache
+C:\Users\LucaD'Aprano\source\repos\Switchasif\Switchasif\obj\Debug\net6.0\ref\Switchasif.dll
