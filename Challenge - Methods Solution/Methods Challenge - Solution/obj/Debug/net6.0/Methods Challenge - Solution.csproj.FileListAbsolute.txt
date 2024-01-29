@@ -1,0 +1,14 @@
+C:\Users\LucaD'Aprano\source\repos\Methods Challenge - Solution\Methods Challenge - Solution\bin\Debug\net6.0\Methods Challenge - Solution.exe
+C:\Users\LucaD'Aprano\source\repos\Methods Challenge - Solution\Methods Challenge - Solution\bin\Debug\net6.0\Methods Challenge - Solution.deps.json
+C:\Users\LucaD'Aprano\source\repos\Methods Challenge - Solution\Methods Challenge - Solution\bin\Debug\net6.0\Methods Challenge - Solution.runtimeconfig.json
+C:\Users\LucaD'Aprano\source\repos\Methods Challenge - Solution\Methods Challenge - Solution\bin\Debug\net6.0\Methods Challenge - Solution.dll
+C:\Users\LucaD'Aprano\source\repos\Methods Challenge - Solution\Methods Challenge - Solution\bin\Debug\net6.0\Methods Challenge - Solution.pdb
+C:\Users\LucaD'Aprano\source\repos\Methods Challenge - Solution\Methods Challenge - Solution\obj\Debug\net6.0\Methods Challenge - Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucaD'Aprano\source\repos\Methods Challenge - Solution\Methods Challenge - Solution\obj\Debug\net6.0\Methods Challenge - Solution.AssemblyInfoInputs.cache
+C:\Users\LucaD'Aprano\source\repos\Methods Challenge - Solution\Methods Challenge - Solution\obj\Debug\net6.0\Methods Challenge - Solution.AssemblyInfo.cs
+C:\Users\LucaD'Aprano\source\repos\Methods Challenge - Solution\Methods Challenge - Solution\obj\Debug\net6.0\Methods Challenge - Solution.csproj.CoreCompileInputs.cache
+C:\Users\LucaD'Aprano\source\repos\Methods Challenge - Solution\Methods Challenge - Solution\obj\Debug\net6.0\Methods Challenge - Solution.dll
+C:\Users\LucaD'Aprano\source\repos\Methods Challenge - Solution\Methods Challenge - Solution\obj\Debug\net6.0\refint\Methods Challenge - Solution.dll
+C:\Users\LucaD'Aprano\source\repos\Methods Challenge - Solution\Methods Challenge - Solution\obj\Debug\net6.0\Methods Challenge - Solution.pdb
+C:\Users\LucaD'Aprano\source\repos\Methods Challenge - Solution\Methods Challenge - Solution\obj\Debug\net6.0\Methods Challenge - Solution.genruntimeconfig.cache
+C:\Users\LucaD'Aprano\source\repos\Methods Challenge - Solution\Methods Challenge - Solution\obj\Debug\net6.0\ref\Methods Challenge - Solution.dll
