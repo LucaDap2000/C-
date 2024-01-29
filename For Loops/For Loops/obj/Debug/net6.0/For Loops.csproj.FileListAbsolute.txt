@@ -1,0 +1,14 @@
+C:\Users\Luca D'Aprano\source\repos\For Loops\For Loops\bin\Debug\net6.0\For Loops.exe
+C:\Users\Luca D'Aprano\source\repos\For Loops\For Loops\bin\Debug\net6.0\For Loops.deps.json
+C:\Users\Luca D'Aprano\source\repos\For Loops\For Loops\bin\Debug\net6.0\For Loops.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\For Loops\For Loops\bin\Debug\net6.0\For Loops.dll
+C:\Users\Luca D'Aprano\source\repos\For Loops\For Loops\bin\Debug\net6.0\For Loops.pdb
+C:\Users\Luca D'Aprano\source\repos\For Loops\For Loops\obj\Debug\net6.0\For Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\For Loops\For Loops\obj\Debug\net6.0\For Loops.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\For Loops\For Loops\obj\Debug\net6.0\For Loops.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\For Loops\For Loops\obj\Debug\net6.0\For Loops.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\For Loops\For Loops\obj\Debug\net6.0\For Loops.dll
+C:\Users\Luca D'Aprano\source\repos\For Loops\For Loops\obj\Debug\net6.0\refint\For Loops.dll
+C:\Users\Luca D'Aprano\source\repos\For Loops\For Loops\obj\Debug\net6.0\For Loops.pdb
+C:\Users\Luca D'Aprano\source\repos\For Loops\For Loops\obj\Debug\net6.0\For Loops.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\For Loops\For Loops\obj\Debug\net6.0\ref\For Loops.dll

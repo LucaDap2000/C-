@@ -1,0 +1,14 @@
+C:\Users\Luca D'Aprano\source\repos\Foreach Loops\Foreach Loops\bin\Debug\net6.0\Foreach Loops.exe
+C:\Users\Luca D'Aprano\source\repos\Foreach Loops\Foreach Loops\bin\Debug\net6.0\Foreach Loops.deps.json
+C:\Users\Luca D'Aprano\source\repos\Foreach Loops\Foreach Loops\bin\Debug\net6.0\Foreach Loops.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\Foreach Loops\Foreach Loops\bin\Debug\net6.0\Foreach Loops.dll
+C:\Users\Luca D'Aprano\source\repos\Foreach Loops\Foreach Loops\bin\Debug\net6.0\Foreach Loops.pdb
+C:\Users\Luca D'Aprano\source\repos\Foreach Loops\Foreach Loops\obj\Debug\net6.0\Foreach Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\Foreach Loops\Foreach Loops\obj\Debug\net6.0\Foreach Loops.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Foreach Loops\Foreach Loops\obj\Debug\net6.0\Foreach Loops.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\Foreach Loops\Foreach Loops\obj\Debug\net6.0\Foreach Loops.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Foreach Loops\Foreach Loops\obj\Debug\net6.0\Foreach Loops.dll
+C:\Users\Luca D'Aprano\source\repos\Foreach Loops\Foreach Loops\obj\Debug\net6.0\refint\Foreach Loops.dll
+C:\Users\Luca D'Aprano\source\repos\Foreach Loops\Foreach Loops\obj\Debug\net6.0\Foreach Loops.pdb
+C:\Users\Luca D'Aprano\source\repos\Foreach Loops\Foreach Loops\obj\Debug\net6.0\Foreach Loops.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\Foreach Loops\Foreach Loops\obj\Debug\net6.0\ref\Foreach Loops.dll
