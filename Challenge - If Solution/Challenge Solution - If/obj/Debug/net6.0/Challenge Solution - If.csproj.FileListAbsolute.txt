@@ -1,0 +1,14 @@
+C:\Users\LucaD'Aprano\source\repos\Challenge Solution - If\Challenge Solution - If\bin\Debug\net6.0\Challenge Solution - If.exe
+C:\Users\LucaD'Aprano\source\repos\Challenge Solution - If\Challenge Solution - If\bin\Debug\net6.0\Challenge Solution - If.deps.json
+C:\Users\LucaD'Aprano\source\repos\Challenge Solution - If\Challenge Solution - If\bin\Debug\net6.0\Challenge Solution - If.runtimeconfig.json
+C:\Users\LucaD'Aprano\source\repos\Challenge Solution - If\Challenge Solution - If\bin\Debug\net6.0\Challenge Solution - If.dll
+C:\Users\LucaD'Aprano\source\repos\Challenge Solution - If\Challenge Solution - If\bin\Debug\net6.0\Challenge Solution - If.pdb
+C:\Users\LucaD'Aprano\source\repos\Challenge Solution - If\Challenge Solution - If\obj\Debug\net6.0\Challenge Solution - If.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucaD'Aprano\source\repos\Challenge Solution - If\Challenge Solution - If\obj\Debug\net6.0\Challenge Solution - If.AssemblyInfoInputs.cache
+C:\Users\LucaD'Aprano\source\repos\Challenge Solution - If\Challenge Solution - If\obj\Debug\net6.0\Challenge Solution - If.AssemblyInfo.cs
+C:\Users\LucaD'Aprano\source\repos\Challenge Solution - If\Challenge Solution - If\obj\Debug\net6.0\Challenge Solution - If.csproj.CoreCompileInputs.cache
+C:\Users\LucaD'Aprano\source\repos\Challenge Solution - If\Challenge Solution - If\obj\Debug\net6.0\Challenge Solution - If.dll
+C:\Users\LucaD'Aprano\source\repos\Challenge Solution - If\Challenge Solution - If\obj\Debug\net6.0\refint\Challenge Solution - If.dll
+C:\Users\LucaD'Aprano\source\repos\Challenge Solution - If\Challenge Solution - If\obj\Debug\net6.0\Challenge Solution - If.pdb
+C:\Users\LucaD'Aprano\source\repos\Challenge Solution - If\Challenge Solution - If\obj\Debug\net6.0\Challenge Solution - If.genruntimeconfig.cache
+C:\Users\LucaD'Aprano\source\repos\Challenge Solution - If\Challenge Solution - If\obj\Debug\net6.0\ref\Challenge Solution - If.dll

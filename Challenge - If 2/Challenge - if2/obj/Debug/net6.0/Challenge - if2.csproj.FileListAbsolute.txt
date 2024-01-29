@@ -1,0 +1,14 @@
+C:\Users\Luca D'Aprano\source\repos\Challenge - If 2\Challenge - if2\bin\Debug\net6.0\Challenge - if2.exe
+C:\Users\Luca D'Aprano\source\repos\Challenge - If 2\Challenge - if2\bin\Debug\net6.0\Challenge - if2.deps.json
+C:\Users\Luca D'Aprano\source\repos\Challenge - If 2\Challenge - if2\bin\Debug\net6.0\Challenge - if2.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\Challenge - If 2\Challenge - if2\bin\Debug\net6.0\Challenge - if2.dll
+C:\Users\Luca D'Aprano\source\repos\Challenge - If 2\Challenge - if2\bin\Debug\net6.0\Challenge - if2.pdb
+C:\Users\Luca D'Aprano\source\repos\Challenge - If 2\Challenge - if2\obj\Debug\net6.0\Challenge - if2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\Challenge - If 2\Challenge - if2\obj\Debug\net6.0\Challenge - if2.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Challenge - If 2\Challenge - if2\obj\Debug\net6.0\Challenge - if2.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\Challenge - If 2\Challenge - if2\obj\Debug\net6.0\Challenge - if2.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Challenge - If 2\Challenge - if2\obj\Debug\net6.0\Challenge - if2.dll
+C:\Users\Luca D'Aprano\source\repos\Challenge - If 2\Challenge - if2\obj\Debug\net6.0\refint\Challenge - if2.dll
+C:\Users\Luca D'Aprano\source\repos\Challenge - If 2\Challenge - if2\obj\Debug\net6.0\Challenge - if2.pdb
+C:\Users\Luca D'Aprano\source\repos\Challenge - If 2\Challenge - if2\obj\Debug\net6.0\Challenge - if2.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\Challenge - If 2\Challenge - if2\obj\Debug\net6.0\ref\Challenge - if2.dll
