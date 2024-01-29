@@ -1,0 +1,14 @@
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 10 - Lists\Coding Exercise 10 - Lists\bin\Debug\net6.0\Coding Exercise 10 - Lists.exe
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 10 - Lists\Coding Exercise 10 - Lists\bin\Debug\net6.0\Coding Exercise 10 - Lists.deps.json
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 10 - Lists\Coding Exercise 10 - Lists\bin\Debug\net6.0\Coding Exercise 10 - Lists.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 10 - Lists\Coding Exercise 10 - Lists\bin\Debug\net6.0\Coding Exercise 10 - Lists.dll
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 10 - Lists\Coding Exercise 10 - Lists\bin\Debug\net6.0\Coding Exercise 10 - Lists.pdb
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 10 - Lists\Coding Exercise 10 - Lists\obj\Debug\net6.0\Coding Exercise 10 - Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 10 - Lists\Coding Exercise 10 - Lists\obj\Debug\net6.0\Coding Exercise 10 - Lists.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 10 - Lists\Coding Exercise 10 - Lists\obj\Debug\net6.0\Coding Exercise 10 - Lists.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 10 - Lists\Coding Exercise 10 - Lists\obj\Debug\net6.0\Coding Exercise 10 - Lists.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 10 - Lists\Coding Exercise 10 - Lists\obj\Debug\net6.0\Coding Exercise 10 - Lists.dll
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 10 - Lists\Coding Exercise 10 - Lists\obj\Debug\net6.0\refint\Coding Exercise 10 - Lists.dll
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 10 - Lists\Coding Exercise 10 - Lists\obj\Debug\net6.0\Coding Exercise 10 - Lists.pdb
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 10 - Lists\Coding Exercise 10 - Lists\obj\Debug\net6.0\Coding Exercise 10 - Lists.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 10 - Lists\Coding Exercise 10 - Lists\obj\Debug\net6.0\ref\Coding Exercise 10 - Lists.dll
