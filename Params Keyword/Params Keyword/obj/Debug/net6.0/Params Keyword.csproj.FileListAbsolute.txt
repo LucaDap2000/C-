@@ -1,0 +1,14 @@
+C:\Users\Luca D'Aprano\source\repos\Params Keyword\Params Keyword\bin\Debug\net6.0\Params Keyword.exe
+C:\Users\Luca D'Aprano\source\repos\Params Keyword\Params Keyword\bin\Debug\net6.0\Params Keyword.deps.json
+C:\Users\Luca D'Aprano\source\repos\Params Keyword\Params Keyword\bin\Debug\net6.0\Params Keyword.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\Params Keyword\Params Keyword\bin\Debug\net6.0\Params Keyword.dll
+C:\Users\Luca D'Aprano\source\repos\Params Keyword\Params Keyword\bin\Debug\net6.0\Params Keyword.pdb
+C:\Users\Luca D'Aprano\source\repos\Params Keyword\Params Keyword\obj\Debug\net6.0\Params Keyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\Params Keyword\Params Keyword\obj\Debug\net6.0\Params Keyword.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Params Keyword\Params Keyword\obj\Debug\net6.0\Params Keyword.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\Params Keyword\Params Keyword\obj\Debug\net6.0\Params Keyword.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Params Keyword\Params Keyword\obj\Debug\net6.0\Params Keyword.dll
+C:\Users\Luca D'Aprano\source\repos\Params Keyword\Params Keyword\obj\Debug\net6.0\refint\Params Keyword.dll
+C:\Users\Luca D'Aprano\source\repos\Params Keyword\Params Keyword\obj\Debug\net6.0\Params Keyword.pdb
+C:\Users\Luca D'Aprano\source\repos\Params Keyword\Params Keyword\obj\Debug\net6.0\Params Keyword.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\Params Keyword\Params Keyword\obj\Debug\net6.0\ref\Params Keyword.dll

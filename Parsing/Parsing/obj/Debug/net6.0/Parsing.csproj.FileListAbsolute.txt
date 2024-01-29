@@ -1,0 +1,14 @@
+C:\Users\LucaD'Aprano\source\repos\Parsing\Parsing\bin\Debug\net6.0\Parsing.exe
+C:\Users\LucaD'Aprano\source\repos\Parsing\Parsing\bin\Debug\net6.0\Parsing.deps.json
+C:\Users\LucaD'Aprano\source\repos\Parsing\Parsing\bin\Debug\net6.0\Parsing.runtimeconfig.json
+C:\Users\LucaD'Aprano\source\repos\Parsing\Parsing\bin\Debug\net6.0\Parsing.dll
+C:\Users\LucaD'Aprano\source\repos\Parsing\Parsing\bin\Debug\net6.0\Parsing.pdb
+C:\Users\LucaD'Aprano\source\repos\Parsing\Parsing\obj\Debug\net6.0\Parsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucaD'Aprano\source\repos\Parsing\Parsing\obj\Debug\net6.0\Parsing.AssemblyInfoInputs.cache
+C:\Users\LucaD'Aprano\source\repos\Parsing\Parsing\obj\Debug\net6.0\Parsing.AssemblyInfo.cs
+C:\Users\LucaD'Aprano\source\repos\Parsing\Parsing\obj\Debug\net6.0\Parsing.csproj.CoreCompileInputs.cache
+C:\Users\LucaD'Aprano\source\repos\Parsing\Parsing\obj\Debug\net6.0\Parsing.dll
+C:\Users\LucaD'Aprano\source\repos\Parsing\Parsing\obj\Debug\net6.0\refint\Parsing.dll
+C:\Users\LucaD'Aprano\source\repos\Parsing\Parsing\obj\Debug\net6.0\Parsing.pdb
+C:\Users\LucaD'Aprano\source\repos\Parsing\Parsing\obj\Debug\net6.0\Parsing.genruntimeconfig.cache
+C:\Users\LucaD'Aprano\source\repos\Parsing\Parsing\obj\Debug\net6.0\ref\Parsing.dll
