@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Min Value Using Params/1.0.0": {
+        "runtime": {
+          "Min Value Using Params.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Min Value Using Params/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

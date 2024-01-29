@@ -1,0 +1,14 @@
+C:\Users\Luca D'Aprano\source\repos\Multi Dimensional Arrays\Multi Dimensional Arrays\bin\Debug\net6.0\Multi Dimensional Arrays.exe
+C:\Users\Luca D'Aprano\source\repos\Multi Dimensional Arrays\Multi Dimensional Arrays\bin\Debug\net6.0\Multi Dimensional Arrays.deps.json
+C:\Users\Luca D'Aprano\source\repos\Multi Dimensional Arrays\Multi Dimensional Arrays\bin\Debug\net6.0\Multi Dimensional Arrays.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\Multi Dimensional Arrays\Multi Dimensional Arrays\bin\Debug\net6.0\Multi Dimensional Arrays.dll
+C:\Users\Luca D'Aprano\source\repos\Multi Dimensional Arrays\Multi Dimensional Arrays\bin\Debug\net6.0\Multi Dimensional Arrays.pdb
+C:\Users\Luca D'Aprano\source\repos\Multi Dimensional Arrays\Multi Dimensional Arrays\obj\Debug\net6.0\Multi Dimensional Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\Multi Dimensional Arrays\Multi Dimensional Arrays\obj\Debug\net6.0\Multi Dimensional Arrays.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Multi Dimensional Arrays\Multi Dimensional Arrays\obj\Debug\net6.0\Multi Dimensional Arrays.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\Multi Dimensional Arrays\Multi Dimensional Arrays\obj\Debug\net6.0\Multi Dimensional Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Multi Dimensional Arrays\Multi Dimensional Arrays\obj\Debug\net6.0\Multi Dimensional Arrays.dll
+C:\Users\Luca D'Aprano\source\repos\Multi Dimensional Arrays\Multi Dimensional Arrays\obj\Debug\net6.0\refint\Multi Dimensional Arrays.dll
+C:\Users\Luca D'Aprano\source\repos\Multi Dimensional Arrays\Multi Dimensional Arrays\obj\Debug\net6.0\Multi Dimensional Arrays.pdb
+C:\Users\Luca D'Aprano\source\repos\Multi Dimensional Arrays\Multi Dimensional Arrays\obj\Debug\net6.0\Multi Dimensional Arrays.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\Multi Dimensional Arrays\Multi Dimensional Arrays\obj\Debug\net6.0\ref\Multi Dimensional Arrays.dll

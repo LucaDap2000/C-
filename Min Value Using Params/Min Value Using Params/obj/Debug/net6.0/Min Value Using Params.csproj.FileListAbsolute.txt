@@ -1,0 +1,14 @@
+C:\Users\Luca D'Aprano\source\repos\Min Value Using Params\Min Value Using Params\bin\Debug\net6.0\Min Value Using Params.exe
+C:\Users\Luca D'Aprano\source\repos\Min Value Using Params\Min Value Using Params\bin\Debug\net6.0\Min Value Using Params.deps.json
+C:\Users\Luca D'Aprano\source\repos\Min Value Using Params\Min Value Using Params\bin\Debug\net6.0\Min Value Using Params.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\Min Value Using Params\Min Value Using Params\bin\Debug\net6.0\Min Value Using Params.dll
+C:\Users\Luca D'Aprano\source\repos\Min Value Using Params\Min Value Using Params\bin\Debug\net6.0\Min Value Using Params.pdb
+C:\Users\Luca D'Aprano\source\repos\Min Value Using Params\Min Value Using Params\obj\Debug\net6.0\Min Value Using Params.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\Min Value Using Params\Min Value Using Params\obj\Debug\net6.0\Min Value Using Params.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Min Value Using Params\Min Value Using Params\obj\Debug\net6.0\Min Value Using Params.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\Min Value Using Params\Min Value Using Params\obj\Debug\net6.0\Min Value Using Params.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Min Value Using Params\Min Value Using Params\obj\Debug\net6.0\Min Value Using Params.dll
+C:\Users\Luca D'Aprano\source\repos\Min Value Using Params\Min Value Using Params\obj\Debug\net6.0\refint\Min Value Using Params.dll
+C:\Users\Luca D'Aprano\source\repos\Min Value Using Params\Min Value Using Params\obj\Debug\net6.0\Min Value Using Params.pdb
+C:\Users\Luca D'Aprano\source\repos\Min Value Using Params\Min Value Using Params\obj\Debug\net6.0\Min Value Using Params.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\Min Value Using Params\Min Value Using Params\obj\Debug\net6.0\ref\Min Value Using Params.dll
