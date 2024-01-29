@@ -1,0 +1,14 @@
+C:\Users\Luca D'Aprano\source\repos\Why foreach\Why foreach\bin\Debug\net6.0\Why foreach.exe
+C:\Users\Luca D'Aprano\source\repos\Why foreach\Why foreach\bin\Debug\net6.0\Why foreach.deps.json
+C:\Users\Luca D'Aprano\source\repos\Why foreach\Why foreach\bin\Debug\net6.0\Why foreach.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\Why foreach\Why foreach\bin\Debug\net6.0\Why foreach.dll
+C:\Users\Luca D'Aprano\source\repos\Why foreach\Why foreach\bin\Debug\net6.0\Why foreach.pdb
+C:\Users\Luca D'Aprano\source\repos\Why foreach\Why foreach\obj\Debug\net6.0\Why foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\Why foreach\Why foreach\obj\Debug\net6.0\Why foreach.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Why foreach\Why foreach\obj\Debug\net6.0\Why foreach.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\Why foreach\Why foreach\obj\Debug\net6.0\Why foreach.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Why foreach\Why foreach\obj\Debug\net6.0\Why foreach.dll
+C:\Users\Luca D'Aprano\source\repos\Why foreach\Why foreach\obj\Debug\net6.0\refint\Why foreach.dll
+C:\Users\Luca D'Aprano\source\repos\Why foreach\Why foreach\obj\Debug\net6.0\Why foreach.pdb
+C:\Users\Luca D'Aprano\source\repos\Why foreach\Why foreach\obj\Debug\net6.0\Why foreach.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\Why foreach\Why foreach\obj\Debug\net6.0\ref\Why foreach.dll

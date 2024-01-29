@@ -1,0 +1,14 @@
+C:\Users\Luca D'Aprano\source\repos\While Loops\While Loops\bin\Debug\net6.0\While Loops.exe
+C:\Users\Luca D'Aprano\source\repos\While Loops\While Loops\bin\Debug\net6.0\While Loops.deps.json
+C:\Users\Luca D'Aprano\source\repos\While Loops\While Loops\bin\Debug\net6.0\While Loops.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\While Loops\While Loops\bin\Debug\net6.0\While Loops.dll
+C:\Users\Luca D'Aprano\source\repos\While Loops\While Loops\bin\Debug\net6.0\While Loops.pdb
+C:\Users\Luca D'Aprano\source\repos\While Loops\While Loops\obj\Debug\net6.0\While Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\While Loops\While Loops\obj\Debug\net6.0\While Loops.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\While Loops\While Loops\obj\Debug\net6.0\While Loops.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\While Loops\While Loops\obj\Debug\net6.0\While Loops.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\While Loops\While Loops\obj\Debug\net6.0\While Loops.dll
+C:\Users\Luca D'Aprano\source\repos\While Loops\While Loops\obj\Debug\net6.0\refint\While Loops.dll
+C:\Users\Luca D'Aprano\source\repos\While Loops\While Loops\obj\Debug\net6.0\While Loops.pdb
+C:\Users\Luca D'Aprano\source\repos\While Loops\While Loops\obj\Debug\net6.0\While Loops.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\While Loops\While Loops\obj\Debug\net6.0\ref\While Loops.dll
