@@ -1,0 +1,14 @@
+C:\Users\Luca D'Aprano\source\repos\Challenge - Jagged Arrays\Challenge - Jagged Arrays\bin\Debug\net6.0\Challenge - Jagged Arrays.exe
+C:\Users\Luca D'Aprano\source\repos\Challenge - Jagged Arrays\Challenge - Jagged Arrays\bin\Debug\net6.0\Challenge - Jagged Arrays.deps.json
+C:\Users\Luca D'Aprano\source\repos\Challenge - Jagged Arrays\Challenge - Jagged Arrays\bin\Debug\net6.0\Challenge - Jagged Arrays.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\Challenge - Jagged Arrays\Challenge - Jagged Arrays\bin\Debug\net6.0\Challenge - Jagged Arrays.dll
+C:\Users\Luca D'Aprano\source\repos\Challenge - Jagged Arrays\Challenge - Jagged Arrays\bin\Debug\net6.0\Challenge - Jagged Arrays.pdb
+C:\Users\Luca D'Aprano\source\repos\Challenge - Jagged Arrays\Challenge - Jagged Arrays\obj\Debug\net6.0\Challenge - Jagged Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\Challenge - Jagged Arrays\Challenge - Jagged Arrays\obj\Debug\net6.0\Challenge - Jagged Arrays.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Challenge - Jagged Arrays\Challenge - Jagged Arrays\obj\Debug\net6.0\Challenge - Jagged Arrays.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\Challenge - Jagged Arrays\Challenge - Jagged Arrays\obj\Debug\net6.0\Challenge - Jagged Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Challenge - Jagged Arrays\Challenge - Jagged Arrays\obj\Debug\net6.0\Challenge - Jagged Arrays.dll
+C:\Users\Luca D'Aprano\source\repos\Challenge - Jagged Arrays\Challenge - Jagged Arrays\obj\Debug\net6.0\refint\Challenge - Jagged Arrays.dll
+C:\Users\Luca D'Aprano\source\repos\Challenge - Jagged Arrays\Challenge - Jagged Arrays\obj\Debug\net6.0\Challenge - Jagged Arrays.pdb
+C:\Users\Luca D'Aprano\source\repos\Challenge - Jagged Arrays\Challenge - Jagged Arrays\obj\Debug\net6.0\Challenge - Jagged Arrays.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\Challenge - Jagged Arrays\Challenge - Jagged Arrays\obj\Debug\net6.0\ref\Challenge - Jagged Arrays.dll

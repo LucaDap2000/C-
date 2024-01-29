@@ -1,0 +1,14 @@
+C:\Users\Luca D'Aprano\source\repos\Challenge - Loops 1 - Average\Challenge - Loops 1 - Average\bin\Debug\net6.0\Challenge - Loops 1 - Average.exe
+C:\Users\Luca D'Aprano\source\repos\Challenge - Loops 1 - Average\Challenge - Loops 1 - Average\bin\Debug\net6.0\Challenge - Loops 1 - Average.deps.json
+C:\Users\Luca D'Aprano\source\repos\Challenge - Loops 1 - Average\Challenge - Loops 1 - Average\bin\Debug\net6.0\Challenge - Loops 1 - Average.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\Challenge - Loops 1 - Average\Challenge - Loops 1 - Average\bin\Debug\net6.0\Challenge - Loops 1 - Average.dll
+C:\Users\Luca D'Aprano\source\repos\Challenge - Loops 1 - Average\Challenge - Loops 1 - Average\bin\Debug\net6.0\Challenge - Loops 1 - Average.pdb
+C:\Users\Luca D'Aprano\source\repos\Challenge - Loops 1 - Average\Challenge - Loops 1 - Average\obj\Debug\net6.0\Challenge - Loops 1 - Average.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\Challenge - Loops 1 - Average\Challenge - Loops 1 - Average\obj\Debug\net6.0\Challenge - Loops 1 - Average.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Challenge - Loops 1 - Average\Challenge - Loops 1 - Average\obj\Debug\net6.0\Challenge - Loops 1 - Average.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\Challenge - Loops 1 - Average\Challenge - Loops 1 - Average\obj\Debug\net6.0\Challenge - Loops 1 - Average.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Challenge - Loops 1 - Average\Challenge - Loops 1 - Average\obj\Debug\net6.0\Challenge - Loops 1 - Average.dll
+C:\Users\Luca D'Aprano\source\repos\Challenge - Loops 1 - Average\Challenge - Loops 1 - Average\obj\Debug\net6.0\refint\Challenge - Loops 1 - Average.dll
+C:\Users\Luca D'Aprano\source\repos\Challenge - Loops 1 - Average\Challenge - Loops 1 - Average\obj\Debug\net6.0\Challenge - Loops 1 - Average.pdb
+C:\Users\Luca D'Aprano\source\repos\Challenge - Loops 1 - Average\Challenge - Loops 1 - Average\obj\Debug\net6.0\Challenge - Loops 1 - Average.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\Challenge - Loops 1 - Average\Challenge - Loops 1 - Average\obj\Debug\net6.0\ref\Challenge - Loops 1 - Average.dll
