@@ -1,0 +1,14 @@
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 9 Tic Tac Toe Winner Identifier\Coding Exercise 9 Tic Tac Toe Winner Identifier\bin\Debug\net6.0\Coding Exercise 9 Tic Tac Toe Winner Identifier.exe
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 9 Tic Tac Toe Winner Identifier\Coding Exercise 9 Tic Tac Toe Winner Identifier\bin\Debug\net6.0\Coding Exercise 9 Tic Tac Toe Winner Identifier.deps.json
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 9 Tic Tac Toe Winner Identifier\Coding Exercise 9 Tic Tac Toe Winner Identifier\bin\Debug\net6.0\Coding Exercise 9 Tic Tac Toe Winner Identifier.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 9 Tic Tac Toe Winner Identifier\Coding Exercise 9 Tic Tac Toe Winner Identifier\bin\Debug\net6.0\Coding Exercise 9 Tic Tac Toe Winner Identifier.dll
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 9 Tic Tac Toe Winner Identifier\Coding Exercise 9 Tic Tac Toe Winner Identifier\bin\Debug\net6.0\Coding Exercise 9 Tic Tac Toe Winner Identifier.pdb
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 9 Tic Tac Toe Winner Identifier\Coding Exercise 9 Tic Tac Toe Winner Identifier\obj\Debug\net6.0\Coding Exercise 9 Tic Tac Toe Winner Identifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 9 Tic Tac Toe Winner Identifier\Coding Exercise 9 Tic Tac Toe Winner Identifier\obj\Debug\net6.0\Coding Exercise 9 Tic Tac Toe Winner Identifier.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 9 Tic Tac Toe Winner Identifier\Coding Exercise 9 Tic Tac Toe Winner Identifier\obj\Debug\net6.0\Coding Exercise 9 Tic Tac Toe Winner Identifier.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 9 Tic Tac Toe Winner Identifier\Coding Exercise 9 Tic Tac Toe Winner Identifier\obj\Debug\net6.0\Coding Exercise 9 Tic Tac Toe Winner Identifier.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 9 Tic Tac Toe Winner Identifier\Coding Exercise 9 Tic Tac Toe Winner Identifier\obj\Debug\net6.0\Coding Exercise 9 Tic Tac Toe Winner Identifier.dll
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 9 Tic Tac Toe Winner Identifier\Coding Exercise 9 Tic Tac Toe Winner Identifier\obj\Debug\net6.0\refint\Coding Exercise 9 Tic Tac Toe Winner Identifier.dll
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 9 Tic Tac Toe Winner Identifier\Coding Exercise 9 Tic Tac Toe Winner Identifier\obj\Debug\net6.0\Coding Exercise 9 Tic Tac Toe Winner Identifier.pdb
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 9 Tic Tac Toe Winner Identifier\Coding Exercise 9 Tic Tac Toe Winner Identifier\obj\Debug\net6.0\Coding Exercise 9 Tic Tac Toe Winner Identifier.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 9 Tic Tac Toe Winner Identifier\Coding Exercise 9 Tic Tac Toe Winner Identifier\obj\Debug\net6.0\ref\Coding Exercise 9 Tic Tac Toe Winner Identifier.dll

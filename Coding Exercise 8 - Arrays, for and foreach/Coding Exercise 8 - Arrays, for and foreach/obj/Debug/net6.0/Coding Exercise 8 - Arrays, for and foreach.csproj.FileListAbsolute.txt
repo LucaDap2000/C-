@@ -1,0 +1,14 @@
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 8 - Arrays, for and foreach\Coding Exercise 8 - Arrays, for and foreach\bin\Debug\net6.0\Coding Exercise 8 - Arrays, for and foreach.exe
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 8 - Arrays, for and foreach\Coding Exercise 8 - Arrays, for and foreach\bin\Debug\net6.0\Coding Exercise 8 - Arrays, for and foreach.deps.json
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 8 - Arrays, for and foreach\Coding Exercise 8 - Arrays, for and foreach\bin\Debug\net6.0\Coding Exercise 8 - Arrays, for and foreach.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 8 - Arrays, for and foreach\Coding Exercise 8 - Arrays, for and foreach\bin\Debug\net6.0\Coding Exercise 8 - Arrays, for and foreach.dll
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 8 - Arrays, for and foreach\Coding Exercise 8 - Arrays, for and foreach\bin\Debug\net6.0\Coding Exercise 8 - Arrays, for and foreach.pdb
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 8 - Arrays, for and foreach\Coding Exercise 8 - Arrays, for and foreach\obj\Debug\net6.0\Coding Exercise 8 - Arrays, for and foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 8 - Arrays, for and foreach\Coding Exercise 8 - Arrays, for and foreach\obj\Debug\net6.0\Coding Exercise 8 - Arrays, for and foreach.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 8 - Arrays, for and foreach\Coding Exercise 8 - Arrays, for and foreach\obj\Debug\net6.0\Coding Exercise 8 - Arrays, for and foreach.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 8 - Arrays, for and foreach\Coding Exercise 8 - Arrays, for and foreach\obj\Debug\net6.0\Coding Exercise 8 - Arrays, for and foreach.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 8 - Arrays, for and foreach\Coding Exercise 8 - Arrays, for and foreach\obj\Debug\net6.0\Coding Exercise 8 - Arrays, for and foreach.dll
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 8 - Arrays, for and foreach\Coding Exercise 8 - Arrays, for and foreach\obj\Debug\net6.0\refint\Coding Exercise 8 - Arrays, for and foreach.dll
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 8 - Arrays, for and foreach\Coding Exercise 8 - Arrays, for and foreach\obj\Debug\net6.0\Coding Exercise 8 - Arrays, for and foreach.pdb
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 8 - Arrays, for and foreach\Coding Exercise 8 - Arrays, for and foreach\obj\Debug\net6.0\Coding Exercise 8 - Arrays, for and foreach.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 8 - Arrays, for and foreach\Coding Exercise 8 - Arrays, for and foreach\obj\Debug\net6.0\ref\Coding Exercise 8 - Arrays, for and foreach.dll

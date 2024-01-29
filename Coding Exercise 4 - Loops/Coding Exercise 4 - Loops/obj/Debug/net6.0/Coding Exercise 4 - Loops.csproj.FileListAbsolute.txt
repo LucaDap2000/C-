@@ -1,0 +1,14 @@
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 4 - Loops\Coding Exercise 4 - Loops\bin\Debug\net6.0\Coding Exercise 4 - Loops.exe
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 4 - Loops\Coding Exercise 4 - Loops\bin\Debug\net6.0\Coding Exercise 4 - Loops.deps.json
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 4 - Loops\Coding Exercise 4 - Loops\bin\Debug\net6.0\Coding Exercise 4 - Loops.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 4 - Loops\Coding Exercise 4 - Loops\bin\Debug\net6.0\Coding Exercise 4 - Loops.dll
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 4 - Loops\Coding Exercise 4 - Loops\bin\Debug\net6.0\Coding Exercise 4 - Loops.pdb
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 4 - Loops\Coding Exercise 4 - Loops\obj\Debug\net6.0\Coding Exercise 4 - Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 4 - Loops\Coding Exercise 4 - Loops\obj\Debug\net6.0\Coding Exercise 4 - Loops.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 4 - Loops\Coding Exercise 4 - Loops\obj\Debug\net6.0\Coding Exercise 4 - Loops.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 4 - Loops\Coding Exercise 4 - Loops\obj\Debug\net6.0\Coding Exercise 4 - Loops.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 4 - Loops\Coding Exercise 4 - Loops\obj\Debug\net6.0\Coding Exercise 4 - Loops.dll
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 4 - Loops\Coding Exercise 4 - Loops\obj\Debug\net6.0\refint\Coding Exercise 4 - Loops.dll
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 4 - Loops\Coding Exercise 4 - Loops\obj\Debug\net6.0\Coding Exercise 4 - Loops.pdb
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 4 - Loops\Coding Exercise 4 - Loops\obj\Debug\net6.0\Coding Exercise 4 - Loops.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise 4 - Loops\Coding Exercise 4 - Loops\obj\Debug\net6.0\ref\Coding Exercise 4 - Loops.dll
