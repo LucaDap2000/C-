@@ -1,0 +1,14 @@
+C:\Users\LucaD'Aprano\source\repos\Switchstaments\Switchstaments\bin\Debug\net6.0\Switchstaments.exe
+C:\Users\LucaD'Aprano\source\repos\Switchstaments\Switchstaments\bin\Debug\net6.0\Switchstaments.deps.json
+C:\Users\LucaD'Aprano\source\repos\Switchstaments\Switchstaments\bin\Debug\net6.0\Switchstaments.runtimeconfig.json
+C:\Users\LucaD'Aprano\source\repos\Switchstaments\Switchstaments\bin\Debug\net6.0\Switchstaments.dll
+C:\Users\LucaD'Aprano\source\repos\Switchstaments\Switchstaments\bin\Debug\net6.0\Switchstaments.pdb
+C:\Users\LucaD'Aprano\source\repos\Switchstaments\Switchstaments\obj\Debug\net6.0\Switchstaments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucaD'Aprano\source\repos\Switchstaments\Switchstaments\obj\Debug\net6.0\Switchstaments.AssemblyInfoInputs.cache
+C:\Users\LucaD'Aprano\source\repos\Switchstaments\Switchstaments\obj\Debug\net6.0\Switchstaments.AssemblyInfo.cs
+C:\Users\LucaD'Aprano\source\repos\Switchstaments\Switchstaments\obj\Debug\net6.0\Switchstaments.csproj.CoreCompileInputs.cache
+C:\Users\LucaD'Aprano\source\repos\Switchstaments\Switchstaments\obj\Debug\net6.0\Switchstaments.dll
+C:\Users\LucaD'Aprano\source\repos\Switchstaments\Switchstaments\obj\Debug\net6.0\refint\Switchstaments.dll
+C:\Users\LucaD'Aprano\source\repos\Switchstaments\Switchstaments\obj\Debug\net6.0\Switchstaments.pdb
+C:\Users\LucaD'Aprano\source\repos\Switchstaments\Switchstaments\obj\Debug\net6.0\Switchstaments.genruntimeconfig.cache
+C:\Users\LucaD'Aprano\source\repos\Switchstaments\Switchstaments\obj\Debug\net6.0\ref\Switchstaments.dll

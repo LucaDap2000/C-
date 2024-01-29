@@ -1,0 +1,14 @@
+C:\Users\LucaD'Aprano\source\repos\Tryandcatch\Tryandcatch\bin\Debug\net6.0\Tryandcatch.exe
+C:\Users\LucaD'Aprano\source\repos\Tryandcatch\Tryandcatch\bin\Debug\net6.0\Tryandcatch.deps.json
+C:\Users\LucaD'Aprano\source\repos\Tryandcatch\Tryandcatch\bin\Debug\net6.0\Tryandcatch.runtimeconfig.json
+C:\Users\LucaD'Aprano\source\repos\Tryandcatch\Tryandcatch\bin\Debug\net6.0\Tryandcatch.dll
+C:\Users\LucaD'Aprano\source\repos\Tryandcatch\Tryandcatch\bin\Debug\net6.0\Tryandcatch.pdb
+C:\Users\LucaD'Aprano\source\repos\Tryandcatch\Tryandcatch\obj\Debug\net6.0\Tryandcatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucaD'Aprano\source\repos\Tryandcatch\Tryandcatch\obj\Debug\net6.0\Tryandcatch.AssemblyInfoInputs.cache
+C:\Users\LucaD'Aprano\source\repos\Tryandcatch\Tryandcatch\obj\Debug\net6.0\Tryandcatch.AssemblyInfo.cs
+C:\Users\LucaD'Aprano\source\repos\Tryandcatch\Tryandcatch\obj\Debug\net6.0\Tryandcatch.csproj.CoreCompileInputs.cache
+C:\Users\LucaD'Aprano\source\repos\Tryandcatch\Tryandcatch\obj\Debug\net6.0\Tryandcatch.dll
+C:\Users\LucaD'Aprano\source\repos\Tryandcatch\Tryandcatch\obj\Debug\net6.0\refint\Tryandcatch.dll
+C:\Users\LucaD'Aprano\source\repos\Tryandcatch\Tryandcatch\obj\Debug\net6.0\Tryandcatch.pdb
+C:\Users\LucaD'Aprano\source\repos\Tryandcatch\Tryandcatch\obj\Debug\net6.0\Tryandcatch.genruntimeconfig.cache
+C:\Users\LucaD'Aprano\source\repos\Tryandcatch\Tryandcatch\obj\Debug\net6.0\ref\Tryandcatch.dll

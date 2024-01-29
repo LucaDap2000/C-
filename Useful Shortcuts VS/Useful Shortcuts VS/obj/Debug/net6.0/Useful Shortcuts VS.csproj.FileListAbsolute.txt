@@ -1,0 +1,14 @@
+C:\Users\Luca D'Aprano\source\repos\Useful Shortcuts VS\Useful Shortcuts VS\bin\Debug\net6.0\Useful Shortcuts VS.exe
+C:\Users\Luca D'Aprano\source\repos\Useful Shortcuts VS\Useful Shortcuts VS\bin\Debug\net6.0\Useful Shortcuts VS.deps.json
+C:\Users\Luca D'Aprano\source\repos\Useful Shortcuts VS\Useful Shortcuts VS\bin\Debug\net6.0\Useful Shortcuts VS.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\Useful Shortcuts VS\Useful Shortcuts VS\bin\Debug\net6.0\Useful Shortcuts VS.dll
+C:\Users\Luca D'Aprano\source\repos\Useful Shortcuts VS\Useful Shortcuts VS\bin\Debug\net6.0\Useful Shortcuts VS.pdb
+C:\Users\Luca D'Aprano\source\repos\Useful Shortcuts VS\Useful Shortcuts VS\obj\Debug\net6.0\Useful Shortcuts VS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\Useful Shortcuts VS\Useful Shortcuts VS\obj\Debug\net6.0\Useful Shortcuts VS.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Useful Shortcuts VS\Useful Shortcuts VS\obj\Debug\net6.0\Useful Shortcuts VS.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\Useful Shortcuts VS\Useful Shortcuts VS\obj\Debug\net6.0\Useful Shortcuts VS.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Useful Shortcuts VS\Useful Shortcuts VS\obj\Debug\net6.0\Useful Shortcuts VS.dll
+C:\Users\Luca D'Aprano\source\repos\Useful Shortcuts VS\Useful Shortcuts VS\obj\Debug\net6.0\refint\Useful Shortcuts VS.dll
+C:\Users\Luca D'Aprano\source\repos\Useful Shortcuts VS\Useful Shortcuts VS\obj\Debug\net6.0\Useful Shortcuts VS.pdb
+C:\Users\Luca D'Aprano\source\repos\Useful Shortcuts VS\Useful Shortcuts VS\obj\Debug\net6.0\Useful Shortcuts VS.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\Useful Shortcuts VS\Useful Shortcuts VS\obj\Debug\net6.0\ref\Useful Shortcuts VS.dll
