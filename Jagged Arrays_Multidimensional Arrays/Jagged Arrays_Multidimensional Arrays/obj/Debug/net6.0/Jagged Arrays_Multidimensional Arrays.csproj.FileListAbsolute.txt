@@ -1,0 +1,14 @@
+C:\Users\Luca D'Aprano\source\repos\Jagged Arrays_Multidimensional Arrays\Jagged Arrays_Multidimensional Arrays\bin\Debug\net6.0\Jagged Arrays_Multidimensional Arrays.exe
+C:\Users\Luca D'Aprano\source\repos\Jagged Arrays_Multidimensional Arrays\Jagged Arrays_Multidimensional Arrays\bin\Debug\net6.0\Jagged Arrays_Multidimensional Arrays.deps.json
+C:\Users\Luca D'Aprano\source\repos\Jagged Arrays_Multidimensional Arrays\Jagged Arrays_Multidimensional Arrays\bin\Debug\net6.0\Jagged Arrays_Multidimensional Arrays.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\Jagged Arrays_Multidimensional Arrays\Jagged Arrays_Multidimensional Arrays\bin\Debug\net6.0\Jagged Arrays_Multidimensional Arrays.dll
+C:\Users\Luca D'Aprano\source\repos\Jagged Arrays_Multidimensional Arrays\Jagged Arrays_Multidimensional Arrays\bin\Debug\net6.0\Jagged Arrays_Multidimensional Arrays.pdb
+C:\Users\Luca D'Aprano\source\repos\Jagged Arrays_Multidimensional Arrays\Jagged Arrays_Multidimensional Arrays\obj\Debug\net6.0\Jagged Arrays_Multidimensional Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\Jagged Arrays_Multidimensional Arrays\Jagged Arrays_Multidimensional Arrays\obj\Debug\net6.0\Jagged Arrays_Multidimensional Arrays.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Jagged Arrays_Multidimensional Arrays\Jagged Arrays_Multidimensional Arrays\obj\Debug\net6.0\Jagged Arrays_Multidimensional Arrays.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\Jagged Arrays_Multidimensional Arrays\Jagged Arrays_Multidimensional Arrays\obj\Debug\net6.0\Jagged Arrays_Multidimensional Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Jagged Arrays_Multidimensional Arrays\Jagged Arrays_Multidimensional Arrays\obj\Debug\net6.0\Jagged Arrays_Multidimensional Arrays.dll
+C:\Users\Luca D'Aprano\source\repos\Jagged Arrays_Multidimensional Arrays\Jagged Arrays_Multidimensional Arrays\obj\Debug\net6.0\refint\Jagged Arrays_Multidimensional Arrays.dll
+C:\Users\Luca D'Aprano\source\repos\Jagged Arrays_Multidimensional Arrays\Jagged Arrays_Multidimensional Arrays\obj\Debug\net6.0\Jagged Arrays_Multidimensional Arrays.pdb
+C:\Users\Luca D'Aprano\source\repos\Jagged Arrays_Multidimensional Arrays\Jagged Arrays_Multidimensional Arrays\obj\Debug\net6.0\Jagged Arrays_Multidimensional Arrays.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\Jagged Arrays_Multidimensional Arrays\Jagged Arrays_Multidimensional Arrays\obj\Debug\net6.0\ref\Jagged Arrays_Multidimensional Arrays.dll

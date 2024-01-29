@@ -1,0 +1,14 @@
+C:\Users\Luca D'Aprano\source\repos\Jagged Arrays\Jagged Arrays\bin\Debug\net6.0\Jagged Arrays.exe
+C:\Users\Luca D'Aprano\source\repos\Jagged Arrays\Jagged Arrays\bin\Debug\net6.0\Jagged Arrays.deps.json
+C:\Users\Luca D'Aprano\source\repos\Jagged Arrays\Jagged Arrays\bin\Debug\net6.0\Jagged Arrays.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\Jagged Arrays\Jagged Arrays\bin\Debug\net6.0\Jagged Arrays.dll
+C:\Users\Luca D'Aprano\source\repos\Jagged Arrays\Jagged Arrays\bin\Debug\net6.0\Jagged Arrays.pdb
+C:\Users\Luca D'Aprano\source\repos\Jagged Arrays\Jagged Arrays\obj\Debug\net6.0\Jagged Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\Jagged Arrays\Jagged Arrays\obj\Debug\net6.0\Jagged Arrays.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Jagged Arrays\Jagged Arrays\obj\Debug\net6.0\Jagged Arrays.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\Jagged Arrays\Jagged Arrays\obj\Debug\net6.0\Jagged Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Jagged Arrays\Jagged Arrays\obj\Debug\net6.0\Jagged Arrays.dll
+C:\Users\Luca D'Aprano\source\repos\Jagged Arrays\Jagged Arrays\obj\Debug\net6.0\refint\Jagged Arrays.dll
+C:\Users\Luca D'Aprano\source\repos\Jagged Arrays\Jagged Arrays\obj\Debug\net6.0\Jagged Arrays.pdb
+C:\Users\Luca D'Aprano\source\repos\Jagged Arrays\Jagged Arrays\obj\Debug\net6.0\Jagged Arrays.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\Jagged Arrays\Jagged Arrays\obj\Debug\net6.0\ref\Jagged Arrays.dll

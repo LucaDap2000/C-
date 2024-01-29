@@ -1,0 +1,14 @@
+C:\Users\Luca D'Aprano\source\repos\Members & Finalisers_Destructors\Members & Finalisers_Destructors\bin\Debug\net6.0\Members & Finalisers_Destructors.exe
+C:\Users\Luca D'Aprano\source\repos\Members & Finalisers_Destructors\Members & Finalisers_Destructors\bin\Debug\net6.0\Members & Finalisers_Destructors.deps.json
+C:\Users\Luca D'Aprano\source\repos\Members & Finalisers_Destructors\Members & Finalisers_Destructors\bin\Debug\net6.0\Members & Finalisers_Destructors.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\Members & Finalisers_Destructors\Members & Finalisers_Destructors\bin\Debug\net6.0\Members & Finalisers_Destructors.dll
+C:\Users\Luca D'Aprano\source\repos\Members & Finalisers_Destructors\Members & Finalisers_Destructors\bin\Debug\net6.0\Members & Finalisers_Destructors.pdb
+C:\Users\Luca D'Aprano\source\repos\Members & Finalisers_Destructors\Members & Finalisers_Destructors\obj\Debug\net6.0\Members & Finalisers_Destructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\Members & Finalisers_Destructors\Members & Finalisers_Destructors\obj\Debug\net6.0\Members & Finalisers_Destructors.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Members & Finalisers_Destructors\Members & Finalisers_Destructors\obj\Debug\net6.0\Members & Finalisers_Destructors.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\Members & Finalisers_Destructors\Members & Finalisers_Destructors\obj\Debug\net6.0\Members & Finalisers_Destructors.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Members & Finalisers_Destructors\Members & Finalisers_Destructors\obj\Debug\net6.0\Members & Finalisers_Destructors.dll
+C:\Users\Luca D'Aprano\source\repos\Members & Finalisers_Destructors\Members & Finalisers_Destructors\obj\Debug\net6.0\refint\Members & Finalisers_Destructors.dll
+C:\Users\Luca D'Aprano\source\repos\Members & Finalisers_Destructors\Members & Finalisers_Destructors\obj\Debug\net6.0\Members & Finalisers_Destructors.pdb
+C:\Users\Luca D'Aprano\source\repos\Members & Finalisers_Destructors\Members & Finalisers_Destructors\obj\Debug\net6.0\Members & Finalisers_Destructors.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\Members & Finalisers_Destructors\Members & Finalisers_Destructors\obj\Debug\net6.0\ref\Members & Finalisers_Destructors.dll
