@@ -1,0 +1,14 @@
+C:\Users\Luca D'Aprano\source\repos\Arrays as Parameters\Arrays as Parameters\bin\Debug\net6.0\Arrays as Parameters.exe
+C:\Users\Luca D'Aprano\source\repos\Arrays as Parameters\Arrays as Parameters\bin\Debug\net6.0\Arrays as Parameters.deps.json
+C:\Users\Luca D'Aprano\source\repos\Arrays as Parameters\Arrays as Parameters\bin\Debug\net6.0\Arrays as Parameters.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\Arrays as Parameters\Arrays as Parameters\bin\Debug\net6.0\Arrays as Parameters.dll
+C:\Users\Luca D'Aprano\source\repos\Arrays as Parameters\Arrays as Parameters\bin\Debug\net6.0\Arrays as Parameters.pdb
+C:\Users\Luca D'Aprano\source\repos\Arrays as Parameters\Arrays as Parameters\obj\Debug\net6.0\Arrays as Parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\Arrays as Parameters\Arrays as Parameters\obj\Debug\net6.0\Arrays as Parameters.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Arrays as Parameters\Arrays as Parameters\obj\Debug\net6.0\Arrays as Parameters.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\Arrays as Parameters\Arrays as Parameters\obj\Debug\net6.0\Arrays as Parameters.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Arrays as Parameters\Arrays as Parameters\obj\Debug\net6.0\Arrays as Parameters.dll
+C:\Users\Luca D'Aprano\source\repos\Arrays as Parameters\Arrays as Parameters\obj\Debug\net6.0\refint\Arrays as Parameters.dll
+C:\Users\Luca D'Aprano\source\repos\Arrays as Parameters\Arrays as Parameters\obj\Debug\net6.0\Arrays as Parameters.pdb
+C:\Users\Luca D'Aprano\source\repos\Arrays as Parameters\Arrays as Parameters\obj\Debug\net6.0\Arrays as Parameters.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\Arrays as Parameters\Arrays as Parameters\obj\Debug\net6.0\ref\Arrays as Parameters.dll

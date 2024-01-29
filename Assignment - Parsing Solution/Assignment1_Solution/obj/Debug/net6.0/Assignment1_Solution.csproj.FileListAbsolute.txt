@@ -1,0 +1,14 @@
+C:\Users\LucaD'Aprano\source\repos\Assignment1_Solution\Assignment1_Solution\bin\Debug\net6.0\Assignment1_Solution.exe
+C:\Users\LucaD'Aprano\source\repos\Assignment1_Solution\Assignment1_Solution\bin\Debug\net6.0\Assignment1_Solution.deps.json
+C:\Users\LucaD'Aprano\source\repos\Assignment1_Solution\Assignment1_Solution\bin\Debug\net6.0\Assignment1_Solution.runtimeconfig.json
+C:\Users\LucaD'Aprano\source\repos\Assignment1_Solution\Assignment1_Solution\bin\Debug\net6.0\Assignment1_Solution.dll
+C:\Users\LucaD'Aprano\source\repos\Assignment1_Solution\Assignment1_Solution\bin\Debug\net6.0\Assignment1_Solution.pdb
+C:\Users\LucaD'Aprano\source\repos\Assignment1_Solution\Assignment1_Solution\obj\Debug\net6.0\Assignment1_Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucaD'Aprano\source\repos\Assignment1_Solution\Assignment1_Solution\obj\Debug\net6.0\Assignment1_Solution.AssemblyInfoInputs.cache
+C:\Users\LucaD'Aprano\source\repos\Assignment1_Solution\Assignment1_Solution\obj\Debug\net6.0\Assignment1_Solution.AssemblyInfo.cs
+C:\Users\LucaD'Aprano\source\repos\Assignment1_Solution\Assignment1_Solution\obj\Debug\net6.0\Assignment1_Solution.csproj.CoreCompileInputs.cache
+C:\Users\LucaD'Aprano\source\repos\Assignment1_Solution\Assignment1_Solution\obj\Debug\net6.0\Assignment1_Solution.dll
+C:\Users\LucaD'Aprano\source\repos\Assignment1_Solution\Assignment1_Solution\obj\Debug\net6.0\refint\Assignment1_Solution.dll
+C:\Users\LucaD'Aprano\source\repos\Assignment1_Solution\Assignment1_Solution\obj\Debug\net6.0\Assignment1_Solution.pdb
+C:\Users\LucaD'Aprano\source\repos\Assignment1_Solution\Assignment1_Solution\obj\Debug\net6.0\Assignment1_Solution.genruntimeconfig.cache
+C:\Users\LucaD'Aprano\source\repos\Assignment1_Solution\Assignment1_Solution\obj\Debug\net6.0\ref\Assignment1_Solution.dll
