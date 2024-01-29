@@ -1,0 +1,14 @@
+C:\Users\LucaD'Aprano\source\repos\Codingexercise1 - Methods\Codingexercise1 - Methods\bin\Debug\net6.0\Codingexercise1 - Methods.exe
+C:\Users\LucaD'Aprano\source\repos\Codingexercise1 - Methods\Codingexercise1 - Methods\bin\Debug\net6.0\Codingexercise1 - Methods.deps.json
+C:\Users\LucaD'Aprano\source\repos\Codingexercise1 - Methods\Codingexercise1 - Methods\bin\Debug\net6.0\Codingexercise1 - Methods.runtimeconfig.json
+C:\Users\LucaD'Aprano\source\repos\Codingexercise1 - Methods\Codingexercise1 - Methods\bin\Debug\net6.0\Codingexercise1 - Methods.dll
+C:\Users\LucaD'Aprano\source\repos\Codingexercise1 - Methods\Codingexercise1 - Methods\bin\Debug\net6.0\Codingexercise1 - Methods.pdb
+C:\Users\LucaD'Aprano\source\repos\Codingexercise1 - Methods\Codingexercise1 - Methods\obj\Debug\net6.0\Codingexercise1 - Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucaD'Aprano\source\repos\Codingexercise1 - Methods\Codingexercise1 - Methods\obj\Debug\net6.0\Codingexercise1 - Methods.AssemblyInfoInputs.cache
+C:\Users\LucaD'Aprano\source\repos\Codingexercise1 - Methods\Codingexercise1 - Methods\obj\Debug\net6.0\Codingexercise1 - Methods.AssemblyInfo.cs
+C:\Users\LucaD'Aprano\source\repos\Codingexercise1 - Methods\Codingexercise1 - Methods\obj\Debug\net6.0\Codingexercise1 - Methods.csproj.CoreCompileInputs.cache
+C:\Users\LucaD'Aprano\source\repos\Codingexercise1 - Methods\Codingexercise1 - Methods\obj\Debug\net6.0\Codingexercise1 - Methods.dll
+C:\Users\LucaD'Aprano\source\repos\Codingexercise1 - Methods\Codingexercise1 - Methods\obj\Debug\net6.0\refint\Codingexercise1 - Methods.dll
+C:\Users\LucaD'Aprano\source\repos\Codingexercise1 - Methods\Codingexercise1 - Methods\obj\Debug\net6.0\Codingexercise1 - Methods.pdb
+C:\Users\LucaD'Aprano\source\repos\Codingexercise1 - Methods\Codingexercise1 - Methods\obj\Debug\net6.0\Codingexercise1 - Methods.genruntimeconfig.cache
+C:\Users\LucaD'Aprano\source\repos\Codingexercise1 - Methods\Codingexercise1 - Methods\obj\Debug\net6.0\ref\Codingexercise1 - Methods.dll
