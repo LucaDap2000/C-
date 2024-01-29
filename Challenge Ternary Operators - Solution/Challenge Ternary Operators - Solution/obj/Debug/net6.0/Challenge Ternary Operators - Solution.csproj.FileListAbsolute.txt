@@ -1,0 +1,14 @@
+C:\Users\Luca D'Aprano\source\repos\Challenge Ternary Operators - Solution\Challenge Ternary Operators - Solution\bin\Debug\net6.0\Challenge Ternary Operators - Solution.exe
+C:\Users\Luca D'Aprano\source\repos\Challenge Ternary Operators - Solution\Challenge Ternary Operators - Solution\bin\Debug\net6.0\Challenge Ternary Operators - Solution.deps.json
+C:\Users\Luca D'Aprano\source\repos\Challenge Ternary Operators - Solution\Challenge Ternary Operators - Solution\bin\Debug\net6.0\Challenge Ternary Operators - Solution.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\Challenge Ternary Operators - Solution\Challenge Ternary Operators - Solution\bin\Debug\net6.0\Challenge Ternary Operators - Solution.dll
+C:\Users\Luca D'Aprano\source\repos\Challenge Ternary Operators - Solution\Challenge Ternary Operators - Solution\bin\Debug\net6.0\Challenge Ternary Operators - Solution.pdb
+C:\Users\Luca D'Aprano\source\repos\Challenge Ternary Operators - Solution\Challenge Ternary Operators - Solution\obj\Debug\net6.0\Challenge Ternary Operators - Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\Challenge Ternary Operators - Solution\Challenge Ternary Operators - Solution\obj\Debug\net6.0\Challenge Ternary Operators - Solution.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Challenge Ternary Operators - Solution\Challenge Ternary Operators - Solution\obj\Debug\net6.0\Challenge Ternary Operators - Solution.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\Challenge Ternary Operators - Solution\Challenge Ternary Operators - Solution\obj\Debug\net6.0\Challenge Ternary Operators - Solution.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Challenge Ternary Operators - Solution\Challenge Ternary Operators - Solution\obj\Debug\net6.0\Challenge Ternary Operators - Solution.dll
+C:\Users\Luca D'Aprano\source\repos\Challenge Ternary Operators - Solution\Challenge Ternary Operators - Solution\obj\Debug\net6.0\refint\Challenge Ternary Operators - Solution.dll
+C:\Users\Luca D'Aprano\source\repos\Challenge Ternary Operators - Solution\Challenge Ternary Operators - Solution\obj\Debug\net6.0\Challenge Ternary Operators - Solution.pdb
+C:\Users\Luca D'Aprano\source\repos\Challenge Ternary Operators - Solution\Challenge Ternary Operators - Solution\obj\Debug\net6.0\Challenge Ternary Operators - Solution.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\Challenge Ternary Operators - Solution\Challenge Ternary Operators - Solution\obj\Debug\net6.0\ref\Challenge Ternary Operators - Solution.dll
