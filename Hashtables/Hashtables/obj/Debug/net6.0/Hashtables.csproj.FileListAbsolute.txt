@@ -1,0 +1,14 @@
+C:\Users\Luca D'Aprano\source\repos\Hashtables\Hashtables\bin\Debug\net6.0\Hashtables.exe
+C:\Users\Luca D'Aprano\source\repos\Hashtables\Hashtables\bin\Debug\net6.0\Hashtables.deps.json
+C:\Users\Luca D'Aprano\source\repos\Hashtables\Hashtables\bin\Debug\net6.0\Hashtables.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\Hashtables\Hashtables\bin\Debug\net6.0\Hashtables.dll
+C:\Users\Luca D'Aprano\source\repos\Hashtables\Hashtables\bin\Debug\net6.0\Hashtables.pdb
+C:\Users\Luca D'Aprano\source\repos\Hashtables\Hashtables\obj\Debug\net6.0\Hashtables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\Hashtables\Hashtables\obj\Debug\net6.0\Hashtables.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Hashtables\Hashtables\obj\Debug\net6.0\Hashtables.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\Hashtables\Hashtables\obj\Debug\net6.0\Hashtables.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Hashtables\Hashtables\obj\Debug\net6.0\Hashtables.dll
+C:\Users\Luca D'Aprano\source\repos\Hashtables\Hashtables\obj\Debug\net6.0\refint\Hashtables.dll
+C:\Users\Luca D'Aprano\source\repos\Hashtables\Hashtables\obj\Debug\net6.0\Hashtables.pdb
+C:\Users\Luca D'Aprano\source\repos\Hashtables\Hashtables\obj\Debug\net6.0\Hashtables.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\Hashtables\Hashtables\obj\Debug\net6.0\ref\Hashtables.dll
