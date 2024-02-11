@@ -1,0 +1,14 @@
+C:\Users\Luca D'Aprano\source\repos\Stacks in C#\Stacks in C#\bin\Debug\net6.0\Stacks in C#.exe
+C:\Users\Luca D'Aprano\source\repos\Stacks in C#\Stacks in C#\bin\Debug\net6.0\Stacks in C#.deps.json
+C:\Users\Luca D'Aprano\source\repos\Stacks in C#\Stacks in C#\bin\Debug\net6.0\Stacks in C#.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\Stacks in C#\Stacks in C#\bin\Debug\net6.0\Stacks in C#.dll
+C:\Users\Luca D'Aprano\source\repos\Stacks in C#\Stacks in C#\bin\Debug\net6.0\Stacks in C#.pdb
+C:\Users\Luca D'Aprano\source\repos\Stacks in C#\Stacks in C#\obj\Debug\net6.0\Stacks in C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\Stacks in C#\Stacks in C#\obj\Debug\net6.0\Stacks in C#.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Stacks in C#\Stacks in C#\obj\Debug\net6.0\Stacks in C#.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\Stacks in C#\Stacks in C#\obj\Debug\net6.0\Stacks in C#.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Stacks in C#\Stacks in C#\obj\Debug\net6.0\Stacks in C#.dll
+C:\Users\Luca D'Aprano\source\repos\Stacks in C#\Stacks in C#\obj\Debug\net6.0\refint\Stacks in C#.dll
+C:\Users\Luca D'Aprano\source\repos\Stacks in C#\Stacks in C#\obj\Debug\net6.0\Stacks in C#.pdb
+C:\Users\Luca D'Aprano\source\repos\Stacks in C#\Stacks in C#\obj\Debug\net6.0\Stacks in C#.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\Stacks in C#\Stacks in C#\obj\Debug\net6.0\ref\Stacks in C#.dll
