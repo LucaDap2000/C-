@@ -1,0 +1,28 @@
+C:\Users\Luca D'Aprano\source\repos\Dictionaries\Dictionaries\bin\Debug\net6.0\Dictionaries.exe
+C:\Users\Luca D'Aprano\source\repos\Dictionaries\Dictionaries\bin\Debug\net6.0\Dictionaries.deps.json
+C:\Users\Luca D'Aprano\source\repos\Dictionaries\Dictionaries\bin\Debug\net6.0\Dictionaries.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\Dictionaries\Dictionaries\bin\Debug\net6.0\Dictionaries.dll
+C:\Users\Luca D'Aprano\source\repos\Dictionaries\Dictionaries\bin\Debug\net6.0\Dictionaries.pdb
+C:\Users\Luca D'Aprano\source\repos\Dictionaries\Dictionaries\obj\Debug\net6.0\Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\Dictionaries\Dictionaries\obj\Debug\net6.0\Dictionaries.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Dictionaries\Dictionaries\obj\Debug\net6.0\Dictionaries.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\Dictionaries\Dictionaries\obj\Debug\net6.0\Dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Dictionaries\Dictionaries\obj\Debug\net6.0\Dictionaries.dll
+C:\Users\Luca D'Aprano\source\repos\Dictionaries\Dictionaries\obj\Debug\net6.0\refint\Dictionaries.dll
+C:\Users\Luca D'Aprano\source\repos\Dictionaries\Dictionaries\obj\Debug\net6.0\Dictionaries.pdb
+C:\Users\Luca D'Aprano\source\repos\Dictionaries\Dictionaries\obj\Debug\net6.0\Dictionaries.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\Dictionaries\Dictionaries\obj\Debug\net6.0\ref\Dictionaries.dll
+C:\Users\Luca D'Aprano\source\repos\Editing Dictionaries\Dictionaries\bin\Debug\net6.0\Dictionaries.exe
+C:\Users\Luca D'Aprano\source\repos\Editing Dictionaries\Dictionaries\bin\Debug\net6.0\Dictionaries.deps.json
+C:\Users\Luca D'Aprano\source\repos\Editing Dictionaries\Dictionaries\bin\Debug\net6.0\Dictionaries.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\Editing Dictionaries\Dictionaries\bin\Debug\net6.0\Dictionaries.dll
+C:\Users\Luca D'Aprano\source\repos\Editing Dictionaries\Dictionaries\bin\Debug\net6.0\Dictionaries.pdb
+C:\Users\Luca D'Aprano\source\repos\Editing Dictionaries\Dictionaries\obj\Debug\net6.0\Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\Editing Dictionaries\Dictionaries\obj\Debug\net6.0\Dictionaries.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Editing Dictionaries\Dictionaries\obj\Debug\net6.0\Dictionaries.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\Editing Dictionaries\Dictionaries\obj\Debug\net6.0\Dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Editing Dictionaries\Dictionaries\obj\Debug\net6.0\Dictionaries.dll
+C:\Users\Luca D'Aprano\source\repos\Editing Dictionaries\Dictionaries\obj\Debug\net6.0\refint\Dictionaries.dll
+C:\Users\Luca D'Aprano\source\repos\Editing Dictionaries\Dictionaries\obj\Debug\net6.0\Dictionaries.pdb
+C:\Users\Luca D'Aprano\source\repos\Editing Dictionaries\Dictionaries\obj\Debug\net6.0\Dictionaries.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\Editing Dictionaries\Dictionaries\obj\Debug\net6.0\ref\Dictionaries.dll
