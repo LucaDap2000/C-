@@ -1,0 +1,14 @@
+C:\Users\Luca D'Aprano\source\repos\Inheritance Introduction\Inheritance Introduction\bin\Debug\net6.0\Inheritance Introduction.exe
+C:\Users\Luca D'Aprano\source\repos\Inheritance Introduction\Inheritance Introduction\bin\Debug\net6.0\Inheritance Introduction.deps.json
+C:\Users\Luca D'Aprano\source\repos\Inheritance Introduction\Inheritance Introduction\bin\Debug\net6.0\Inheritance Introduction.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\Inheritance Introduction\Inheritance Introduction\bin\Debug\net6.0\Inheritance Introduction.dll
+C:\Users\Luca D'Aprano\source\repos\Inheritance Introduction\Inheritance Introduction\bin\Debug\net6.0\Inheritance Introduction.pdb
+C:\Users\Luca D'Aprano\source\repos\Inheritance Introduction\Inheritance Introduction\obj\Debug\net6.0\Inheritance Introduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\Inheritance Introduction\Inheritance Introduction\obj\Debug\net6.0\Inheritance Introduction.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Inheritance Introduction\Inheritance Introduction\obj\Debug\net6.0\Inheritance Introduction.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\Inheritance Introduction\Inheritance Introduction\obj\Debug\net6.0\Inheritance Introduction.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Inheritance Introduction\Inheritance Introduction\obj\Debug\net6.0\Inheritance Introduction.dll
+C:\Users\Luca D'Aprano\source\repos\Inheritance Introduction\Inheritance Introduction\obj\Debug\net6.0\refint\Inheritance Introduction.dll
+C:\Users\Luca D'Aprano\source\repos\Inheritance Introduction\Inheritance Introduction\obj\Debug\net6.0\Inheritance Introduction.pdb
+C:\Users\Luca D'Aprano\source\repos\Inheritance Introduction\Inheritance Introduction\obj\Debug\net6.0\Inheritance Introduction.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\Inheritance Introduction\Inheritance Introduction\obj\Debug\net6.0\ref\Inheritance Introduction.dll
