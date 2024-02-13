@@ -1,0 +1,14 @@
+C:\Users\Luca D'Aprano\source\repos\Debugging Basics\Debugging Basics\bin\Debug\net6.0\Debugging Basics.exe
+C:\Users\Luca D'Aprano\source\repos\Debugging Basics\Debugging Basics\bin\Debug\net6.0\Debugging Basics.deps.json
+C:\Users\Luca D'Aprano\source\repos\Debugging Basics\Debugging Basics\bin\Debug\net6.0\Debugging Basics.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\Debugging Basics\Debugging Basics\bin\Debug\net6.0\Debugging Basics.dll
+C:\Users\Luca D'Aprano\source\repos\Debugging Basics\Debugging Basics\bin\Debug\net6.0\Debugging Basics.pdb
+C:\Users\Luca D'Aprano\source\repos\Debugging Basics\Debugging Basics\obj\Debug\net6.0\Debugging Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\Debugging Basics\Debugging Basics\obj\Debug\net6.0\Debugging Basics.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Debugging Basics\Debugging Basics\obj\Debug\net6.0\Debugging Basics.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\Debugging Basics\Debugging Basics\obj\Debug\net6.0\Debugging Basics.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Debugging Basics\Debugging Basics\obj\Debug\net6.0\Debugging Basics.dll
+C:\Users\Luca D'Aprano\source\repos\Debugging Basics\Debugging Basics\obj\Debug\net6.0\refint\Debugging Basics.dll
+C:\Users\Luca D'Aprano\source\repos\Debugging Basics\Debugging Basics\obj\Debug\net6.0\Debugging Basics.pdb
+C:\Users\Luca D'Aprano\source\repos\Debugging Basics\Debugging Basics\obj\Debug\net6.0\Debugging Basics.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\Debugging Basics\Debugging Basics\obj\Debug\net6.0\ref\Debugging Basics.dll
