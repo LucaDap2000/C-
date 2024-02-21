@@ -1,0 +1,14 @@
+C:\Users\Luca D'Aprano\source\repos\Virtual Override\Virtual Override\bin\Debug\net6.0\Virtual Override.exe
+C:\Users\Luca D'Aprano\source\repos\Virtual Override\Virtual Override\bin\Debug\net6.0\Virtual Override.deps.json
+C:\Users\Luca D'Aprano\source\repos\Virtual Override\Virtual Override\bin\Debug\net6.0\Virtual Override.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\Virtual Override\Virtual Override\bin\Debug\net6.0\Virtual Override.dll
+C:\Users\Luca D'Aprano\source\repos\Virtual Override\Virtual Override\bin\Debug\net6.0\Virtual Override.pdb
+C:\Users\Luca D'Aprano\source\repos\Virtual Override\Virtual Override\obj\Debug\net6.0\Virtual Override.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\Virtual Override\Virtual Override\obj\Debug\net6.0\Virtual Override.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Virtual Override\Virtual Override\obj\Debug\net6.0\Virtual Override.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\Virtual Override\Virtual Override\obj\Debug\net6.0\Virtual Override.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Virtual Override\Virtual Override\obj\Debug\net6.0\Virtual Override.dll
+C:\Users\Luca D'Aprano\source\repos\Virtual Override\Virtual Override\obj\Debug\net6.0\refint\Virtual Override.dll
+C:\Users\Luca D'Aprano\source\repos\Virtual Override\Virtual Override\obj\Debug\net6.0\Virtual Override.pdb
+C:\Users\Luca D'Aprano\source\repos\Virtual Override\Virtual Override\obj\Debug\net6.0\Virtual Override.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\Virtual Override\Virtual Override\obj\Debug\net6.0\ref\Virtual Override.dll
