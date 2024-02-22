@@ -1,0 +1,28 @@
+C:\Users\Luca D'Aprano\source\repos\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.exe
+C:\Users\Luca D'Aprano\source\repos\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.deps.json
+C:\Users\Luca D'Aprano\source\repos\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.dll
+C:\Users\Luca D'Aprano\source\repos\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.pdb
+C:\Users\Luca D'Aprano\source\repos\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.dll
+C:\Users\Luca D'Aprano\source\repos\Inheritance\Inheritance\obj\Debug\net6.0\refint\Inheritance.dll
+C:\Users\Luca D'Aprano\source\repos\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.pdb
+C:\Users\Luca D'Aprano\source\repos\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\Inheritance\Inheritance\obj\Debug\net6.0\ref\Inheritance.dll
+C:\Users\Luca D'Aprano\source\repos\Inheritance Challenge - Videopost and Timer with Callback\Inheritance\bin\Debug\net6.0\Inheritance.exe
+C:\Users\Luca D'Aprano\source\repos\Inheritance Challenge - Videopost and Timer with Callback\Inheritance\bin\Debug\net6.0\Inheritance.deps.json
+C:\Users\Luca D'Aprano\source\repos\Inheritance Challenge - Videopost and Timer with Callback\Inheritance\bin\Debug\net6.0\Inheritance.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\Inheritance Challenge - Videopost and Timer with Callback\Inheritance\bin\Debug\net6.0\Inheritance.dll
+C:\Users\Luca D'Aprano\source\repos\Inheritance Challenge - Videopost and Timer with Callback\Inheritance\bin\Debug\net6.0\Inheritance.pdb
+C:\Users\Luca D'Aprano\source\repos\Inheritance Challenge - Videopost and Timer with Callback\Inheritance\obj\Debug\net6.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\Inheritance Challenge - Videopost and Timer with Callback\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Inheritance Challenge - Videopost and Timer with Callback\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\Inheritance Challenge - Videopost and Timer with Callback\Inheritance\obj\Debug\net6.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Inheritance Challenge - Videopost and Timer with Callback\Inheritance\obj\Debug\net6.0\Inheritance.dll
+C:\Users\Luca D'Aprano\source\repos\Inheritance Challenge - Videopost and Timer with Callback\Inheritance\obj\Debug\net6.0\refint\Inheritance.dll
+C:\Users\Luca D'Aprano\source\repos\Inheritance Challenge - Videopost and Timer with Callback\Inheritance\obj\Debug\net6.0\Inheritance.pdb
+C:\Users\Luca D'Aprano\source\repos\Inheritance Challenge - Videopost and Timer with Callback\Inheritance\obj\Debug\net6.0\Inheritance.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\Inheritance Challenge - Videopost and Timer with Callback\Inheritance\obj\Debug\net6.0\ref\Inheritance.dll
