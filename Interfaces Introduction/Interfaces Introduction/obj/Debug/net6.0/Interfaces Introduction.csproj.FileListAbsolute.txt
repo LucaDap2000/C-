@@ -1,0 +1,14 @@
+C:\Users\Luca D'Aprano\source\repos\Interfaces Introduction\Interfaces Introduction\bin\Debug\net6.0\Interfaces Introduction.exe
+C:\Users\Luca D'Aprano\source\repos\Interfaces Introduction\Interfaces Introduction\bin\Debug\net6.0\Interfaces Introduction.deps.json
+C:\Users\Luca D'Aprano\source\repos\Interfaces Introduction\Interfaces Introduction\bin\Debug\net6.0\Interfaces Introduction.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\Interfaces Introduction\Interfaces Introduction\bin\Debug\net6.0\Interfaces Introduction.dll
+C:\Users\Luca D'Aprano\source\repos\Interfaces Introduction\Interfaces Introduction\bin\Debug\net6.0\Interfaces Introduction.pdb
+C:\Users\Luca D'Aprano\source\repos\Interfaces Introduction\Interfaces Introduction\obj\Debug\net6.0\Interfaces Introduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\Interfaces Introduction\Interfaces Introduction\obj\Debug\net6.0\Interfaces Introduction.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Interfaces Introduction\Interfaces Introduction\obj\Debug\net6.0\Interfaces Introduction.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\Interfaces Introduction\Interfaces Introduction\obj\Debug\net6.0\Interfaces Introduction.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Interfaces Introduction\Interfaces Introduction\obj\Debug\net6.0\Interfaces Introduction.dll
+C:\Users\Luca D'Aprano\source\repos\Interfaces Introduction\Interfaces Introduction\obj\Debug\net6.0\refint\Interfaces Introduction.dll
+C:\Users\Luca D'Aprano\source\repos\Interfaces Introduction\Interfaces Introduction\obj\Debug\net6.0\Interfaces Introduction.pdb
+C:\Users\Luca D'Aprano\source\repos\Interfaces Introduction\Interfaces Introduction\obj\Debug\net6.0\Interfaces Introduction.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\Interfaces Introduction\Interfaces Introduction\obj\Debug\net6.0\ref\Interfaces Introduction.dll
