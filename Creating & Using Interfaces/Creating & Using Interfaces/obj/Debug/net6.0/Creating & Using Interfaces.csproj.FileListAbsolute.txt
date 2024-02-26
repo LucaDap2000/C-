@@ -1,0 +1,14 @@
+C:\Users\Luca D'Aprano\source\repos\Creating & Using Interfaces\Creating & Using Interfaces\bin\Debug\net6.0\Creating & Using Interfaces.exe
+C:\Users\Luca D'Aprano\source\repos\Creating & Using Interfaces\Creating & Using Interfaces\bin\Debug\net6.0\Creating & Using Interfaces.deps.json
+C:\Users\Luca D'Aprano\source\repos\Creating & Using Interfaces\Creating & Using Interfaces\bin\Debug\net6.0\Creating & Using Interfaces.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\Creating & Using Interfaces\Creating & Using Interfaces\bin\Debug\net6.0\Creating & Using Interfaces.dll
+C:\Users\Luca D'Aprano\source\repos\Creating & Using Interfaces\Creating & Using Interfaces\bin\Debug\net6.0\Creating & Using Interfaces.pdb
+C:\Users\Luca D'Aprano\source\repos\Creating & Using Interfaces\Creating & Using Interfaces\obj\Debug\net6.0\Creating & Using Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\Creating & Using Interfaces\Creating & Using Interfaces\obj\Debug\net6.0\Creating & Using Interfaces.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Creating & Using Interfaces\Creating & Using Interfaces\obj\Debug\net6.0\Creating & Using Interfaces.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\Creating & Using Interfaces\Creating & Using Interfaces\obj\Debug\net6.0\Creating & Using Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Creating & Using Interfaces\Creating & Using Interfaces\obj\Debug\net6.0\Creating & Using Interfaces.dll
+C:\Users\Luca D'Aprano\source\repos\Creating & Using Interfaces\Creating & Using Interfaces\obj\Debug\net6.0\refint\Creating & Using Interfaces.dll
+C:\Users\Luca D'Aprano\source\repos\Creating & Using Interfaces\Creating & Using Interfaces\obj\Debug\net6.0\Creating & Using Interfaces.pdb
+C:\Users\Luca D'Aprano\source\repos\Creating & Using Interfaces\Creating & Using Interfaces\obj\Debug\net6.0\Creating & Using Interfaces.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\Creating & Using Interfaces\Creating & Using Interfaces\obj\Debug\net6.0\ref\Creating & Using Interfaces.dll
