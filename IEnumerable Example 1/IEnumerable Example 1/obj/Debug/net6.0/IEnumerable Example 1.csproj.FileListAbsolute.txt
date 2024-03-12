@@ -1,0 +1,14 @@
+C:\Users\Luca D'Aprano\source\repos\IEnumerable Example 1\IEnumerable Example 1\bin\Debug\net6.0\IEnumerable Example 1.exe
+C:\Users\Luca D'Aprano\source\repos\IEnumerable Example 1\IEnumerable Example 1\bin\Debug\net6.0\IEnumerable Example 1.deps.json
+C:\Users\Luca D'Aprano\source\repos\IEnumerable Example 1\IEnumerable Example 1\bin\Debug\net6.0\IEnumerable Example 1.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\IEnumerable Example 1\IEnumerable Example 1\bin\Debug\net6.0\IEnumerable Example 1.dll
+C:\Users\Luca D'Aprano\source\repos\IEnumerable Example 1\IEnumerable Example 1\bin\Debug\net6.0\IEnumerable Example 1.pdb
+C:\Users\Luca D'Aprano\source\repos\IEnumerable Example 1\IEnumerable Example 1\obj\Debug\net6.0\IEnumerable Example 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\IEnumerable Example 1\IEnumerable Example 1\obj\Debug\net6.0\IEnumerable Example 1.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\IEnumerable Example 1\IEnumerable Example 1\obj\Debug\net6.0\IEnumerable Example 1.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\IEnumerable Example 1\IEnumerable Example 1\obj\Debug\net6.0\IEnumerable Example 1.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\IEnumerable Example 1\IEnumerable Example 1\obj\Debug\net6.0\IEnumerable Example 1.dll
+C:\Users\Luca D'Aprano\source\repos\IEnumerable Example 1\IEnumerable Example 1\obj\Debug\net6.0\refint\IEnumerable Example 1.dll
+C:\Users\Luca D'Aprano\source\repos\IEnumerable Example 1\IEnumerable Example 1\obj\Debug\net6.0\IEnumerable Example 1.pdb
+C:\Users\Luca D'Aprano\source\repos\IEnumerable Example 1\IEnumerable Example 1\obj\Debug\net6.0\IEnumerable Example 1.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\IEnumerable Example 1\IEnumerable Example 1\obj\Debug\net6.0\ref\IEnumerable Example 1.dll
