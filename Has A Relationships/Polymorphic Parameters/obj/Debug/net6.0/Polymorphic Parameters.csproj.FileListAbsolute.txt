@@ -1,0 +1,28 @@
+C:\Users\Luca D'Aprano\source\repos\Polymorphic Parameters\Polymorphic Parameters\bin\Debug\net6.0\Polymorphic Parameters.exe
+C:\Users\Luca D'Aprano\source\repos\Polymorphic Parameters\Polymorphic Parameters\bin\Debug\net6.0\Polymorphic Parameters.deps.json
+C:\Users\Luca D'Aprano\source\repos\Polymorphic Parameters\Polymorphic Parameters\bin\Debug\net6.0\Polymorphic Parameters.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\Polymorphic Parameters\Polymorphic Parameters\bin\Debug\net6.0\Polymorphic Parameters.dll
+C:\Users\Luca D'Aprano\source\repos\Polymorphic Parameters\Polymorphic Parameters\bin\Debug\net6.0\Polymorphic Parameters.pdb
+C:\Users\Luca D'Aprano\source\repos\Polymorphic Parameters\Polymorphic Parameters\obj\Debug\net6.0\Polymorphic Parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\Polymorphic Parameters\Polymorphic Parameters\obj\Debug\net6.0\Polymorphic Parameters.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Polymorphic Parameters\Polymorphic Parameters\obj\Debug\net6.0\Polymorphic Parameters.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\Polymorphic Parameters\Polymorphic Parameters\obj\Debug\net6.0\Polymorphic Parameters.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Polymorphic Parameters\Polymorphic Parameters\obj\Debug\net6.0\Polymorphic Parameters.dll
+C:\Users\Luca D'Aprano\source\repos\Polymorphic Parameters\Polymorphic Parameters\obj\Debug\net6.0\refint\Polymorphic Parameters.dll
+C:\Users\Luca D'Aprano\source\repos\Polymorphic Parameters\Polymorphic Parameters\obj\Debug\net6.0\Polymorphic Parameters.pdb
+C:\Users\Luca D'Aprano\source\repos\Polymorphic Parameters\Polymorphic Parameters\obj\Debug\net6.0\Polymorphic Parameters.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\Polymorphic Parameters\Polymorphic Parameters\obj\Debug\net6.0\ref\Polymorphic Parameters.dll
+C:\Users\Luca D'Aprano\source\repos\Has A Relationships\Polymorphic Parameters\bin\Debug\net6.0\Polymorphic Parameters.exe
+C:\Users\Luca D'Aprano\source\repos\Has A Relationships\Polymorphic Parameters\bin\Debug\net6.0\Polymorphic Parameters.deps.json
+C:\Users\Luca D'Aprano\source\repos\Has A Relationships\Polymorphic Parameters\bin\Debug\net6.0\Polymorphic Parameters.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\Has A Relationships\Polymorphic Parameters\bin\Debug\net6.0\Polymorphic Parameters.dll
+C:\Users\Luca D'Aprano\source\repos\Has A Relationships\Polymorphic Parameters\bin\Debug\net6.0\Polymorphic Parameters.pdb
+C:\Users\Luca D'Aprano\source\repos\Has A Relationships\Polymorphic Parameters\obj\Debug\net6.0\Polymorphic Parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\Has A Relationships\Polymorphic Parameters\obj\Debug\net6.0\Polymorphic Parameters.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Has A Relationships\Polymorphic Parameters\obj\Debug\net6.0\Polymorphic Parameters.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\Has A Relationships\Polymorphic Parameters\obj\Debug\net6.0\Polymorphic Parameters.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Has A Relationships\Polymorphic Parameters\obj\Debug\net6.0\Polymorphic Parameters.dll
+C:\Users\Luca D'Aprano\source\repos\Has A Relationships\Polymorphic Parameters\obj\Debug\net6.0\refint\Polymorphic Parameters.dll
+C:\Users\Luca D'Aprano\source\repos\Has A Relationships\Polymorphic Parameters\obj\Debug\net6.0\Polymorphic Parameters.pdb
+C:\Users\Luca D'Aprano\source\repos\Has A Relationships\Polymorphic Parameters\obj\Debug\net6.0\Polymorphic Parameters.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\Has A Relationships\Polymorphic Parameters\obj\Debug\net6.0\ref\Polymorphic Parameters.dll
