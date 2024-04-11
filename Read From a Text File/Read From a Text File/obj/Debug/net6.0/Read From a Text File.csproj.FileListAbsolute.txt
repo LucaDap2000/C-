@@ -1,0 +1,14 @@
+C:\Users\Luca D'Aprano\source\repos\Read From a Text File\Read From a Text File\bin\Debug\net6.0\Read From a Text File.exe
+C:\Users\Luca D'Aprano\source\repos\Read From a Text File\Read From a Text File\bin\Debug\net6.0\Read From a Text File.deps.json
+C:\Users\Luca D'Aprano\source\repos\Read From a Text File\Read From a Text File\bin\Debug\net6.0\Read From a Text File.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\Read From a Text File\Read From a Text File\bin\Debug\net6.0\Read From a Text File.dll
+C:\Users\Luca D'Aprano\source\repos\Read From a Text File\Read From a Text File\bin\Debug\net6.0\Read From a Text File.pdb
+C:\Users\Luca D'Aprano\source\repos\Read From a Text File\Read From a Text File\obj\Debug\net6.0\Read From a Text File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\Read From a Text File\Read From a Text File\obj\Debug\net6.0\Read From a Text File.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Read From a Text File\Read From a Text File\obj\Debug\net6.0\Read From a Text File.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\Read From a Text File\Read From a Text File\obj\Debug\net6.0\Read From a Text File.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Read From a Text File\Read From a Text File\obj\Debug\net6.0\Read From a Text File.dll
+C:\Users\Luca D'Aprano\source\repos\Read From a Text File\Read From a Text File\obj\Debug\net6.0\refint\Read From a Text File.dll
+C:\Users\Luca D'Aprano\source\repos\Read From a Text File\Read From a Text File\obj\Debug\net6.0\Read From a Text File.pdb
+C:\Users\Luca D'Aprano\source\repos\Read From a Text File\Read From a Text File\obj\Debug\net6.0\Read From a Text File.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\Read From a Text File\Read From a Text File\obj\Debug\net6.0\ref\Read From a Text File.dll
