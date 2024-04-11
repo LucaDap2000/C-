@@ -1,0 +1,14 @@
+C:\Users\Luca D'Aprano\source\repos\Abstract Classes\Abstract Classes\bin\Debug\net6.0\Abstract Classes.exe
+C:\Users\Luca D'Aprano\source\repos\Abstract Classes\Abstract Classes\bin\Debug\net6.0\Abstract Classes.deps.json
+C:\Users\Luca D'Aprano\source\repos\Abstract Classes\Abstract Classes\bin\Debug\net6.0\Abstract Classes.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\Abstract Classes\Abstract Classes\bin\Debug\net6.0\Abstract Classes.dll
+C:\Users\Luca D'Aprano\source\repos\Abstract Classes\Abstract Classes\bin\Debug\net6.0\Abstract Classes.pdb
+C:\Users\Luca D'Aprano\source\repos\Abstract Classes\Abstract Classes\obj\Debug\net6.0\Abstract Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\Abstract Classes\Abstract Classes\obj\Debug\net6.0\Abstract Classes.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Abstract Classes\Abstract Classes\obj\Debug\net6.0\Abstract Classes.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\Abstract Classes\Abstract Classes\obj\Debug\net6.0\Abstract Classes.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Abstract Classes\Abstract Classes\obj\Debug\net6.0\Abstract Classes.dll
+C:\Users\Luca D'Aprano\source\repos\Abstract Classes\Abstract Classes\obj\Debug\net6.0\refint\Abstract Classes.dll
+C:\Users\Luca D'Aprano\source\repos\Abstract Classes\Abstract Classes\obj\Debug\net6.0\Abstract Classes.pdb
+C:\Users\Luca D'Aprano\source\repos\Abstract Classes\Abstract Classes\obj\Debug\net6.0\Abstract Classes.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\Abstract Classes\Abstract Classes\obj\Debug\net6.0\ref\Abstract Classes.dll
