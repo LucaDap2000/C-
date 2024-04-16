@@ -1,0 +1,14 @@
+C:\Users\Luca D'Aprano\source\repos\Random Class\Random Class\bin\Debug\net6.0\Random Class.exe
+C:\Users\Luca D'Aprano\source\repos\Random Class\Random Class\bin\Debug\net6.0\Random Class.deps.json
+C:\Users\Luca D'Aprano\source\repos\Random Class\Random Class\bin\Debug\net6.0\Random Class.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\Random Class\Random Class\bin\Debug\net6.0\Random Class.dll
+C:\Users\Luca D'Aprano\source\repos\Random Class\Random Class\bin\Debug\net6.0\Random Class.pdb
+C:\Users\Luca D'Aprano\source\repos\Random Class\Random Class\obj\Debug\net6.0\Random Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\Random Class\Random Class\obj\Debug\net6.0\Random Class.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Random Class\Random Class\obj\Debug\net6.0\Random Class.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\Random Class\Random Class\obj\Debug\net6.0\Random Class.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Random Class\Random Class\obj\Debug\net6.0\Random Class.dll
+C:\Users\Luca D'Aprano\source\repos\Random Class\Random Class\obj\Debug\net6.0\refint\Random Class.dll
+C:\Users\Luca D'Aprano\source\repos\Random Class\Random Class\obj\Debug\net6.0\Random Class.pdb
+C:\Users\Luca D'Aprano\source\repos\Random Class\Random Class\obj\Debug\net6.0\Random Class.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\Random Class\Random Class\obj\Debug\net6.0\ref\Random Class.dll
