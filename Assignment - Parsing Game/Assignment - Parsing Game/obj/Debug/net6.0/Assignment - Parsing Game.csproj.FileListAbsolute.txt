@@ -1,0 +1,14 @@
+C:\Users\Luca D'Aprano\source\repos\Assignment - Parsing Game\Assignment - Parsing Game\bin\Debug\net6.0\Assignment - Parsing Game.exe
+C:\Users\Luca D'Aprano\source\repos\Assignment - Parsing Game\Assignment - Parsing Game\bin\Debug\net6.0\Assignment - Parsing Game.deps.json
+C:\Users\Luca D'Aprano\source\repos\Assignment - Parsing Game\Assignment - Parsing Game\bin\Debug\net6.0\Assignment - Parsing Game.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\Assignment - Parsing Game\Assignment - Parsing Game\bin\Debug\net6.0\Assignment - Parsing Game.dll
+C:\Users\Luca D'Aprano\source\repos\Assignment - Parsing Game\Assignment - Parsing Game\bin\Debug\net6.0\Assignment - Parsing Game.pdb
+C:\Users\Luca D'Aprano\source\repos\Assignment - Parsing Game\Assignment - Parsing Game\obj\Debug\net6.0\Assignment - Parsing Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\Assignment - Parsing Game\Assignment - Parsing Game\obj\Debug\net6.0\Assignment - Parsing Game.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Assignment - Parsing Game\Assignment - Parsing Game\obj\Debug\net6.0\Assignment - Parsing Game.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\Assignment - Parsing Game\Assignment - Parsing Game\obj\Debug\net6.0\Assignment - Parsing Game.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Assignment - Parsing Game\Assignment - Parsing Game\obj\Debug\net6.0\Assignment - Parsing Game.dll
+C:\Users\Luca D'Aprano\source\repos\Assignment - Parsing Game\Assignment - Parsing Game\obj\Debug\net6.0\refint\Assignment - Parsing Game.dll
+C:\Users\Luca D'Aprano\source\repos\Assignment - Parsing Game\Assignment - Parsing Game\obj\Debug\net6.0\Assignment - Parsing Game.pdb
+C:\Users\Luca D'Aprano\source\repos\Assignment - Parsing Game\Assignment - Parsing Game\obj\Debug\net6.0\Assignment - Parsing Game.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\Assignment - Parsing Game\Assignment - Parsing Game\obj\Debug\net6.0\ref\Assignment - Parsing Game.dll
