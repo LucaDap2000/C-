@@ -1,0 +1,14 @@
+C:\Users\Luca D'Aprano\source\repos\Maths Class\Maths Class\bin\Debug\net6.0\Maths Class.exe
+C:\Users\Luca D'Aprano\source\repos\Maths Class\Maths Class\bin\Debug\net6.0\Maths Class.deps.json
+C:\Users\Luca D'Aprano\source\repos\Maths Class\Maths Class\bin\Debug\net6.0\Maths Class.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\Maths Class\Maths Class\bin\Debug\net6.0\Maths Class.dll
+C:\Users\Luca D'Aprano\source\repos\Maths Class\Maths Class\bin\Debug\net6.0\Maths Class.pdb
+C:\Users\Luca D'Aprano\source\repos\Maths Class\Maths Class\obj\Debug\net6.0\Maths Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\Maths Class\Maths Class\obj\Debug\net6.0\Maths Class.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Maths Class\Maths Class\obj\Debug\net6.0\Maths Class.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\Maths Class\Maths Class\obj\Debug\net6.0\Maths Class.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Maths Class\Maths Class\obj\Debug\net6.0\Maths Class.dll
+C:\Users\Luca D'Aprano\source\repos\Maths Class\Maths Class\obj\Debug\net6.0\refint\Maths Class.dll
+C:\Users\Luca D'Aprano\source\repos\Maths Class\Maths Class\obj\Debug\net6.0\Maths Class.pdb
+C:\Users\Luca D'Aprano\source\repos\Maths Class\Maths Class\obj\Debug\net6.0\Maths Class.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\Maths Class\Maths Class\obj\Debug\net6.0\ref\Maths Class.dll
