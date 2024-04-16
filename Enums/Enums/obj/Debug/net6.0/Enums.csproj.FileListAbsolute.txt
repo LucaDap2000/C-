@@ -1,0 +1,14 @@
+C:\Users\Luca D'Aprano\source\repos\Enums\Enums\bin\Debug\net6.0\Enums.exe
+C:\Users\Luca D'Aprano\source\repos\Enums\Enums\bin\Debug\net6.0\Enums.deps.json
+C:\Users\Luca D'Aprano\source\repos\Enums\Enums\bin\Debug\net6.0\Enums.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\Enums\Enums\bin\Debug\net6.0\Enums.dll
+C:\Users\Luca D'Aprano\source\repos\Enums\Enums\bin\Debug\net6.0\Enums.pdb
+C:\Users\Luca D'Aprano\source\repos\Enums\Enums\obj\Debug\net6.0\Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\Enums\Enums\obj\Debug\net6.0\Enums.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Enums\Enums\obj\Debug\net6.0\Enums.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\Enums\Enums\obj\Debug\net6.0\Enums.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Enums\Enums\obj\Debug\net6.0\Enums.dll
+C:\Users\Luca D'Aprano\source\repos\Enums\Enums\obj\Debug\net6.0\refint\Enums.dll
+C:\Users\Luca D'Aprano\source\repos\Enums\Enums\obj\Debug\net6.0\Enums.pdb
+C:\Users\Luca D'Aprano\source\repos\Enums\Enums\obj\Debug\net6.0\Enums.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\Enums\Enums\obj\Debug\net6.0\ref\Enums.dll
