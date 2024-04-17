@@ -1,0 +1,14 @@
+C:\Users\Luca D'Aprano\source\repos\Regular Expressions\Regular Expressions\bin\Debug\net6.0\Regular Expressions.exe
+C:\Users\Luca D'Aprano\source\repos\Regular Expressions\Regular Expressions\bin\Debug\net6.0\Regular Expressions.deps.json
+C:\Users\Luca D'Aprano\source\repos\Regular Expressions\Regular Expressions\bin\Debug\net6.0\Regular Expressions.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\Regular Expressions\Regular Expressions\bin\Debug\net6.0\Regular Expressions.dll
+C:\Users\Luca D'Aprano\source\repos\Regular Expressions\Regular Expressions\bin\Debug\net6.0\Regular Expressions.pdb
+C:\Users\Luca D'Aprano\source\repos\Regular Expressions\Regular Expressions\obj\Debug\net6.0\Regular Expressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\Regular Expressions\Regular Expressions\obj\Debug\net6.0\Regular Expressions.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Regular Expressions\Regular Expressions\obj\Debug\net6.0\Regular Expressions.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\Regular Expressions\Regular Expressions\obj\Debug\net6.0\Regular Expressions.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Regular Expressions\Regular Expressions\obj\Debug\net6.0\Regular Expressions.dll
+C:\Users\Luca D'Aprano\source\repos\Regular Expressions\Regular Expressions\obj\Debug\net6.0\refint\Regular Expressions.dll
+C:\Users\Luca D'Aprano\source\repos\Regular Expressions\Regular Expressions\obj\Debug\net6.0\Regular Expressions.pdb
+C:\Users\Luca D'Aprano\source\repos\Regular Expressions\Regular Expressions\obj\Debug\net6.0\Regular Expressions.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\Regular Expressions\Regular Expressions\obj\Debug\net6.0\ref\Regular Expressions.dll
