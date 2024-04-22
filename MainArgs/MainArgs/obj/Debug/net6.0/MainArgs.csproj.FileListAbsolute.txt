@@ -1,0 +1,14 @@
+C:\Users\Luca D'Aprano\source\repos\MainArgs\MainArgs\bin\Debug\net6.0\MainArgs.exe
+C:\Users\Luca D'Aprano\source\repos\MainArgs\MainArgs\bin\Debug\net6.0\MainArgs.deps.json
+C:\Users\Luca D'Aprano\source\repos\MainArgs\MainArgs\bin\Debug\net6.0\MainArgs.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\MainArgs\MainArgs\bin\Debug\net6.0\MainArgs.dll
+C:\Users\Luca D'Aprano\source\repos\MainArgs\MainArgs\bin\Debug\net6.0\MainArgs.pdb
+C:\Users\Luca D'Aprano\source\repos\MainArgs\MainArgs\obj\Debug\net6.0\MainArgs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\MainArgs\MainArgs\obj\Debug\net6.0\MainArgs.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\MainArgs\MainArgs\obj\Debug\net6.0\MainArgs.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\MainArgs\MainArgs\obj\Debug\net6.0\MainArgs.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\MainArgs\MainArgs\obj\Debug\net6.0\MainArgs.dll
+C:\Users\Luca D'Aprano\source\repos\MainArgs\MainArgs\obj\Debug\net6.0\refint\MainArgs.dll
+C:\Users\Luca D'Aprano\source\repos\MainArgs\MainArgs\obj\Debug\net6.0\MainArgs.pdb
+C:\Users\Luca D'Aprano\source\repos\MainArgs\MainArgs\obj\Debug\net6.0\MainArgs.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\MainArgs\MainArgs\obj\Debug\net6.0\ref\MainArgs.dll
