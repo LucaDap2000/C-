@@ -1,0 +1,14 @@
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise - Delegates\Coding Exercise - Delegates\bin\Debug\net6.0\Coding Exercise - Delegates.exe
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise - Delegates\Coding Exercise - Delegates\bin\Debug\net6.0\Coding Exercise - Delegates.deps.json
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise - Delegates\Coding Exercise - Delegates\bin\Debug\net6.0\Coding Exercise - Delegates.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise - Delegates\Coding Exercise - Delegates\bin\Debug\net6.0\Coding Exercise - Delegates.dll
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise - Delegates\Coding Exercise - Delegates\bin\Debug\net6.0\Coding Exercise - Delegates.pdb
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise - Delegates\Coding Exercise - Delegates\obj\Debug\net6.0\Coding Exercise - Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise - Delegates\Coding Exercise - Delegates\obj\Debug\net6.0\Coding Exercise - Delegates.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise - Delegates\Coding Exercise - Delegates\obj\Debug\net6.0\Coding Exercise - Delegates.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise - Delegates\Coding Exercise - Delegates\obj\Debug\net6.0\Coding Exercise - Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise - Delegates\Coding Exercise - Delegates\obj\Debug\net6.0\Coding Exercise - Delegates.dll
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise - Delegates\Coding Exercise - Delegates\obj\Debug\net6.0\refint\Coding Exercise - Delegates.dll
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise - Delegates\Coding Exercise - Delegates\obj\Debug\net6.0\Coding Exercise - Delegates.pdb
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise - Delegates\Coding Exercise - Delegates\obj\Debug\net6.0\Coding Exercise - Delegates.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\Coding Exercise - Delegates\Coding Exercise - Delegates\obj\Debug\net6.0\ref\Coding Exercise - Delegates.dll
