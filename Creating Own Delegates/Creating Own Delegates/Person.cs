@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Creating_Own_Delegates
+namespace Delegates
 {
     internal class Person
     {
