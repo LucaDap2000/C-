@@ -1,0 +1,14 @@
+C:\Users\Luca D'Aprano\source\repos\DateTime\DateTime\bin\Debug\net6.0\DateTime.exe
+C:\Users\Luca D'Aprano\source\repos\DateTime\DateTime\bin\Debug\net6.0\DateTime.deps.json
+C:\Users\Luca D'Aprano\source\repos\DateTime\DateTime\bin\Debug\net6.0\DateTime.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\DateTime\DateTime\bin\Debug\net6.0\DateTime.dll
+C:\Users\Luca D'Aprano\source\repos\DateTime\DateTime\bin\Debug\net6.0\DateTime.pdb
+C:\Users\Luca D'Aprano\source\repos\DateTime\DateTime\obj\Debug\net6.0\DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\DateTime\DateTime\obj\Debug\net6.0\DateTime.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\DateTime\DateTime\obj\Debug\net6.0\DateTime.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\DateTime\DateTime\obj\Debug\net6.0\DateTime.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\DateTime\DateTime\obj\Debug\net6.0\DateTime.dll
+C:\Users\Luca D'Aprano\source\repos\DateTime\DateTime\obj\Debug\net6.0\refint\DateTime.dll
+C:\Users\Luca D'Aprano\source\repos\DateTime\DateTime\obj\Debug\net6.0\DateTime.pdb
+C:\Users\Luca D'Aprano\source\repos\DateTime\DateTime\obj\Debug\net6.0\DateTime.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\DateTime\DateTime\obj\Debug\net6.0\ref\DateTime.dll
