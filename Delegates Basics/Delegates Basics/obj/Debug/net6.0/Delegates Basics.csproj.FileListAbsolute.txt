@@ -1,0 +1,14 @@
+C:\Users\Luca D'Aprano\source\repos\Delegates Basics\Delegates Basics\bin\Debug\net6.0\Delegates Basics.exe
+C:\Users\Luca D'Aprano\source\repos\Delegates Basics\Delegates Basics\bin\Debug\net6.0\Delegates Basics.deps.json
+C:\Users\Luca D'Aprano\source\repos\Delegates Basics\Delegates Basics\bin\Debug\net6.0\Delegates Basics.runtimeconfig.json
+C:\Users\Luca D'Aprano\source\repos\Delegates Basics\Delegates Basics\bin\Debug\net6.0\Delegates Basics.dll
+C:\Users\Luca D'Aprano\source\repos\Delegates Basics\Delegates Basics\bin\Debug\net6.0\Delegates Basics.pdb
+C:\Users\Luca D'Aprano\source\repos\Delegates Basics\Delegates Basics\obj\Debug\net6.0\Delegates Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca D'Aprano\source\repos\Delegates Basics\Delegates Basics\obj\Debug\net6.0\Delegates Basics.AssemblyInfoInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Delegates Basics\Delegates Basics\obj\Debug\net6.0\Delegates Basics.AssemblyInfo.cs
+C:\Users\Luca D'Aprano\source\repos\Delegates Basics\Delegates Basics\obj\Debug\net6.0\Delegates Basics.csproj.CoreCompileInputs.cache
+C:\Users\Luca D'Aprano\source\repos\Delegates Basics\Delegates Basics\obj\Debug\net6.0\Delegates Basics.dll
+C:\Users\Luca D'Aprano\source\repos\Delegates Basics\Delegates Basics\obj\Debug\net6.0\refint\Delegates Basics.dll
+C:\Users\Luca D'Aprano\source\repos\Delegates Basics\Delegates Basics\obj\Debug\net6.0\Delegates Basics.pdb
+C:\Users\Luca D'Aprano\source\repos\Delegates Basics\Delegates Basics\obj\Debug\net6.0\Delegates Basics.genruntimeconfig.cache
+C:\Users\Luca D'Aprano\source\repos\Delegates Basics\Delegates Basics\obj\Debug\net6.0\ref\Delegates Basics.dll
