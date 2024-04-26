@@ -1,0 +1,14 @@
+C:\Users\lucad\source\repos\Multicast Delegates\bin\Debug\net6.0\Multicast Delegates.exe
+C:\Users\lucad\source\repos\Multicast Delegates\bin\Debug\net6.0\Multicast Delegates.deps.json
+C:\Users\lucad\source\repos\Multicast Delegates\bin\Debug\net6.0\Multicast Delegates.runtimeconfig.json
+C:\Users\lucad\source\repos\Multicast Delegates\bin\Debug\net6.0\Multicast Delegates.dll
+C:\Users\lucad\source\repos\Multicast Delegates\bin\Debug\net6.0\Multicast Delegates.pdb
+C:\Users\lucad\source\repos\Multicast Delegates\obj\Debug\net6.0\Multicast Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucad\source\repos\Multicast Delegates\obj\Debug\net6.0\Multicast Delegates.AssemblyInfoInputs.cache
+C:\Users\lucad\source\repos\Multicast Delegates\obj\Debug\net6.0\Multicast Delegates.AssemblyInfo.cs
+C:\Users\lucad\source\repos\Multicast Delegates\obj\Debug\net6.0\Multicast Delegates.csproj.CoreCompileInputs.cache
+C:\Users\lucad\source\repos\Multicast Delegates\obj\Debug\net6.0\Multicast Delegates.dll
+C:\Users\lucad\source\repos\Multicast Delegates\obj\Debug\net6.0\refint\Multicast Delegates.dll
+C:\Users\lucad\source\repos\Multicast Delegates\obj\Debug\net6.0\Multicast Delegates.pdb
+C:\Users\lucad\source\repos\Multicast Delegates\obj\Debug\net6.0\Multicast Delegates.genruntimeconfig.cache
+C:\Users\lucad\source\repos\Multicast Delegates\obj\Debug\net6.0\ref\Multicast Delegates.dll
