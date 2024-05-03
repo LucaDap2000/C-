@@ -1,0 +1,20 @@
+C:\Users\lucad\source\repos\Routed Events\bin\Debug\net6.0-windows\Routed Events.exe
+C:\Users\lucad\source\repos\Routed Events\bin\Debug\net6.0-windows\Routed Events.deps.json
+C:\Users\lucad\source\repos\Routed Events\bin\Debug\net6.0-windows\Routed Events.runtimeconfig.json
+C:\Users\lucad\source\repos\Routed Events\bin\Debug\net6.0-windows\Routed Events.dll
+C:\Users\lucad\source\repos\Routed Events\bin\Debug\net6.0-windows\Routed Events.pdb
+C:\Users\lucad\source\repos\Routed Events\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lucad\source\repos\Routed Events\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lucad\source\repos\Routed Events\obj\Debug\net6.0-windows\Routed Events_MarkupCompile.cache
+C:\Users\lucad\source\repos\Routed Events\obj\Debug\net6.0-windows\Routed Events_MarkupCompile.lref
+C:\Users\lucad\source\repos\Routed Events\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\lucad\source\repos\Routed Events\obj\Debug\net6.0-windows\Routed Events.g.resources
+C:\Users\lucad\source\repos\Routed Events\obj\Debug\net6.0-windows\Routed Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucad\source\repos\Routed Events\obj\Debug\net6.0-windows\Routed Events.AssemblyInfoInputs.cache
+C:\Users\lucad\source\repos\Routed Events\obj\Debug\net6.0-windows\Routed Events.AssemblyInfo.cs
+C:\Users\lucad\source\repos\Routed Events\obj\Debug\net6.0-windows\Routed Events.csproj.CoreCompileInputs.cache
+C:\Users\lucad\source\repos\Routed Events\obj\Debug\net6.0-windows\Routed Events.dll
+C:\Users\lucad\source\repos\Routed Events\obj\Debug\net6.0-windows\refint\Routed Events.dll
+C:\Users\lucad\source\repos\Routed Events\obj\Debug\net6.0-windows\Routed Events.pdb
+C:\Users\lucad\source\repos\Routed Events\obj\Debug\net6.0-windows\Routed Events.genruntimeconfig.cache
+C:\Users\lucad\source\repos\Routed Events\obj\Debug\net6.0-windows\ref\Routed Events.dll
