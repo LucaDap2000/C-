@@ -1,0 +1,20 @@
+C:\Users\lucad\source\repos\Data Binding\bin\Debug\net6.0-windows\Data Binding.exe
+C:\Users\lucad\source\repos\Data Binding\bin\Debug\net6.0-windows\Data Binding.deps.json
+C:\Users\lucad\source\repos\Data Binding\bin\Debug\net6.0-windows\Data Binding.runtimeconfig.json
+C:\Users\lucad\source\repos\Data Binding\bin\Debug\net6.0-windows\Data Binding.dll
+C:\Users\lucad\source\repos\Data Binding\bin\Debug\net6.0-windows\Data Binding.pdb
+C:\Users\lucad\source\repos\Data Binding\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lucad\source\repos\Data Binding\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lucad\source\repos\Data Binding\obj\Debug\net6.0-windows\Data Binding_MarkupCompile.cache
+C:\Users\lucad\source\repos\Data Binding\obj\Debug\net6.0-windows\Data Binding_MarkupCompile.lref
+C:\Users\lucad\source\repos\Data Binding\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\lucad\source\repos\Data Binding\obj\Debug\net6.0-windows\Data Binding.g.resources
+C:\Users\lucad\source\repos\Data Binding\obj\Debug\net6.0-windows\Data Binding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucad\source\repos\Data Binding\obj\Debug\net6.0-windows\Data Binding.AssemblyInfoInputs.cache
+C:\Users\lucad\source\repos\Data Binding\obj\Debug\net6.0-windows\Data Binding.AssemblyInfo.cs
+C:\Users\lucad\source\repos\Data Binding\obj\Debug\net6.0-windows\Data Binding.csproj.CoreCompileInputs.cache
+C:\Users\lucad\source\repos\Data Binding\obj\Debug\net6.0-windows\Data Binding.dll
+C:\Users\lucad\source\repos\Data Binding\obj\Debug\net6.0-windows\refint\Data Binding.dll
+C:\Users\lucad\source\repos\Data Binding\obj\Debug\net6.0-windows\Data Binding.pdb
+C:\Users\lucad\source\repos\Data Binding\obj\Debug\net6.0-windows\Data Binding.genruntimeconfig.cache
+C:\Users\lucad\source\repos\Data Binding\obj\Debug\net6.0-windows\ref\Data Binding.dll
