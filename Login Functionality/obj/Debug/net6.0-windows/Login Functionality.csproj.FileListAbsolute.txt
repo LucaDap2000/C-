@@ -1,0 +1,22 @@
+C:\Users\lucad\source\repos\Login Functionality\bin\Debug\net6.0-windows\Login Functionality.exe
+C:\Users\lucad\source\repos\Login Functionality\bin\Debug\net6.0-windows\Login Functionality.deps.json
+C:\Users\lucad\source\repos\Login Functionality\bin\Debug\net6.0-windows\Login Functionality.runtimeconfig.json
+C:\Users\lucad\source\repos\Login Functionality\bin\Debug\net6.0-windows\Login Functionality.dll
+C:\Users\lucad\source\repos\Login Functionality\bin\Debug\net6.0-windows\Login Functionality.pdb
+C:\Users\lucad\source\repos\Login Functionality\obj\Debug\net6.0-windows\LoginView.g.cs
+C:\Users\lucad\source\repos\Login Functionality\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lucad\source\repos\Login Functionality\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lucad\source\repos\Login Functionality\obj\Debug\net6.0-windows\Login Functionality_MarkupCompile.cache
+C:\Users\lucad\source\repos\Login Functionality\obj\Debug\net6.0-windows\Login Functionality_MarkupCompile.lref
+C:\Users\lucad\source\repos\Login Functionality\obj\Debug\net6.0-windows\LoginView.baml
+C:\Users\lucad\source\repos\Login Functionality\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\lucad\source\repos\Login Functionality\obj\Debug\net6.0-windows\Login Functionality.g.resources
+C:\Users\lucad\source\repos\Login Functionality\obj\Debug\net6.0-windows\Login Functionality.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucad\source\repos\Login Functionality\obj\Debug\net6.0-windows\Login Functionality.AssemblyInfoInputs.cache
+C:\Users\lucad\source\repos\Login Functionality\obj\Debug\net6.0-windows\Login Functionality.AssemblyInfo.cs
+C:\Users\lucad\source\repos\Login Functionality\obj\Debug\net6.0-windows\Login Functionality.csproj.CoreCompileInputs.cache
+C:\Users\lucad\source\repos\Login Functionality\obj\Debug\net6.0-windows\Login Functionality.dll
+C:\Users\lucad\source\repos\Login Functionality\obj\Debug\net6.0-windows\refint\Login Functionality.dll
+C:\Users\lucad\source\repos\Login Functionality\obj\Debug\net6.0-windows\Login Functionality.pdb
+C:\Users\lucad\source\repos\Login Functionality\obj\Debug\net6.0-windows\Login Functionality.genruntimeconfig.cache
+C:\Users\lucad\source\repos\Login Functionality\obj\Debug\net6.0-windows\ref\Login Functionality.dll
