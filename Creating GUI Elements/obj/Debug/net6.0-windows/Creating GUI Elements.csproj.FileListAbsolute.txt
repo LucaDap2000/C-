@@ -1,0 +1,20 @@
+C:\Users\lucad\source\repos\Creating GUI Elements\bin\Debug\net6.0-windows\Creating GUI Elements.exe
+C:\Users\lucad\source\repos\Creating GUI Elements\bin\Debug\net6.0-windows\Creating GUI Elements.deps.json
+C:\Users\lucad\source\repos\Creating GUI Elements\bin\Debug\net6.0-windows\Creating GUI Elements.runtimeconfig.json
+C:\Users\lucad\source\repos\Creating GUI Elements\bin\Debug\net6.0-windows\Creating GUI Elements.dll
+C:\Users\lucad\source\repos\Creating GUI Elements\bin\Debug\net6.0-windows\Creating GUI Elements.pdb
+C:\Users\lucad\source\repos\Creating GUI Elements\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lucad\source\repos\Creating GUI Elements\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lucad\source\repos\Creating GUI Elements\obj\Debug\net6.0-windows\Creating GUI Elements_MarkupCompile.cache
+C:\Users\lucad\source\repos\Creating GUI Elements\obj\Debug\net6.0-windows\Creating GUI Elements_MarkupCompile.lref
+C:\Users\lucad\source\repos\Creating GUI Elements\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\lucad\source\repos\Creating GUI Elements\obj\Debug\net6.0-windows\Creating GUI Elements.g.resources
+C:\Users\lucad\source\repos\Creating GUI Elements\obj\Debug\net6.0-windows\Creating GUI Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucad\source\repos\Creating GUI Elements\obj\Debug\net6.0-windows\Creating GUI Elements.AssemblyInfoInputs.cache
+C:\Users\lucad\source\repos\Creating GUI Elements\obj\Debug\net6.0-windows\Creating GUI Elements.AssemblyInfo.cs
+C:\Users\lucad\source\repos\Creating GUI Elements\obj\Debug\net6.0-windows\Creating GUI Elements.csproj.CoreCompileInputs.cache
+C:\Users\lucad\source\repos\Creating GUI Elements\obj\Debug\net6.0-windows\Creating GUI Elements.dll
+C:\Users\lucad\source\repos\Creating GUI Elements\obj\Debug\net6.0-windows\refint\Creating GUI Elements.dll
+C:\Users\lucad\source\repos\Creating GUI Elements\obj\Debug\net6.0-windows\Creating GUI Elements.pdb
+C:\Users\lucad\source\repos\Creating GUI Elements\obj\Debug\net6.0-windows\Creating GUI Elements.genruntimeconfig.cache
+C:\Users\lucad\source\repos\Creating GUI Elements\obj\Debug\net6.0-windows\ref\Creating GUI Elements.dll
