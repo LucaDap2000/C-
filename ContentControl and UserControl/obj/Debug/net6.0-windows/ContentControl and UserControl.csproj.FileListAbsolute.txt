@@ -1,0 +1,24 @@
+C:\Users\lucad\source\repos\ContentControl and UserControl\bin\Debug\net6.0-windows\ContentControl and UserControl.exe
+C:\Users\lucad\source\repos\ContentControl and UserControl\bin\Debug\net6.0-windows\ContentControl and UserControl.deps.json
+C:\Users\lucad\source\repos\ContentControl and UserControl\bin\Debug\net6.0-windows\ContentControl and UserControl.runtimeconfig.json
+C:\Users\lucad\source\repos\ContentControl and UserControl\bin\Debug\net6.0-windows\ContentControl and UserControl.dll
+C:\Users\lucad\source\repos\ContentControl and UserControl\bin\Debug\net6.0-windows\ContentControl and UserControl.pdb
+C:\Users\lucad\source\repos\ContentControl and UserControl\obj\Debug\net6.0-windows\LoginView.g.cs
+C:\Users\lucad\source\repos\ContentControl and UserControl\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lucad\source\repos\ContentControl and UserControl\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lucad\source\repos\ContentControl and UserControl\obj\Debug\net6.0-windows\ContentControl and UserControl_MarkupCompile.cache
+C:\Users\lucad\source\repos\ContentControl and UserControl\obj\Debug\net6.0-windows\ContentControl and UserControl_MarkupCompile.lref
+C:\Users\lucad\source\repos\ContentControl and UserControl\obj\Debug\net6.0-windows\LoginView.baml
+C:\Users\lucad\source\repos\ContentControl and UserControl\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\lucad\source\repos\ContentControl and UserControl\obj\Debug\net6.0-windows\ContentControl and UserControl.g.resources
+C:\Users\lucad\source\repos\ContentControl and UserControl\obj\Debug\net6.0-windows\ContentControl and UserControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucad\source\repos\ContentControl and UserControl\obj\Debug\net6.0-windows\ContentControl and UserControl.AssemblyInfoInputs.cache
+C:\Users\lucad\source\repos\ContentControl and UserControl\obj\Debug\net6.0-windows\ContentControl and UserControl.AssemblyInfo.cs
+C:\Users\lucad\source\repos\ContentControl and UserControl\obj\Debug\net6.0-windows\ContentControl and UserControl.csproj.CoreCompileInputs.cache
+C:\Users\lucad\source\repos\ContentControl and UserControl\obj\Debug\net6.0-windows\ContentControl and UserControl.dll
+C:\Users\lucad\source\repos\ContentControl and UserControl\obj\Debug\net6.0-windows\refint\ContentControl and UserControl.dll
+C:\Users\lucad\source\repos\ContentControl and UserControl\obj\Debug\net6.0-windows\ContentControl and UserControl.pdb
+C:\Users\lucad\source\repos\ContentControl and UserControl\obj\Debug\net6.0-windows\ContentControl and UserControl.genruntimeconfig.cache
+C:\Users\lucad\source\repos\ContentControl and UserControl\obj\Debug\net6.0-windows\ref\ContentControl and UserControl.dll
+C:\Users\lucad\source\repos\ContentControl and UserControl\obj\Debug\net6.0-windows\InvoiceView.g.cs
+C:\Users\lucad\source\repos\ContentControl and UserControl\obj\Debug\net6.0-windows\InvoiceView.baml
