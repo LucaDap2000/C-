@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "fJ0ZDe33iw+r8Cj+5Ccr5RtDLDS4jK5fPMxNhPMpcoAfh870aE+dGZ0PNX142LMJWwHwRyjoYLavzlEq/I8T+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucad\\source\\repos\\Static Currency Converter\\Static Currency Converter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucad\\.nuget\\packages\\fontawesome.wpf\\4.7.0.9\\fontawesome.wpf.4.7.0.9.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'FontAwesome.WPF 4.7.0.9' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "FontAwesome.WPF",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
