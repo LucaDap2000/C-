@@ -1,0 +1,7 @@
+C:\Users\lucad\source\repos\Linq - University Manager\bin\Debug\Linq - University Manager.exe.config
+C:\Users\lucad\source\repos\Linq - University Manager\bin\Debug\Linq - University Manager.exe
+C:\Users\lucad\source\repos\Linq - University Manager\bin\Debug\Linq - University Manager.pdb
+C:\Users\lucad\source\repos\Linq - University Manager\obj\Debug\Linq - University Manager.csproj.AssemblyReference.cache
+C:\Users\lucad\source\repos\Linq - University Manager\obj\Debug\Linq - University Manager.csproj.CoreCompileInputs.cache
+C:\Users\lucad\source\repos\Linq - University Manager\obj\Debug\Linq - University Manager.exe
+C:\Users\lucad\source\repos\Linq - University Manager\obj\Debug\Linq - University Manager.pdb
