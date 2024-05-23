@@ -1,0 +1,7 @@
+C:\Users\lucad\source\repos\Linq With XML\bin\Debug\Linq With XML.exe.config
+C:\Users\lucad\source\repos\Linq With XML\bin\Debug\Linq With XML.exe
+C:\Users\lucad\source\repos\Linq With XML\bin\Debug\Linq With XML.pdb
+C:\Users\lucad\source\repos\Linq With XML\obj\Debug\Linq With XML.csproj.AssemblyReference.cache
+C:\Users\lucad\source\repos\Linq With XML\obj\Debug\Linq With XML.csproj.CoreCompileInputs.cache
+C:\Users\lucad\source\repos\Linq With XML\obj\Debug\Linq With XML.exe
+C:\Users\lucad\source\repos\Linq With XML\obj\Debug\Linq With XML.pdb
