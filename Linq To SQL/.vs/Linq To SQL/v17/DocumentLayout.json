@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucad\\source\\repos\\Linq To SQL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CABFAE14-08E3-4461-8206-B7F8B2E83D3D}|Linq To SQL.csproj|C:\\Users\\lucad\\source\\repos\\Linq To SQL\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CABFAE14-08E3-4461-8206-B7F8B2E83D3D}|Linq To SQL.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CABFAE14-08E3-4461-8206-B7F8B2E83D3D}|Linq To SQL.csproj|c:\\users\\lucad\\source\\repos\\linq to sql\\linqtosqldataclasses.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
+      "RelativeMoniker": "D:0:0:{CABFAE14-08E3-4461-8206-B7F8B2E83D3D}|Linq To SQL.csproj|solutionrelative:linqtosqldataclasses.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CABFAE14-08E3-4461-8206-B7F8B2E83D3D}|Linq To SQL.csproj|C:\\Users\\lucad\\source\\repos\\Linq To SQL\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CABFAE14-08E3-4461-8206-B7F8B2E83D3D}|Linq To SQL.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LinqToSQLDataClasses.dbml",
+              "DocumentMoniker": "C:\\Users\\lucad\\source\\repos\\Linq To SQL\\LinqToSQLDataClasses.dbml",
+              "RelativeDocumentMoniker": "LinqToSQLDataClasses.dbml",
+              "ToolTip": "C:\\Users\\lucad\\source\\repos\\Linq To SQL\\LinqToSQLDataClasses.dbml",
+              "RelativeToolTip": "LinqToSQLDataClasses.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2024-05-23T12:57:11.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\lucad\\source\\repos\\Linq To SQL\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\lucad\\source\\repos\\Linq To SQL\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-23T11:45:15.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lucad\\source\\repos\\Linq To SQL\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\lucad\\source\\repos\\Linq To SQL\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAcwLoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:45:14.973Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

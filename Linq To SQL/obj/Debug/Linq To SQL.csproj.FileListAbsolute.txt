@@ -1,0 +1,15 @@
+C:\Users\lucad\source\repos\Linq To SQL\bin\Debug\Linq To SQL.exe.config
+C:\Users\lucad\source\repos\Linq To SQL\bin\Debug\Linq To SQL.exe
+C:\Users\lucad\source\repos\Linq To SQL\bin\Debug\Linq To SQL.pdb
+C:\Users\lucad\source\repos\Linq To SQL\obj\Debug\Linq To SQL.csproj.AssemblyReference.cache
+C:\Users\lucad\source\repos\Linq To SQL\obj\Debug\MainWindow.g.cs
+C:\Users\lucad\source\repos\Linq To SQL\obj\Debug\App.g.cs
+C:\Users\lucad\source\repos\Linq To SQL\obj\Debug\Linq To SQL_MarkupCompile.cache
+C:\Users\lucad\source\repos\Linq To SQL\obj\Debug\Linq To SQL_MarkupCompile.lref
+C:\Users\lucad\source\repos\Linq To SQL\obj\Debug\MainWindow.baml
+C:\Users\lucad\source\repos\Linq To SQL\obj\Debug\Linq To SQL.g.resources
+C:\Users\lucad\source\repos\Linq To SQL\obj\Debug\Linq_To_SQL.Properties.Resources.resources
+C:\Users\lucad\source\repos\Linq To SQL\obj\Debug\Linq To SQL.csproj.GenerateResource.cache
+C:\Users\lucad\source\repos\Linq To SQL\obj\Debug\Linq To SQL.csproj.CoreCompileInputs.cache
+C:\Users\lucad\source\repos\Linq To SQL\obj\Debug\Linq To SQL.exe
+C:\Users\lucad\source\repos\Linq To SQL\obj\Debug\Linq To SQL.pdb
