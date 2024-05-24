@@ -10,6 +10,10 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.Threading.Tasks;
+using System.Net.Http;
+using System.Text.Json.Serialization;
+using Newtonsoft.Json;
 
 namespace Static_Currency_Converter
 {
@@ -18,10 +22,68 @@ namespace Static_Currency_Converter
     /// </summary>
     public partial class MainWindow : Window
     {
+        Root val = new Root();
+
+        public class Root // Root Class is a Main Class. API returns rates with currency name and value
+        {
+            public Rate rates { get; set; } // Get all records in rates and Set in Rate class as Currency name
+            public long timestamp;
+            public string license;
+        }
+
+        public class Rate // Make sure API return Value Names and where you want to store that name are the same. 
+        {
+            public double INR { get; set; }
+            public double JPY { get; set; }
+            public double USD { get; set; }
+            public double NZD { get; set; }
+            public double EUR { get; set; }
+            public double CAD { get; set; }
+            public double ISK { get; set; }
+            public double PHP { get; set; }
+            public double DKK { get; set; }
+            public double CZK { get; set; }
+            public double GBP { get; set; }
+        }
+
         public MainWindow()
         {
             InitializeComponent();
+            GetValue();
+        }
+
+        private async void GetValue()
+        {
+            val = await GetData<Root>("https://openexchangerates.org/api/latest.json?app_id=c4e2b3d1f78a4142a83f45dbbfb55aca"); // App ID
             BindCurrency();
+        }
+
+        public static async Task<Root> GetData<T>(string url)
+        {
+            var myRoot = new Root();
+            try
+            {
+                using (var client = new HttpClient()) // HttpClient class provides a base class for sending/receiving the Http requests/responses from a URL
+                {
+                    client.Timeout = TimeSpan.FromMinutes(1); // Wait for 1 minute before timeout
+                    HttpResponseMessage response = await client.GetAsync(url); // HttpResponseMessage is a way of returning a message/data from your action
+                    if (response.StatusCode == System.Net.HttpStatusCode.OK) // Check API response status code OK
+                    {
+                        var ResponseString = await response.Content.ReadAsStringAsync(); // Serialize the Http content to a string as an asynchronous operation
+                        var ResponseObject = JsonConvert.DeserializeObject<Root>(ResponseString); // JsonConvert.DeserializeObject to deserialize Json to C#
+
+                        // MessageBox.Show("Rates: " + ResponseString, "Information", MessageBoxButton.OK, MessageBoxImage.Information);
+
+                        return ResponseObject; // Return API response
+                    }
+
+                    return myRoot;
+                }
+            }
+            catch
+            {
+                return myRoot;
+            }
         }
 
         private void BindCurrency()
@@ -32,12 +94,17 @@ namespace Static_Currency_Converter
 
             // Add rows in the DataTable with text and value
             dtCurrency.Rows.Add("--SELECT--", 0);
-            dtCurrency.Rows.Add("INR", 1);
-            dtCurrency.Rows.Add("USD", 75);
-            dtCurrency.Rows.Add("EUR", 85);
-            dtCurrency.Rows.Add("SAR", 20);
-            dtCurrency.Rows.Add("GBP", 90);
-            dtCurrency.Rows.Add("DEM", 43);
+            dtCurrency.Rows.Add("INR", val.rates.INR);
+            dtCurrency.Rows.Add("USD", val.rates.USD);
+            dtCurrency.Rows.Add("NZD", val.rates.NZD);
+            dtCurrency.Rows.Add("JPY", val.rates.JPY);
+            dtCurrency.Rows.Add("EUR", val.rates.EUR);
+            dtCurrency.Rows.Add("CAD", val.rates.CAD);
+            dtCurrency.Rows.Add("ISK", val.rates.ISK);
+            dtCurrency.Rows.Add("PHP", val.rates.PHP);
+            dtCurrency.Rows.Add("DKK", val.rates.DKK);
+            dtCurrency.Rows.Add("CZK", val.rates.CZK);
+            dtCurrency.Rows.Add("GBP", val.rates.GBP);
 
             cmbFromCurrency.ItemsSource = dtCurrency.DefaultView;
             cmbFromCurrency.DisplayMemberPath = "Text";
@@ -99,9 +166,9 @@ namespace Static_Currency_Converter
             {
                 // Calculation for currency converter is From Currency value multiply(*)
                 // With the amount TextBox value and then that total divided(/) with To Currency value
-                convertedValue = (double.Parse(cmbFromCurrency.SelectedValue.ToString()) *
+                convertedValue = (double.Parse(cmbToCurrency.SelectedValue.ToString()) *
                                   double.Parse(txtCurrency.Text)) / 
-                                  double.Parse(cmbToCurrency.SelectedValue.ToString());
+                                  double.Parse(cmbFromCurrency.SelectedValue.ToString());
 
                 // Show the label converted currency and converted currency name
                 lblCurrency.Content = cmbToCurrency.Text + " " + convertedValue.ToString("N3");

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucad\\source\\repos\\Static Currency Converter\\Static Currency Converter.csproj": {}
+    "C:\\Users\\lucad\\OneDrive\\Documents\\GitHub\\C-\\Static Currency Converter\\Static Currency Converter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucad\\source\\repos\\Static Currency Converter\\Static Currency Converter.csproj": {
+    "C:\\Users\\lucad\\OneDrive\\Documents\\GitHub\\C-\\Static Currency Converter\\Static Currency Converter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucad\\source\\repos\\Static Currency Converter\\Static Currency Converter.csproj",
+        "projectUniqueName": "C:\\Users\\lucad\\OneDrive\\Documents\\GitHub\\C-\\Static Currency Converter\\Static Currency Converter.csproj",
         "projectName": "Static Currency Converter",
-        "projectPath": "C:\\Users\\lucad\\source\\repos\\Static Currency Converter\\Static Currency Converter.csproj",
+        "projectPath": "C:\\Users\\lucad\\OneDrive\\Documents\\GitHub\\C-\\Static Currency Converter\\Static Currency Converter.csproj",
         "packagesPath": "C:\\Users\\lucad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucad\\source\\repos\\Static Currency Converter\\obj\\",
+        "outputPath": "C:\\Users\\lucad\\OneDrive\\Documents\\GitHub\\C-\\Static Currency Converter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -53,6 +53,10 @@
             "FontAwesome.WPF": {
               "target": "Package",
               "version": "[4.7.0.9, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             }
           },
           "imports": [
@@ -74,7 +78,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

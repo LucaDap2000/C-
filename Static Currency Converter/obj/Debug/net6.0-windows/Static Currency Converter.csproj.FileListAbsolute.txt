@@ -22,3 +22,4 @@ C:\Users\lucad\source\repos\Static Currency Converter\bin\Debug\net6.0-windows\F
 C:\Users\lucad\source\repos\Static Currency Converter\obj\Debug\net6.0-windows\Static Currency Converter.csproj.AssemblyReference.cache
 C:\Users\lucad\source\repos\Static Currency Converter\obj\Debug\net6.0-windows\App.baml
 C:\Users\lucad\source\repos\Static Currency Converter\obj\Debug\net6.0-windows\Static C.8F4262A0.Up2Date
+C:\Users\lucad\source\repos\Static Currency Converter\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
