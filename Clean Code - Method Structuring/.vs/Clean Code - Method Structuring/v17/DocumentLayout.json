@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucad\\source\\repos\\Clean Code - Method Structuring\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE8AC83-1C10-4F17-B342-3DB4434D134B}|Clean Code - Method Structuring.csproj|c:\\users\\lucad\\source\\repos\\clean code - method structuring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE8AC83-1C10-4F17-B342-3DB4434D134B}|Clean Code - Method Structuring.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE8AC83-1C10-4F17-B342-3DB4434D134B}|Clean Code - Method Structuring.csproj|c:\\users\\lucad\\source\\repos\\clean code - method structuring\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE8AC83-1C10-4F17-B342-3DB4434D134B}|Clean Code - Method Structuring.csproj|solutionrelative:order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE8AC83-1C10-4F17-B342-3DB4434D134B}|Clean Code - Method Structuring.csproj|c:\\users\\lucad\\source\\repos\\clean code - method structuring\\orderprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE8AC83-1C10-4F17-B342-3DB4434D134B}|Clean Code - Method Structuring.csproj|solutionrelative:orderprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\lucad\\source\\repos\\Clean Code - Method Structuring\\Order.cs",
+              "RelativeDocumentMoniker": "Order.cs",
+              "ToolTip": "C:\\Users\\lucad\\source\\repos\\Clean Code - Method Structuring\\Order.cs",
+              "RelativeToolTip": "Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T11:19:06.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\lucad\\source\\repos\\Clean Code - Method Structuring\\OrderProcessor.cs",
+              "RelativeDocumentMoniker": "OrderProcessor.cs",
+              "ToolTip": "C:\\Users\\lucad\\source\\repos\\Clean Code - Method Structuring\\OrderProcessor.cs",
+              "RelativeToolTip": "OrderProcessor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T11:16:32.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucad\\source\\repos\\Clean Code - Method Structuring\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lucad\\source\\repos\\Clean Code - Method Structuring\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T11:10:43.731Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
