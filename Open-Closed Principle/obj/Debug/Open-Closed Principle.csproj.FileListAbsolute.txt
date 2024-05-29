@@ -1,0 +1,7 @@
+C:\Users\lucad\source\repos\Open-Closed Principle\bin\Debug\Open-Closed Principle.exe.config
+C:\Users\lucad\source\repos\Open-Closed Principle\bin\Debug\Open-Closed Principle.exe
+C:\Users\lucad\source\repos\Open-Closed Principle\bin\Debug\Open-Closed Principle.pdb
+C:\Users\lucad\source\repos\Open-Closed Principle\obj\Debug\Open-Closed Principle.csproj.AssemblyReference.cache
+C:\Users\lucad\source\repos\Open-Closed Principle\obj\Debug\Open-Closed Principle.csproj.CoreCompileInputs.cache
+C:\Users\lucad\source\repos\Open-Closed Principle\obj\Debug\Open-Closed Principle.exe
+C:\Users\lucad\source\repos\Open-Closed Principle\obj\Debug\Open-Closed Principle.pdb
