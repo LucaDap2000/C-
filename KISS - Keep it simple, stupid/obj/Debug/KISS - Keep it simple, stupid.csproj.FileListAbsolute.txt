@@ -1,0 +1,7 @@
+C:\Users\lucad\source\repos\KISS - Keep it simple, stupid\bin\Debug\KISS - Keep it simple, stupid.exe.config
+C:\Users\lucad\source\repos\KISS - Keep it simple, stupid\bin\Debug\KISS - Keep it simple, stupid.exe
+C:\Users\lucad\source\repos\KISS - Keep it simple, stupid\bin\Debug\KISS - Keep it simple, stupid.pdb
+C:\Users\lucad\source\repos\KISS - Keep it simple, stupid\obj\Debug\KISS - Keep it simple, stupid.csproj.AssemblyReference.cache
+C:\Users\lucad\source\repos\KISS - Keep it simple, stupid\obj\Debug\KISS - Keep it simple, stupid.csproj.CoreCompileInputs.cache
+C:\Users\lucad\source\repos\KISS - Keep it simple, stupid\obj\Debug\KISS - Keep it simple, stupid.exe
+C:\Users\lucad\source\repos\KISS - Keep it simple, stupid\obj\Debug\KISS - Keep it simple, stupid.pdb
