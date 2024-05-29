@@ -1,0 +1,7 @@
+C:\Users\lucad\source\repos\DRY (Don't Repeat Yourself)\bin\Debug\DRY (Don't Repeat Yourself).exe.config
+C:\Users\lucad\source\repos\DRY (Don't Repeat Yourself)\bin\Debug\DRY (Don't Repeat Yourself).exe
+C:\Users\lucad\source\repos\DRY (Don't Repeat Yourself)\bin\Debug\DRY (Don't Repeat Yourself).pdb
+C:\Users\lucad\source\repos\DRY (Don't Repeat Yourself)\obj\Debug\DRY (Don't Repeat Yourself).csproj.AssemblyReference.cache
+C:\Users\lucad\source\repos\DRY (Don't Repeat Yourself)\obj\Debug\DRY (Don't Repeat Yourself).csproj.CoreCompileInputs.cache
+C:\Users\lucad\source\repos\DRY (Don't Repeat Yourself)\obj\Debug\DRY (Don't Repeat Yourself).exe
+C:\Users\lucad\source\repos\DRY (Don't Repeat Yourself)\obj\Debug\DRY (Don't Repeat Yourself).pdb
