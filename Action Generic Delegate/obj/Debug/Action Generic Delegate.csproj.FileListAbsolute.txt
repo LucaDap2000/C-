@@ -1,0 +1,7 @@
+C:\Users\lucad\source\repos\Action Generic Delegate\bin\Debug\Action Generic Delegate.exe.config
+C:\Users\lucad\source\repos\Action Generic Delegate\bin\Debug\Action Generic Delegate.exe
+C:\Users\lucad\source\repos\Action Generic Delegate\bin\Debug\Action Generic Delegate.pdb
+C:\Users\lucad\source\repos\Action Generic Delegate\obj\Debug\Action Generic Delegate.csproj.AssemblyReference.cache
+C:\Users\lucad\source\repos\Action Generic Delegate\obj\Debug\Action Generic Delegate.csproj.CoreCompileInputs.cache
+C:\Users\lucad\source\repos\Action Generic Delegate\obj\Debug\Action Generic Delegate.exe
+C:\Users\lucad\source\repos\Action Generic Delegate\obj\Debug\Action Generic Delegate.pdb
