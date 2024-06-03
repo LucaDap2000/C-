@@ -1,0 +1,7 @@
+C:\Users\lucad\source\repos\Challenge - Task Management System\bin\Debug\Challenge - Task Management System.exe.config
+C:\Users\lucad\source\repos\Challenge - Task Management System\bin\Debug\Challenge - Task Management System.exe
+C:\Users\lucad\source\repos\Challenge - Task Management System\bin\Debug\Challenge - Task Management System.pdb
+C:\Users\lucad\source\repos\Challenge - Task Management System\obj\Debug\Challenge - Task Management System.csproj.AssemblyReference.cache
+C:\Users\lucad\source\repos\Challenge - Task Management System\obj\Debug\Challenge - Task Management System.csproj.CoreCompileInputs.cache
+C:\Users\lucad\source\repos\Challenge - Task Management System\obj\Debug\Challenge - Task Management System.exe
+C:\Users\lucad\source\repos\Challenge - Task Management System\obj\Debug\Challenge - Task Management System.pdb

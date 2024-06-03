@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucad\\source\\repos\\Challenge - Task Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F58FD4FF-5C23-4135-8BBF-B674BD41721A}|Challenge - Task Management System.csproj|c:\\users\\lucad\\source\\repos\\challenge - task management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F58FD4FF-5C23-4135-8BBF-B674BD41721A}|Challenge - Task Management System.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F58FD4FF-5C23-4135-8BBF-B674BD41721A}|Challenge - Task Management System.csproj|c:\\users\\lucad\\source\\repos\\challenge - task management system\\taskprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F58FD4FF-5C23-4135-8BBF-B674BD41721A}|Challenge - Task Management System.csproj|solutionrelative:taskprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F58FD4FF-5C23-4135-8BBF-B674BD41721A}|Challenge - Task Management System.csproj|c:\\users\\lucad\\source\\repos\\challenge - task management system\\reporttask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F58FD4FF-5C23-4135-8BBF-B674BD41721A}|Challenge - Task Management System.csproj|solutionrelative:reporttask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F58FD4FF-5C23-4135-8BBF-B674BD41721A}|Challenge - Task Management System.csproj|c:\\users\\lucad\\source\\repos\\challenge - task management system\\emailtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F58FD4FF-5C23-4135-8BBF-B674BD41721A}|Challenge - Task Management System.csproj|solutionrelative:emailtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F58FD4FF-5C23-4135-8BBF-B674BD41721A}|Challenge - Task Management System.csproj|c:\\users\\lucad\\source\\repos\\challenge - task management system\\itask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F58FD4FF-5C23-4135-8BBF-B674BD41721A}|Challenge - Task Management System.csproj|solutionrelative:itask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\lucad\\source\\repos\\Challenge - Task Management System\\TaskProcessor.cs",
+              "RelativeDocumentMoniker": "TaskProcessor.cs",
+              "ToolTip": "C:\\Users\\lucad\\source\\repos\\Challenge - Task Management System\\TaskProcessor.cs",
+              "RelativeToolTip": "TaskProcessor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:17:37.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReportTask.cs",
+              "DocumentMoniker": "C:\\Users\\lucad\\source\\repos\\Challenge - Task Management System\\ReportTask.cs",
+              "RelativeDocumentMoniker": "ReportTask.cs",
+              "ToolTip": "C:\\Users\\lucad\\source\\repos\\Challenge - Task Management System\\ReportTask.cs",
+              "RelativeToolTip": "ReportTask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:14:41.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailTask.cs",
+              "DocumentMoniker": "C:\\Users\\lucad\\source\\repos\\Challenge - Task Management System\\EmailTask.cs",
+              "RelativeDocumentMoniker": "EmailTask.cs",
+              "ToolTip": "C:\\Users\\lucad\\source\\repos\\Challenge - Task Management System\\EmailTask.cs",
+              "RelativeToolTip": "EmailTask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:12:18.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITask.cs",
+              "DocumentMoniker": "C:\\Users\\lucad\\source\\repos\\Challenge - Task Management System\\ITask.cs",
+              "RelativeDocumentMoniker": "ITask.cs",
+              "ToolTip": "C:\\Users\\lucad\\source\\repos\\Challenge - Task Management System\\ITask.cs",
+              "RelativeToolTip": "ITask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:11:12.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucad\\source\\repos\\Challenge - Task Management System\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lucad\\source\\repos\\Challenge - Task Management System\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:10:41.035Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
