@@ -1,0 +1,7 @@
+C:\Users\lucad\source\repos\A Generic Class\bin\Debug\A Generic Class.exe.config
+C:\Users\lucad\source\repos\A Generic Class\bin\Debug\A Generic Class.exe
+C:\Users\lucad\source\repos\A Generic Class\bin\Debug\A Generic Class.pdb
+C:\Users\lucad\source\repos\A Generic Class\obj\Debug\A Generic Class.csproj.AssemblyReference.cache
+C:\Users\lucad\source\repos\A Generic Class\obj\Debug\A Generic Class.csproj.CoreCompileInputs.cache
+C:\Users\lucad\source\repos\A Generic Class\obj\Debug\A Generic Class.exe
+C:\Users\lucad\source\repos\A Generic Class\obj\Debug\A Generic Class.pdb
