@@ -1,0 +1,7 @@
+C:\Users\lucad\source\repos\Func Generic Delegate\bin\Debug\Func Generic Delegate.exe.config
+C:\Users\lucad\source\repos\Func Generic Delegate\bin\Debug\Func Generic Delegate.exe
+C:\Users\lucad\source\repos\Func Generic Delegate\bin\Debug\Func Generic Delegate.pdb
+C:\Users\lucad\source\repos\Func Generic Delegate\obj\Debug\Func Generic Delegate.csproj.AssemblyReference.cache
+C:\Users\lucad\source\repos\Func Generic Delegate\obj\Debug\Func Generic Delegate.csproj.CoreCompileInputs.cache
+C:\Users\lucad\source\repos\Func Generic Delegate\obj\Debug\Func Generic Delegate.exe
+C:\Users\lucad\source\repos\Func Generic Delegate\obj\Debug\Func Generic Delegate.pdb
