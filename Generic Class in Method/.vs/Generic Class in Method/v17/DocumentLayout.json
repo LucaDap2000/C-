@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucad\\source\\repos\\Generic Class in Method\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40B36AFC-1DD3-4D37-AC04-BED5E3DCADE2}|Generic Class in Method.csproj|c:\\users\\lucad\\source\\repos\\generic class in method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B36AFC-1DD3-4D37-AC04-BED5E3DCADE2}|Generic Class in Method.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B36AFC-1DD3-4D37-AC04-BED5E3DCADE2}|Generic Class in Method.csproj|c:\\users\\lucad\\source\\repos\\generic class in method\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B36AFC-1DD3-4D37-AC04-BED5E3DCADE2}|Generic Class in Method.csproj|solutionrelative:box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Box.cs",
+              "DocumentMoniker": "C:\\Users\\lucad\\source\\repos\\Generic Class in Method\\Box.cs",
+              "RelativeDocumentMoniker": "Box.cs",
+              "ToolTip": "C:\\Users\\lucad\\source\\repos\\Generic Class in Method\\Box.cs",
+              "RelativeToolTip": "Box.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T10:09:24.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucad\\source\\repos\\Generic Class in Method\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lucad\\source\\repos\\Generic Class in Method\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T10:04:27.403Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

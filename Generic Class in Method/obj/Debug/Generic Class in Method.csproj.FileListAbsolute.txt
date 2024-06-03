@@ -1,0 +1,7 @@
+C:\Users\lucad\source\repos\Generic Class in Method\bin\Debug\Generic Class in Method.exe.config
+C:\Users\lucad\source\repos\Generic Class in Method\bin\Debug\Generic Class in Method.exe
+C:\Users\lucad\source\repos\Generic Class in Method\bin\Debug\Generic Class in Method.pdb
+C:\Users\lucad\source\repos\Generic Class in Method\obj\Debug\Generic Class in Method.csproj.AssemblyReference.cache
+C:\Users\lucad\source\repos\Generic Class in Method\obj\Debug\Generic Class in Method.csproj.CoreCompileInputs.cache
+C:\Users\lucad\source\repos\Generic Class in Method\obj\Debug\Generic Class in Method.exe
+C:\Users\lucad\source\repos\Generic Class in Method\obj\Debug\Generic Class in Method.pdb
