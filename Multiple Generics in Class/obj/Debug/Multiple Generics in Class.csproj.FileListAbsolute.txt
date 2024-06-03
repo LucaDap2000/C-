@@ -1,0 +1,7 @@
+C:\Users\lucad\source\repos\Multiple Generics in Class\bin\Debug\Multiple Generics in Class.exe.config
+C:\Users\lucad\source\repos\Multiple Generics in Class\bin\Debug\Multiple Generics in Class.exe
+C:\Users\lucad\source\repos\Multiple Generics in Class\bin\Debug\Multiple Generics in Class.pdb
+C:\Users\lucad\source\repos\Multiple Generics in Class\obj\Debug\Multiple Generics in Class.csproj.AssemblyReference.cache
+C:\Users\lucad\source\repos\Multiple Generics in Class\obj\Debug\Multiple Generics in Class.csproj.CoreCompileInputs.cache
+C:\Users\lucad\source\repos\Multiple Generics in Class\obj\Debug\Multiple Generics in Class.exe
+C:\Users\lucad\source\repos\Multiple Generics in Class\obj\Debug\Multiple Generics in Class.pdb
