@@ -1,0 +1,7 @@
+C:\Users\lucad\source\repos\GM Without GC\bin\Debug\GM Without GC.exe.config
+C:\Users\lucad\source\repos\GM Without GC\bin\Debug\GM Without GC.exe
+C:\Users\lucad\source\repos\GM Without GC\bin\Debug\GM Without GC.pdb
+C:\Users\lucad\source\repos\GM Without GC\obj\Debug\GM Without GC.csproj.AssemblyReference.cache
+C:\Users\lucad\source\repos\GM Without GC\obj\Debug\GM Without GC.csproj.CoreCompileInputs.cache
+C:\Users\lucad\source\repos\GM Without GC\obj\Debug\GM Without GC.exe
+C:\Users\lucad\source\repos\GM Without GC\obj\Debug\GM Without GC.pdb
