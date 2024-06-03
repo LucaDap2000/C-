@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucad\\source\\repos\\Constraints For Generic Methods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE8B59E-FC85-41C2-87FD-F53DD4F8C042}|Constraints For Generic Methods.csproj|c:\\users\\lucad\\source\\repos\\constraints for generic methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE8B59E-FC85-41C2-87FD-F53DD4F8C042}|Constraints For Generic Methods.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE8B59E-FC85-41C2-87FD-F53DD4F8C042}|Constraints For Generic Methods.csproj|c:\\users\\lucad\\source\\repos\\constraints for generic methods\\comparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE8B59E-FC85-41C2-87FD-F53DD4F8C042}|Constraints For Generic Methods.csproj|solutionrelative:comparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Comparer.cs",
+              "DocumentMoniker": "C:\\Users\\lucad\\source\\repos\\Constraints For Generic Methods\\Comparer.cs",
+              "RelativeDocumentMoniker": "Comparer.cs",
+              "ToolTip": "C:\\Users\\lucad\\source\\repos\\Constraints For Generic Methods\\Comparer.cs",
+              "RelativeToolTip": "Comparer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:50:46.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucad\\source\\repos\\Constraints For Generic Methods\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lucad\\source\\repos\\Constraints For Generic Methods\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:48:55.083Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
