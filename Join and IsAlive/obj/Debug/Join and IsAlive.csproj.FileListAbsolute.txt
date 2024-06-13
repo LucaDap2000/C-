@@ -1,0 +1,7 @@
+C:\Users\lucad\source\repos\Join and IsAlive\bin\Debug\Join and IsAlive.exe.config
+C:\Users\lucad\source\repos\Join and IsAlive\bin\Debug\Join and IsAlive.exe
+C:\Users\lucad\source\repos\Join and IsAlive\bin\Debug\Join and IsAlive.pdb
+C:\Users\lucad\source\repos\Join and IsAlive\obj\Debug\Join and IsAlive.csproj.AssemblyReference.cache
+C:\Users\lucad\source\repos\Join and IsAlive\obj\Debug\Join and IsAlive.csproj.CoreCompileInputs.cache
+C:\Users\lucad\source\repos\Join and IsAlive\obj\Debug\Join and IsAlive.exe
+C:\Users\lucad\source\repos\Join and IsAlive\obj\Debug\Join and IsAlive.pdb
