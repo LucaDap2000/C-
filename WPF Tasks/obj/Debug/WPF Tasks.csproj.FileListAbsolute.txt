@@ -1,0 +1,15 @@
+C:\Users\lucad\source\repos\WPF Tasks\bin\Debug\WPF Tasks.exe.config
+C:\Users\lucad\source\repos\WPF Tasks\bin\Debug\WPF Tasks.exe
+C:\Users\lucad\source\repos\WPF Tasks\bin\Debug\WPF Tasks.pdb
+C:\Users\lucad\source\repos\WPF Tasks\obj\Debug\WPF Tasks.csproj.AssemblyReference.cache
+C:\Users\lucad\source\repos\WPF Tasks\obj\Debug\MainWindow.g.cs
+C:\Users\lucad\source\repos\WPF Tasks\obj\Debug\App.g.cs
+C:\Users\lucad\source\repos\WPF Tasks\obj\Debug\WPF Tasks_MarkupCompile.cache
+C:\Users\lucad\source\repos\WPF Tasks\obj\Debug\WPF Tasks_MarkupCompile.lref
+C:\Users\lucad\source\repos\WPF Tasks\obj\Debug\MainWindow.baml
+C:\Users\lucad\source\repos\WPF Tasks\obj\Debug\WPF Tasks.g.resources
+C:\Users\lucad\source\repos\WPF Tasks\obj\Debug\WPF_Tasks.Properties.Resources.resources
+C:\Users\lucad\source\repos\WPF Tasks\obj\Debug\WPF Tasks.csproj.GenerateResource.cache
+C:\Users\lucad\source\repos\WPF Tasks\obj\Debug\WPF Tasks.csproj.CoreCompileInputs.cache
+C:\Users\lucad\source\repos\WPF Tasks\obj\Debug\WPF Tasks.exe
+C:\Users\lucad\source\repos\WPF Tasks\obj\Debug\WPF Tasks.pdb
