@@ -1,0 +1,7 @@
+C:\Users\lucad\source\repos\Threads Basics\bin\Debug\Threads Basics.exe.config
+C:\Users\lucad\source\repos\Threads Basics\bin\Debug\Threads Basics.exe
+C:\Users\lucad\source\repos\Threads Basics\bin\Debug\Threads Basics.pdb
+C:\Users\lucad\source\repos\Threads Basics\obj\Debug\Threads Basics.csproj.AssemblyReference.cache
+C:\Users\lucad\source\repos\Threads Basics\obj\Debug\Threads Basics.csproj.CoreCompileInputs.cache
+C:\Users\lucad\source\repos\Threads Basics\obj\Debug\Threads Basics.exe
+C:\Users\lucad\source\repos\Threads Basics\obj\Debug\Threads Basics.pdb
