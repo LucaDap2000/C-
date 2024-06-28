@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucad\\source\\repos\\Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0E970E-3186-47BB-8C6C-E7F5918EC582}|CalculatorTest.csproj|c:\\users\\lucad\\source\\repos\\calculator\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B0E970E-3186-47BB-8C6C-E7F5918EC582}|CalculatorTest.csproj|solutionrelative:calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCF9A45-7D5F-4F75-8644-13AD136C7602}|..\\Web\\Web.csproj|c:\\users\\lucad\\source\\repos\\web\\controllers\\calculatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F67BDA5-76E2-423B-B4EC-FB83C53E3DB5}|..\\Domain\\Domain.csproj|c:\\users\\lucad\\source\\repos\\domain\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\lucad\\source\\repos\\Domain\\Calculator.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Calculator.cs",
+              "ToolTip": "C:\\Users\\lucad\\source\\repos\\Domain\\Calculator.cs",
+              "RelativeToolTip": "..\\Domain\\Calculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T09:46:33.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculateController.cs",
+              "DocumentMoniker": "C:\\Users\\lucad\\source\\repos\\Web\\Controllers\\CalculateController.cs",
+              "RelativeDocumentMoniker": "..\\Web\\Controllers\\CalculateController.cs",
+              "ToolTip": "C:\\Users\\lucad\\source\\repos\\Web\\Controllers\\CalculateController.cs",
+              "RelativeToolTip": "..\\Web\\Controllers\\CalculateController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T09:28:58.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\lucad\\source\\repos\\Calculator\\CalculatorTests.cs",
+              "RelativeDocumentMoniker": "CalculatorTests.cs",
+              "ToolTip": "C:\\Users\\lucad\\source\\repos\\Calculator\\CalculatorTests.cs",
+              "RelativeToolTip": "CalculatorTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T09:12:25.385Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
