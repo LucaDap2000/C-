@@ -104,5 +104,5 @@ C:\Users\lucad\source\repos\Flight\obj\Debug\net6.0\refint\Flight.dll
 C:\Users\lucad\source\repos\Flight\obj\Debug\net6.0\Flight.pdb
 C:\Users\lucad\source\repos\Flight\obj\Debug\net6.0\Flight.genruntimeconfig.cache
 C:\Users\lucad\source\repos\Flight\obj\Debug\net6.0\ref\Flight.dll
-C:\Users\lucad\source\repos\Flight\bin\Debug\net6.0\Domain2.dll
-C:\Users\lucad\source\repos\Flight\bin\Debug\net6.0\Domain2.pdb
+C:\Users\lucad\source\repos\Flight\bin\Debug\net6.0\Domain.dll
+C:\Users\lucad\source\repos\Flight\bin\Debug\net6.0\Domain.pdb

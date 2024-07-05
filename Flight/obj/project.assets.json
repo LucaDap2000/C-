@@ -1760,6 +1760,16 @@
           "build/netcoreapp3.1/xunit.runner.visualstudio.props": {}
         }
       },
+      "Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domain.dll": {}
+        }
+      },
       "Domain.Tests/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -1768,16 +1778,6 @@
         },
         "runtime": {
           "bin/placeholder/Domain.Tests.dll": {}
-        }
-      },
-      "Domain2/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/Domain2.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Domain2.dll": {}
         }
       }
     }
@@ -5666,21 +5666,21 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
+    "Domain/1.0.0": {
+      "type": "project",
+      "path": "../Domain2/Domain.csproj",
+      "msbuildProject": "../Domain2/Domain.csproj"
+    },
     "Domain.Tests/1.0.0": {
       "type": "project",
       "path": "../Domain.Tests/Domain.Tests.csproj",
       "msbuildProject": "../Domain.Tests/Domain.Tests.csproj"
-    },
-    "Domain2/1.0.0": {
-      "type": "project",
-      "path": "../Domain2/Domain2.csproj",
-      "msbuildProject": "../Domain2/Domain2.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Domain >= 1.0.0",
       "Domain.Tests >= 1.0.0",
-      "Domain2 >= 1.0.0",
       "FluentAssertions >= 6.12.0",
       "Microsoft.NET.Test.Sdk >= 17.5.0",
       "coverlet.collector >= 3.2.0",
@@ -5724,8 +5724,8 @@
             "C:\\Users\\lucad\\source\\repos\\Domain.Tests\\Domain.Tests.csproj": {
               "projectPath": "C:\\Users\\lucad\\source\\repos\\Domain.Tests\\Domain.Tests.csproj"
             },
-            "C:\\Users\\lucad\\source\\repos\\Domain2\\Domain2.csproj": {
-              "projectPath": "C:\\Users\\lucad\\source\\repos\\Domain2\\Domain2.csproj"
+            "C:\\Users\\lucad\\source\\repos\\Domain2\\Domain.csproj": {
+              "projectPath": "C:\\Users\\lucad\\source\\repos\\Domain2\\Domain.csproj"
             }
           }
         }

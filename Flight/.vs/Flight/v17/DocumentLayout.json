@@ -3,14 +3,38 @@
   "WorkspaceRootPath": "C:\\Users\\lucad\\source\\repos\\Flight\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F337DD43-993F-4F73-8F73-5C1A67E49864}|..\\Application.Tests\\Application.Tests.csproj|c:\\users\\lucad\\source\\repos\\application.tests\\flightapplicationspecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9B9A845F-6351-4134-9958-868595E28BE4}|Flight.csproj|c:\\users\\lucad\\source\\repos\\flight\\flightspecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B9A845F-6351-4134-9958-868595E28BE4}|Flight.csproj|solutionrelative:flightspecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C38D91D4-B0A9-4DF7-9A07-9649FC4711CD}|..\\Domain2\\Domain2.csproj|c:\\users\\lucad\\source\\repos\\domain2\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{19B3DF14-CBEE-4077-A03E-323CC1EF0979}|..\\Application\\Application.csproj|c:\\users\\lucad\\source\\repos\\application\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C38D91D4-B0A9-4DF7-9A07-9649FC4711CD}|..\\Domain2\\Domain2.csproj|c:\\users\\lucad\\source\\repos\\domain2\\overbookingerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3BC11359-15D4-41D3-8774-C8F876510BA8}|..\\Data\\Data.csproj|c:\\users\\lucad\\source\\repos\\data\\entities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38D91D4-B0A9-4DF7-9A07-9649FC4711CD}|..\\Domain2\\Domain.csproj|c:\\users\\lucad\\source\\repos\\domain2\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38D91D4-B0A9-4DF7-9A07-9649FC4711CD}|..\\Domain2\\Domain.csproj|c:\\users\\lucad\\source\\repos\\domain2\\overbookingerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B3DF14-CBEE-4077-A03E-323CC1EF0979}|..\\Application\\Application.csproj|c:\\users\\lucad\\source\\repos\\application\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B3DF14-CBEE-4077-A03E-323CC1EF0979}|..\\Application\\Application.csproj|c:\\users\\lucad\\source\\repos\\application\\bookrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B3DF14-CBEE-4077-A03E-323CC1EF0979}|..\\Application\\Application.csproj|c:\\users\\lucad\\source\\repos\\application\\cancelbookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38D91D4-B0A9-4DF7-9A07-9649FC4711CD}|..\\Domain2\\Domain.csproj|c:\\users\\lucad\\source\\repos\\domain2\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38D91D4-B0A9-4DF7-9A07-9649FC4711CD}|..\\Domain2\\Domain.csproj|c:\\users\\lucad\\source\\repos\\domain2\\bookingnotfounderror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,43 +44,147 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "Entities.cs",
+              "DocumentMoniker": "C:\\Users\\lucad\\source\\repos\\Data\\Entities.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Entities.cs",
+              "ToolTip": "C:\\Users\\lucad\\source\\repos\\Data\\Entities.cs",
+              "RelativeToolTip": "..\\Data\\Entities.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:29:05.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CancelBookingDto.cs",
+              "DocumentMoniker": "C:\\Users\\lucad\\source\\repos\\Application\\CancelBookingDto.cs",
+              "RelativeDocumentMoniker": "..\\Application\\CancelBookingDto.cs",
+              "ToolTip": "C:\\Users\\lucad\\source\\repos\\Application\\CancelBookingDto.cs",
+              "RelativeToolTip": "..\\Application\\CancelBookingDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T14:19:13.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookRm.cs",
+              "DocumentMoniker": "C:\\Users\\lucad\\source\\repos\\Application\\BookRm.cs",
+              "RelativeDocumentMoniker": "..\\Application\\BookRm.cs",
+              "ToolTip": "C:\\Users\\lucad\\source\\repos\\Application\\BookRm.cs",
+              "RelativeToolTip": "..\\Application\\BookRm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:19:49.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "C:\\Users\\lucad\\source\\repos\\Application\\BookDto.cs",
+              "RelativeDocumentMoniker": "..\\Application\\BookDto.cs",
+              "ToolTip": "C:\\Users\\lucad\\source\\repos\\Application\\BookDto.cs",
+              "RelativeToolTip": "..\\Application\\BookDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:19:24.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "C:\\Users\\lucad\\source\\repos\\Application\\BookingService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\BookingService.cs",
+              "ToolTip": "C:\\Users\\lucad\\source\\repos\\Application\\BookingService.cs",
+              "RelativeToolTip": "..\\Application\\BookingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:27:28.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FlightApplicationSpecifications.cs",
+              "DocumentMoniker": "C:\\Users\\lucad\\source\\repos\\Application.Tests\\FlightApplicationSpecifications.cs",
+              "RelativeDocumentMoniker": "..\\Application.Tests\\FlightApplicationSpecifications.cs",
+              "ToolTip": "C:\\Users\\lucad\\source\\repos\\Application.Tests\\FlightApplicationSpecifications.cs",
+              "RelativeToolTip": "..\\Application.Tests\\FlightApplicationSpecifications.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAD4vxEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:27:12.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookingNotFoundError.cs",
+              "DocumentMoniker": "C:\\Users\\lucad\\source\\repos\\Domain2\\BookingNotFoundError.cs",
+              "RelativeDocumentMoniker": "..\\Domain2\\BookingNotFoundError.cs",
+              "ToolTip": "C:\\Users\\lucad\\source\\repos\\Domain2\\BookingNotFoundError.cs",
+              "RelativeToolTip": "..\\Domain2\\BookingNotFoundError.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:11:17.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\lucad\\source\\repos\\Domain2\\Booking.cs",
+              "RelativeDocumentMoniker": "..\\Domain2\\Booking.cs",
+              "ToolTip": "C:\\Users\\lucad\\source\\repos\\Domain2\\Booking.cs",
+              "RelativeToolTip": "..\\Domain2\\Booking.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T08:40:31.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Flight.cs",
               "DocumentMoniker": "C:\\Users\\lucad\\source\\repos\\Domain2\\Flight.cs",
               "RelativeDocumentMoniker": "..\\Domain2\\Flight.cs",
               "ToolTip": "C:\\Users\\lucad\\source\\repos\\Domain2\\Flight.cs",
               "RelativeToolTip": "..\\Domain2\\Flight.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-28T13:31:37.333Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "OverbookingError.cs",
               "DocumentMoniker": "C:\\Users\\lucad\\source\\repos\\Domain2\\OverbookingError.cs",
               "RelativeDocumentMoniker": "..\\Domain2\\OverbookingError.cs",
               "ToolTip": "C:\\Users\\lucad\\source\\repos\\Domain2\\OverbookingError.cs",
               "RelativeToolTip": "..\\Domain2\\OverbookingError.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-28T13:23:43.286Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FlightSpecifications.cs",
               "DocumentMoniker": "C:\\Users\\lucad\\source\\repos\\Flight\\FlightSpecifications.cs",
               "RelativeDocumentMoniker": "FlightSpecifications.cs",
               "ToolTip": "C:\\Users\\lucad\\source\\repos\\Flight\\FlightSpecifications.cs",
               "RelativeToolTip": "FlightSpecifications.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAjAAAA",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwFIAAABtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-28T12:55:29.063Z",
               "EditorCaption": ""

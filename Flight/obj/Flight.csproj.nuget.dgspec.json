@@ -69,12 +69,12 @@
         }
       }
     },
-    "C:\\Users\\lucad\\source\\repos\\Domain2\\Domain2.csproj": {
+    "C:\\Users\\lucad\\source\\repos\\Domain2\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucad\\source\\repos\\Domain2\\Domain2.csproj",
-        "projectName": "Domain2",
-        "projectPath": "C:\\Users\\lucad\\source\\repos\\Domain2\\Domain2.csproj",
+        "projectUniqueName": "C:\\Users\\lucad\\source\\repos\\Domain2\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "C:\\Users\\lucad\\source\\repos\\Domain2\\Domain.csproj",
         "packagesPath": "C:\\Users\\lucad\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\lucad\\source\\repos\\Domain2\\obj\\",
         "projectStyle": "PackageReference",
@@ -166,8 +166,8 @@
               "C:\\Users\\lucad\\source\\repos\\Domain.Tests\\Domain.Tests.csproj": {
                 "projectPath": "C:\\Users\\lucad\\source\\repos\\Domain.Tests\\Domain.Tests.csproj"
               },
-              "C:\\Users\\lucad\\source\\repos\\Domain2\\Domain2.csproj": {
-                "projectPath": "C:\\Users\\lucad\\source\\repos\\Domain2\\Domain2.csproj"
+              "C:\\Users\\lucad\\source\\repos\\Domain2\\Domain.csproj": {
+                "projectPath": "C:\\Users\\lucad\\source\\repos\\Domain2\\Domain.csproj"
               }
             }
           }
